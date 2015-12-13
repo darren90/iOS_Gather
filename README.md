@@ -17,12 +17,12 @@
 
  ### iOS
 
-* [码农周刊的总结](https://github.com/nemoTyrant/manong#IOS)覆盖很广
-* [调调的](http://ioser.org/)很多开发相关内容都有体现
+* [码农周刊的总结](https://github.com/nemoTyrant/manong#IOS) - 覆盖很广
+* [调调的](http://ioser.org/) - 很多开发相关内容都有体现
 	
-* [右滑返回的解决](http://strivingboy.github.io/blog/2014/12/07/ios7-interactive-pop-with-custom-back-button/)自定义了左边的返回键，导致右滑返回失效
+* [右滑返回的解决](http://strivingboy.github.io/blog/2014/12/07/ios7-interactive-pop-with-custom-back-button/) - 自定义了左边的返回键，导致右滑返回失效
  
-* [DLSlideView](https://github.com/agdsdl/DLSlideView)顶部TabPage滑动 
+* [DLSlideView](https://github.com/agdsdl/DLSlideView) - 顶部TabPage滑动 
 	
 * [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
 * [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
@@ -39,11 +39,11 @@
 
 
 * ### Xcode
-	-[Xcode升级,插件无法使用的修复方法](http://www.cnblogs.com/fengtengfei/p/4678146.html)这是总结的升级版的策略
+	-[Xcode升级,插件无法使用的修复方法](http://www.cnblogs.com/fengtengfei/p/4678146.html) - 这是总结的升级版的策略
 	
 * ### Mac
 	
-	[Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)配置一个高效的 Mac 工作环境
+	[Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - 配置一个高效的 Mac 工作环境
 	
 	
 	
