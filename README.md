@@ -23,9 +23,13 @@
 * [右滑返回的解决](http://strivingboy.github.io/blog/2014/12/07/ios7-interactive-pop-with-custom-back-button/) - 自定义了左边的返回键，导致右滑返回失效
  
 * [DLSlideView](https://github.com/agdsdl/DLSlideView) - 顶部TabPage滑动 
-	
+* [进度条（圆形）] (https://github.com/a20251313/MDRadialProgress)
+* [游戏泡泡](https://github.com/KittenYang/KYFloatingBubble)
+* [Round Corner](https://github.com/mapedd/TKRoundedView)
+* [点赞](https://github.com/matthewcheok/MCFireworksButton)
+* [星星评分](https://github.com/TinyQ/TQStarRatingView)
 
-
+ 
 * [cocoacats ](http://cocoacats.com/) - 分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。。
 
 * [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
