@@ -27,14 +27,16 @@
 * [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
 * [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
 
-##### 模糊效果
+####开源项目
 
 * [豆瓣开源](http://www.dongwm.com/archives/codekai-yuan-liao/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [PHPHub开源](http://segmentfault.com/a/1190000004097502?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 	
 
-#### 开源项目
-	
+#### 多线程
+* [iOS中的多线程](http://my.oschina.net/aofe/blog/270093#OSC_h2_3)
+* [GCD](http://blog.csdn.net/q199109106q/article/details/8566300)
+* [GCD2](http://www.cnblogs.com/pure/archive/2013/03/31/2977420.html)
 
 
 
