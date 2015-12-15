@@ -29,6 +29,7 @@
 * [点赞](https://github.com/matthewcheok/MCFireworksButton)
 * [星星评分](https://github.com/TinyQ/TQStarRatingView)
 * [抽屉界面](https://github.com/JPluto/DDMenuController) - 侧边栏界面，非常的好用
+* [启动页](https://github.com/IFTTT/JazzHands) - 新特性的启动页面，酷炫
 
  
 * [cocoacats ](http://cocoacats.com/) - 分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。。
