@@ -30,6 +30,13 @@
 * [星星评分](https://github.com/TinyQ/TQStarRatingView)
 * [抽屉界面](https://github.com/JPluto/DDMenuController) - 侧边栏界面，非常的好用
 * [启动页](https://github.com/IFTTT/JazzHands) - 新特性的启动页面，酷炫
+* [TableviewCell左滑菜单](http://www.cocoachina.com/ios/20151118/14243.html) - [库文件](https://github.com/JazysYu/JZTableViewRowAction)
+
+
+
+
+
+
 
  
 * [cocoacats ](http://cocoacats.com/) - 分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。。
