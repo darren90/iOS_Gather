@@ -31,6 +31,7 @@
 * [抽屉界面](https://github.com/JPluto/DDMenuController) - 侧边栏界面，非常的好用
 * [启动页](https://github.com/IFTTT/JazzHands) - 新特性的启动页面，酷炫
 * [TableviewCell左滑菜单](http://www.cocoachina.com/ios/20151118/14243.html) - [库文件](https://github.com/JazysYu/JZTableViewRowAction)
+* [Masonry非常优秀的autolayout纯代码的库](https://github.com/SnapKit/Masonry)，[介绍文章](http://www.cocoachina.com/ios/20141219/10702.html)
 
 
 
