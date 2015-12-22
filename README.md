@@ -33,6 +33,7 @@
 * [TableviewCell左滑菜单](http://www.cocoachina.com/ios/20151118/14243.html) - [库文件](https://github.com/JazysYu/JZTableViewRowAction)
 * [Masonry非常优秀的autolayout纯代码的库](https://github.com/SnapKit/Masonry)，[介绍文章](http://www.cocoachina.com/ios/20141219/10702.html)
 * [Realm](http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/) - SQLite 和 Core Data的完美替代
+* [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - UILable 的改进，支持 NSAttributedStrings
 
 
 
