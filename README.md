@@ -41,6 +41,9 @@
 
 
 
+*[搜索GitHub](http://thesearch.im/?utm_source=next.36kr.com) - 一处搜索来自 PH，DN，HN，Github 上的信息 
+
+
  
 * [cocoacats ](http://cocoacats.com/) - 分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。。
 
