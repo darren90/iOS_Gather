@@ -35,6 +35,7 @@
 * [Realm](http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/) - SQLite 和 Core Data的完美替代
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - UILable 的改进，支持 NSAttributedStrings
 * [SMPageControl](https://github.com/Spaceman-Labs/SMPageControl) - 好用的各式各样的Pagecontrol
+* [SSKeychain](https://github.com/soffes/sskeychain) - 轻量级iOS安全框架
 
 
 
