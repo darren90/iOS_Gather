@@ -36,6 +36,7 @@
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - UILable 的改进，支持 NSAttributedStrings
 * [SMPageControl](https://github.com/Spaceman-Labs/SMPageControl) - 好用的各式各样的Pagecontrol
 * [SSKeychain](https://github.com/soffes/sskeychain) - 轻量级iOS安全框架
+* [iVersion](https://github.com/nicklockwood/iVersion) - 检测更新
 
 
 
