@@ -39,6 +39,7 @@
 * [iVersion](https://github.com/nicklockwood/iVersion) - 检测更新
 * [TMCache](https://github.com/tumblr/TMCache) - 对iOS和OS X对象快速并行的缓存
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - 跑马灯效果
+* [SDCAlertView](https://github.com/sberrevoets/SDCAlertView)对UIAlertView进行像素到像素的克隆的基础上添加了一个contentView特性
 
 
 
