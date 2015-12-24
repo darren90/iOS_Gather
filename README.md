@@ -38,6 +38,7 @@
 * [SSKeychain](https://github.com/soffes/sskeychain) - 轻量级iOS安全框架
 * [iVersion](https://github.com/nicklockwood/iVersion) - 检测更新
 * [TMCache](https://github.com/tumblr/TMCache) - 对iOS和OS X对象快速并行的缓存
+* [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - 跑马灯效果
 
 
 
