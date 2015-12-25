@@ -43,6 +43,8 @@
 * [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton) - UIButton 的分类，实现了扁平化设计和额外的方法用来设置图标+文本的样式
 * [UIImage+BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) - UIImage的封装方法，可以模糊UIImage上的任意区域。
 * [IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo) - iOS动画Demo小集合
+* [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton) - DWBubbleMenuButton 钉钉的效果
+* [DWBubbleMenuButton.swoft](https://github.com/feiin/DWBubbleMenuButton.Swift)- DWBubbleMenuButton 钉钉的效果swift版本
 
 
 
