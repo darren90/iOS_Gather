@@ -41,6 +41,7 @@
 * [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel) - 跑马灯效果
 * [SDCAlertView](https://github.com/sberrevoets/SDCAlertView)对UIAlertView进行像素到像素的克隆的基础上添加了一个contentView特性
 * [PPiAwesomeButton](https://github.com/pepibumur/PPiAwesomeButton) - UIButton 的分类，实现了扁平化设计和额外的方法用来设置图标+文本的样式
+* [UIImage+BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) - UIImage的封装方法，可以模糊UIImage上的任意区域。
 
 
 
