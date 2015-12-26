@@ -23,11 +23,11 @@
 * [右滑返回的解决](http://strivingboy.github.io/blog/2014/12/07/ios7-interactive-pop-with-custom-back-button/) - 自定义了左边的返回键，导致右滑返回失效
  
 * [DLSlideView](https://github.com/agdsdl/DLSlideView) - 顶部TabPage滑动 
-* [进度条（圆形）] (https://github.com/a20251313/MDRadialProgress)
+* [进度条（圆形）] (https://github.com/a20251313/MDRadialProgress) - 好用的进度条
 * [游戏泡泡](https://github.com/KittenYang/KYFloatingBubble)
-* [Round Corner](https://github.com/mapedd/TKRoundedView)
-* [点赞](https://github.com/matthewcheok/MCFireworksButton)
-* [星星评分](https://github.com/TinyQ/TQStarRatingView)
+* [Round Corner](https://github.com/mapedd/TKRoundedView) - 圆角
+* [点赞](https://github.com/matthewcheok/MCFireworksButton) - 点赞的效果
+* [星星评分](https://github.com/TinyQ/TQStarRatingView) - 评分界面
 * [抽屉界面](https://github.com/JPluto/DDMenuController) - 侧边栏界面，非常的好用
 * [启动页](https://github.com/IFTTT/JazzHands) - 新特性的启动页面，酷炫
 * [TableviewCell左滑菜单](http://www.cocoachina.com/ios/20151118/14243.html) - [库文件](https://github.com/JazysYu/JZTableViewRowAction)
@@ -46,6 +46,7 @@
 * [DWBubbleMenuButton](https://github.com/dwalker39/DWBubbleMenuButton) - DWBubbleMenuButton 钉钉的效果
 * [DWBubbleMenuButton.swoft](https://github.com/feiin/DWBubbleMenuButton.Swift)- DWBubbleMenuButton 钉钉的效果swift版本
 * [MCFireworksButton](https://github.com/matthewcheok/MCFireworksButton) - 点赞掉渣的效果，调调的。
+* [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit) - UIImage 图像处理方法，包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving
 
 
 
