@@ -11,6 +11,7 @@
 * [Xcode](#Xcode)
 	
 * [Mac](#Mac)
+* [其他](#其他)
 
 ## 内容
 
@@ -55,14 +56,7 @@
 
 
 
-*[搜索GitHub](http://thesearch.im/?utm_source=next.36kr.com) - 一处搜索来自 PH，DN，HN，Github 上的信息 
 
-
- 
-* [cocoacats ](http://cocoacats.com/) - 分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。。
-
-* [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
-* [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
 
 #### 开源项目
 
@@ -83,7 +77,20 @@
 #### Mac
 	
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - 配置一个高效的 Mac 工作环境
+
+#### 其他
+
 	
-[翻墙](https://www.fyvps.com/shadow.html)
+- [翻墙](https://www.fyvps.com/shadow.html)
+
+- [搜索GitHub](http://thesearch.im/?utm_source=next.36kr.com) - 一处搜索来自 PH，DN，HN，Github 上的信息 
+
+
+ 
+- [cocoacats ](http://cocoacats.com/) - 分类汇总】里面收集了 iOS 中常用的分类文件，一直在更新。。
+
+- [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
+- [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
+
 	
 		
