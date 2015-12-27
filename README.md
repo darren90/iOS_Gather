@@ -52,6 +52,8 @@
 * [MMMarkdown](https://github.com/mdiep/MMMarkdown) - 静态库用于将Markdown转换HTML
 * [BlocksKit](https://github.com/zwaldowski/BlocksKit) - 对Cocoa类的一个扩展，是一个blocks的大杂碎
 * [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) - 是一个下拉键盘在iOS移动文本字段的通用解决方案
+* [Masonry](https://github.com/SnapKit/Masonry) - 新特性动画
+
 
 
 
