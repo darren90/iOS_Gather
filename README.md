@@ -57,6 +57,7 @@
 * [Masonry](https://github.com/SnapKit/Masonry) - 新特性动画
 * [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel) - 富文本Label
 * [YYKit](https://github.com/ibireme/YYKit) - YY系列绝对属于力作，值得推荐
+* [UICollectionViewLeftAlignedLayout](https://github.com/mokagio/UICollectionViewLeftAlignedLayout) - UICollectionViewLeftAlignedLayout 实现左对齐的视图布局效果。
 
 
  
