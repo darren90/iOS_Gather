@@ -50,6 +50,7 @@
 * [MCFireworksButton](https://github.com/matthewcheok/MCFireworksButton) - 点赞掉渣的效果，调调的。
 * [NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit) - UIImage 图像处理方法，包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving
 * [MMMarkdown](https://github.com/mdiep/MMMarkdown) - 静态库用于将Markdown转换HTML
+* [BlocksKit](https://github.com/zwaldowski/BlocksKit) - 对Cocoa类的一个扩展，是一个blocks的大杂碎
 
 
 
