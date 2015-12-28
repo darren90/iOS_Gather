@@ -59,6 +59,7 @@
 * [YYKit](https://github.com/ibireme/YYKit) - YY系列绝对属于力作，值得推荐
 * [UICollectionViewLeftAlignedLayout](https://github.com/mokagio/UICollectionViewLeftAlignedLayout) - UICollectionViewLeftAlignedLayout 实现左对齐的视图布局效果。
 * [贝塞尔曲线](https://github.com/DeveloperLx/LxThroughPointsBezier) - Draw a smooth bezier through several points you designated. The curve‘s bend level is adjustable.
+* [启动动画](https://github.com/CharlinFeng/CoreLaunch) - 快速添加启动动画
 
 
  
