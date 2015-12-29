@@ -60,6 +60,7 @@
 * [UICollectionViewLeftAlignedLayout](https://github.com/mokagio/UICollectionViewLeftAlignedLayout) - UICollectionViewLeftAlignedLayout 实现左对齐的视图布局效果。
 * [贝塞尔曲线](https://github.com/DeveloperLx/LxThroughPointsBezier) - Draw a smooth bezier through several points you designated. The curve‘s bend level is adjustable.
 * [启动动画](https://github.com/CharlinFeng/CoreLaunch) - 快速添加启动动画
+* [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)- 可自由定制的iOS底部导航控件 -[源码解读](http://www.jianshu.com/p/c1c5765baded)
 
 
  
