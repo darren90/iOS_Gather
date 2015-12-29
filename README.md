@@ -62,6 +62,7 @@
 * [启动动画](https://github.com/CharlinFeng/CoreLaunch) - 快速添加启动动画
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)- 可自由定制的iOS底部导航控件 -[源码解读](http://www.jianshu.com/p/c1c5765baded)
 
+* [抽屉DDMenuController](https://github.com/JPluto/DDMenuController) - 侧边栏
 
  
 #### Demo
