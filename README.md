@@ -63,6 +63,7 @@
 * [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)- 可自由定制的iOS底部导航控件 -[源码解读](http://www.jianshu.com/p/c1c5765baded)
 
 * [抽屉DDMenuController](https://github.com/JPluto/DDMenuController) - 侧边栏
+* [CRGradientLabel](https://github.com/chroman/CRGradientLabel) - CRGradientLabel 是自定义的 UILabel 子类，支持渐变颜色背景。
 
  
 #### Demo
