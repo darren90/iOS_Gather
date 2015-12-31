@@ -66,6 +66,7 @@
 - [CRGradientLabel](https://github.com/chroman/CRGradientLabel) - CRGradientLabel 是自定义的 UILabel 子类，支持渐变颜色背景。
 - [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) - 微信和QQ的聊天界面输入框(高度随内容变化)
 - [MVVM KVO 购物车 ](http://code.cocoachina.com/view/128713) - 计算购物车价钱
+- [iCarousel](https://github.com/nicklockwood/iCarousel) - 电影，卡片布局，调调的。
 
 
 
