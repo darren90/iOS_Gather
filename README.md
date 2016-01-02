@@ -68,7 +68,8 @@
 - [MVVM KVO 购物车 ](http://code.cocoachina.com/view/128713) - 计算购物车价钱
 - [iCarousel](https://github.com/nicklockwood/iCarousel) - 电影，卡片布局，调调的。
 - [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - 照片选择库
-- [JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) - 分享
+- [JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) - 分享界面
+- [ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager) - iOS视频播放组件
 
 
 
