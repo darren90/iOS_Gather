@@ -70,6 +70,7 @@
 - [JFImagePickerController](https://github.com/johnil/JFImagePickerController) - 照片选择库
 - [JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) - 分享界面
 - [ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager) - iOS视频播放组件
+- [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - UIWebView与JS的深度交互 - [UIWebView与JS的深度交互](http://www.cocoachina.com/ios/20150814/12985.html) - 使用介绍
 
 
 
