@@ -87,6 +87,7 @@
 
 
 
+
  
 #### Demo
 
@@ -98,6 +99,7 @@
 
 - [豆瓣开源](http://www.dongwm.com/archives/codekai-yuan-liao/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [PHPHub开源](http://segmentfault.com/a/1190000004097502?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
+- [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0/) - 知乎日报第三方源码
 	
 
 #### 多线程
