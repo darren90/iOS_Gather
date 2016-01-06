@@ -127,6 +127,7 @@
 
 #### 其他
 
+- [icon资源下载](http://iconfont.cn/) - icon资源下载地址
 	
 - [翻墙](https://www.fyvps.com/shadow.html)
 
