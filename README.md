@@ -139,6 +139,7 @@
 
 - [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
 - [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
+- [List of iOS Top 1000 Libraries](https://github.com/iamdaiyuan/ios_top_1000) - 图文版，很形象实用
 
 	
 		
