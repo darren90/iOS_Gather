@@ -5,6 +5,8 @@
 
 ## 目录
 
+- [Swift教程](#Swift教程)
+
 - [iOS教程](#iOS教程)
 
 - [iOS](#iOS)
@@ -20,6 +22,10 @@
 ## 内容
 
 ---
+
+### Swift教程
+
+- [Swift资源集合](https://github.com/ipader/SwiftGuide)
 
 ### iOS教程
 
