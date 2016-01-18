@@ -148,6 +148,7 @@
 - [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
 - [List of iOS Top 1000 Libraries](https://github.com/iamdaiyuan/ios_top_1000) - 图文版，很形象实用
 - [iOS 中级面试题](http://music4kid.github.io//ios/2016/01/07/push/) - 很全面的iOS面试题
+- [知乎上的一个怎么面试iOS工程师的问题](http://blog.csdn.net/hanangellove/article/details/45033453)
 
 	
 		
