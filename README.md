@@ -117,6 +117,7 @@
 - [PHPHub开源](http://segmentfault.com/a/1190000004097502?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0/) - 知乎日报第三方源码
 - [开源的天气项目-动画调调的](https://github.com/lichtschlag/Dazzle) - 动画调调的，调调的，
+- [SPi 双拼输入法 for iPhone](https://github.com/guoc/spi) - 调调的输入法开源
 
 	
 
