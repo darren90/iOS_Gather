@@ -120,6 +120,7 @@
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0/) - 知乎日报第三方源码
 - [开源的天气项目-动画调调的](https://github.com/lichtschlag/Dazzle) - 动画调调的，调调的，
 - [SPi 双拼输入法 for iPhone](https://github.com/guoc/spi) - 调调的输入法开源
+- [炉火餐饮系统 iPad 点餐端](https://github.com/joeshang/StoveFireiOSMenu)
 
 - 1.2 mac开源项目 
 - [Sonora](https://github.com/sonoramac/Sonora) - mac开源的音乐播放器
