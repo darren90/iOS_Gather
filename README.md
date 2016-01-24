@@ -123,6 +123,7 @@
 - [SPi 双拼输入法 for iPhone](https://github.com/guoc/spi) - 调调的输入法开源
 - [炉火餐饮系统 iPad 点餐端](https://github.com/joeshang/StoveFireiOSMenu)
 - [简书客户端](https://github.com/Wl201314/MJianshu)
+- [知乎日报iOS客户端](https://github.com/hshpy/HPYZhiHuDaily)
 
 
 
