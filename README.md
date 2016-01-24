@@ -124,6 +124,7 @@
 - [炉火餐饮系统 iPad 点餐端](https://github.com/joeshang/StoveFireiOSMenu)
 - [简书客户端](https://github.com/Wl201314/MJianshu)
 - [知乎日报iOS客户端](https://github.com/hshpy/HPYZhiHuDaily)
+- [知乎日报的Api分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90) - 知乎日报的Api分析，全面对于想写知乎日报的童鞋很有用
 
 
 
