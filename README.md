@@ -88,6 +88,7 @@
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) - UIWebView与JS的深度交互 - [UIWebView与JS的深度交互](http://www.cocoachina.com/ios/20150814/12985.html) - 使用介绍
 - [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) - tableview的上下拖动的效果实现很赞。
 - [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) -tableview的动效展示
+- [时间轴控制](http://code.cocoachina.com/view/129146) - 时间轴显示信息
 
 
 
