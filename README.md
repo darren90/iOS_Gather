@@ -91,6 +91,7 @@
 - [时间轴控制](http://code.cocoachina.com/view/129146) - 时间轴显示信息
 - [ijkplayer](http://www.oschina.net/p/ijkplayer) - 基于 ffplay 的轻量级 Android/iOS 视频播放器。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案，此方案目前已用于美拍和斗鱼 APP。
 - [Touch id](http://code.cocoachina.com/view/129182)
+- [NetworkEye](https://github.com/coderyi/NetworkEye) - 拦截iOS的调试信息
 
 
 
