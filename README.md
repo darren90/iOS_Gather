@@ -32,6 +32,7 @@
 - [使用CADisplayLink实现果冻效果动画](http://www.cocoachina.com/ios/20150320/11382.html) - 动画教程写的很赞
 - [教你iOS APP设计一稿支持iPhone5/iPhone6/Plus](http://www.uigreat.com/article-165-1.html) - 很赞iPHone适配相关的教程
 - [知乎日报的Api](https://github.com/NicholasTD07/SwiftDailyAPI)
+- [申请邓白氏码](http://www.cocoachina.com/bbs/read.php?tid=457213) - 以公司或团体名义在苹果AppStore上架APP
 
 
 #### iOS
