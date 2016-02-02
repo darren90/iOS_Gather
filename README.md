@@ -95,6 +95,7 @@
 - [NetworkEye](https://github.com/coderyi/NetworkEye) - 拦截iOS的调试信息
 - [Eleven](https://github.com/coderyi/Eleven) - iOS播放器
 - [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton) - 像AssistiveTouch一样的按钮，且可以展开，你说6不6 
+- [开眼](https://github.com/juvham/kaiyan) - 仿开眼app列表效果
 
 
 
