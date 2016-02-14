@@ -138,6 +138,7 @@
 - [视频播放](https://github.com/wangpengshuai222/avplayer) - 仿造网易新闻的视频播放界面，很6
 - [“随遇”App](https://github.com/gaowanli/PinGo) - 纯Swift编写的仿“随遇”App
 - [逗笑iOS端](https://github.com/doushiDev/ds_ios) - Swift写的又一利器
+- [iPlayer](https://github.com/Thomaszhouwu/Videos)
 
 
 
