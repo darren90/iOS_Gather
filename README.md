@@ -137,6 +137,7 @@
 - [知乎日报的Api分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90) - 知乎日报的Api分析，全面对于想写知乎日报的童鞋很有用
 - [视频播放](https://github.com/wangpengshuai222/avplayer) - 仿造网易新闻的视频播放界面，很6
 - [“随遇”App](https://github.com/gaowanli/PinGo) - 纯Swift编写的仿“随遇”App
+- [逗笑iOS端](https://github.com/doushiDev/ds_ios) - Swift写的又一利器
 
 
 
