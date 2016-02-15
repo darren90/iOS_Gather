@@ -99,6 +99,7 @@
 - [开眼](https://github.com/juvham/kaiyan) - 仿开眼app列表效果
 - [酷炫的动画Demo](https://github.com/dog047/OfflineDemo) - tableview带有标签展开 - 带有动画
 - [JTNavigationController](https://github.com/JNTian/JTNavigationController) - 一个拥有更平滑的navigationBar切换动画的NavigationController
+- [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。
 
 
 
@@ -165,6 +166,8 @@
 #### Mac
 	
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - 配置一个高效的 Mac 工作环境
+- [全新 Mac 安装指南](https://github.com/kaiye/kaiye.github.com/issues/1#rd) - 全新 Mac 安装指南
+- [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
 #### 其他
 
