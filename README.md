@@ -98,6 +98,7 @@
 - [SpreadButton](https://github.com/liuzhiyi1992/SpreadButton) - 像AssistiveTouch一样的按钮，且可以展开，你说6不6 
 - [开眼](https://github.com/juvham/kaiyan) - 仿开眼app列表效果
 - [酷炫的动画Demo](https://github.com/dog047/OfflineDemo) - tableview带有标签展开 - 带有动画
+- [JTNavigationController](https://github.com/JNTian/JTNavigationController) - 一个拥有更平滑的navigationBar切换动画的NavigationController
 
 
 
