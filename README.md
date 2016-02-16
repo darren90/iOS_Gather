@@ -101,7 +101,8 @@
 - [JTNavigationController](https://github.com/JNTian/JTNavigationController) - 一个拥有更平滑的navigationBar切换动画的NavigationController
 - [SDAutoLayout](https://github.com/gsdios/SDAutoLayout) - AutoLayout 一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。
 - [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) - 抽屉栏，侧滑栏
-- 
+- [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 表格行左右划动菜单
+- [XSportLight](https://github.com/StrongX/XSpotLight) - 快速集成新手引导的类库
 
 
 
