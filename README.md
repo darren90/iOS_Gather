@@ -192,6 +192,7 @@
 
 - [其他人的总结1](https://github.com/Tim9Liu9/TimLiu-iOS)
 - [其他人的总结2](https://github.com/JanzTam/MyGithubMark)
+- [超全！整理常用的iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) - CocoChina推荐的iOS整理
 - [iOS 资源大全](http://ios.jobbole.com/83907/#bridging) - 很全面的整理
 - [List of iOS Top 1000 Libraries](https://github.com/iamdaiyuan/ios_top_1000) - 图文版，很形象实用
 - [iOS 中级面试题](http://music4kid.github.io//ios/2016/01/07/push/) - 很全面的iOS面试题
