@@ -150,6 +150,9 @@
 - [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp)一款较为完整的会议原型应用,用Swift编写
 - [CaseAssistant](https://github.com/herrkaefer/CaseAssistant) - Sources of iOS app 眼科行医手记 (CaseAssistant) using swift
 - [看知乎](https://github.com/sheepy1/SelectionOfZhihu) -『看知乎』iOS 客户端 - [Api分析](http://www.kanzhihu.com/api-document)
+- [DouBanMeinv](https://github.com/luzefeng/DouBanMeinv) - 抓取豆瓣的信息的APP
+
+
 
 
 
