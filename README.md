@@ -103,6 +103,9 @@
 - [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) - 抽屉栏，侧滑栏
 - [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 表格行左右划动菜单
 - [XSportLight](https://github.com/StrongX/XSpotLight) - 快速集成新手引导的类库
+- [ZFSetting](https://github.com/renzifeng/ZFSetting) - 设置页面的封装
+- [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) -表格空白提示插件
+- [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - 比较不错的引导页面插件
 
 
 
