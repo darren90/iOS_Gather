@@ -141,6 +141,7 @@
 - [“随遇”App](https://github.com/gaowanli/PinGo) - 纯Swift编写的仿“随遇”App
 - [逗笑iOS端](https://github.com/doushiDev/ds_ios) - Swift写的又一利器
 - [iPlayer](https://github.com/Thomaszhouwu/Videos) - 支持搜索手机获取本地视屏、网络视频Demo  
+- [trySwiftApp](https://github.com/NatashaTheRobot/trySwiftApp)一款较为完整的会议原型应用
 
 
 
