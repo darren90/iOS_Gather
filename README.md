@@ -133,7 +133,7 @@
 
 #### 开源项目
 
-- 1.1 iOS开源项目
+####### 1.1 iOS开源项目
 
 - [豆瓣开源](http://www.dongwm.com/archives/codekai-yuan-liao/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [PHPHub开源](http://segmentfault.com/a/1190000004097502?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
@@ -162,9 +162,11 @@
 
 
 
-- 1.2 mac开源项目 
+####### 1.2 mac开源项目 
+
 - [Sonora](https://github.com/sonoramac/Sonora) - mac开源的音乐播放器
 - [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - Bilibili Mac Client 666的
+- [博客园 Mac客户端](https://github.com/LunaGao/cnblog-electron) - 博客园 Mac客户端
 	
 
 #### 多线程
