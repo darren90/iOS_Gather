@@ -107,6 +107,7 @@
 - [EAIntroView](https://github.com/ealeksandrov/EAIntroView) - 比较不错的引导页面插件
 - [NetworkEye](https://github.com/coderyi/NetworkEye) - 拦截iOS的调试信息,可以监控网络请求的内容
 - [Monkey](https://github.com/coderyi/Monkey) - a GitHub third party client for iOS,to show the rank of coders and repositories.
+- [PNChart](https://github.com/kevinzhow/PNChart) - iOS的图标lib，很炫酷
 
 
 
