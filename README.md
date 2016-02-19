@@ -156,6 +156,7 @@
 - [高仿爱鲜蜂By Swift2.0](https://github.com/ZhongTaoTian/LoveFreshBeen) - 高仿爱鲜蜂By Swift2.0
 - [Blilili](https://git.oschina.net/snowimba/LHBiliBili) - 哔哩哔哩iOS客户端源码
 - [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial)  - 非官方版“一个(ONE)”，一个比官方版更优秀的版本
+- [CTCamera](https://github.com/Mikora/CTCamera) - 自定义相机 马赛克 custom camera mosaic
 
 
 
