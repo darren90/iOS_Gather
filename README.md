@@ -109,6 +109,7 @@
 - [Monkey](https://github.com/coderyi/Monkey) - a GitHub third party client for iOS,to show the rank of coders and repositories.
 - [PNChart](https://github.com/kevinzhow/PNChart) - iOS的图标lib，很炫酷
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - OSX Finder style iOS file browser
+- [iOS标签](https://github.com/raozhizhen/SelectTag) - 支持长按删除，支持输入文本添加新标签
 
 
 
@@ -157,6 +158,7 @@
 - [Blilili](https://git.oschina.net/snowimba/LHBiliBili) - 哔哩哔哩iOS客户端源码
 - [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial)  - 非官方版“一个(ONE)”，一个比官方版更优秀的版本
 - [CTCamera](https://github.com/Mikora/CTCamera) - 自定义相机 马赛克 custom camera mosaic
+- [CYVideoPlayer](https://github.com/ZhaoBingDong/CYVideoPlayer) - 基于AVPlayer实现的iOS视频播放器
 
 
 
