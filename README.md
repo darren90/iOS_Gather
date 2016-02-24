@@ -159,7 +159,8 @@
 - [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial)  - 非官方版“一个(ONE)”，一个比官方版更优秀的版本
 - [CTCamera](https://github.com/Mikora/CTCamera) - 自定义相机 马赛克 custom camera mosaic
 - [CYVideoPlayer](https://github.com/ZhaoBingDong/CYVideoPlayer) - 基于AVPlayer实现的iOS视频播放器
-- [SuperNote](https://github.com/tangqi92/SuperNote) - 懒人笔记 一个 iOS 开源笔记 APP
+- [SuperNote](https://github.com/tangqi92/SuperNote) - 仿懒人笔记 一个 iOS 开源笔记 APP
+- [懒人笔记iOS客户端](https://github.com/liaojinxing/Voice2Note) - 懒人笔记iOS客户端
 
 
 
