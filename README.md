@@ -110,6 +110,7 @@
 - [PNChart](https://github.com/kevinzhow/PNChart) - iOS的图标lib，很炫酷
 - [FileBrowser](https://github.com/marmelroy/FileBrowser) - OSX Finder style iOS file browser
 - [iOS标签](https://github.com/raozhizhen/SelectTag) - 支持长按删除，支持输入文本添加新标签
+- [图片选择器](https://github.com/loveace/WeiXinPick) - 图片选择器
 
 
 
