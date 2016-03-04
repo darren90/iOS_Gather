@@ -166,6 +166,8 @@
 - [SuperNote](https://github.com/tangqi92/SuperNote) - 仿懒人笔记 一个 iOS 开源笔记 APP
 - [懒人笔记iOS客户端](https://github.com/liaojinxing/Voice2Note) - 懒人笔记iOS客户端
 - [Yep](https://github.com/CatchChat/Yep) - 非常小巧而轻量化的社交 App
+- [MoviePlayer](https://github.com/masterweb121/Eleven) - 据称支持很多格式的视频播放器 m4v, wmv, 3gp, mp4, mov, avi, mkv, mpeg, mpg, flv, vob format.Enter any HTTP, RTSP, RTMP, RTP address play network streaming or live.使用的是：ffmpeg.
+- [Swift版本的半塘](https://github.com/jiachenmu/Swift-BanTang) - 
 
 
 
