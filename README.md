@@ -222,6 +222,7 @@
 - [知乎上的一个怎么面试iOS工程师的问题](http://blog.csdn.net/hanangellove/article/details/45033453)
 - [iOS 开发面试问题](https://github.com/lzyy/iOS-Developer-Interview-Questions)
 - [招聘一个靠谱的 iOS](https://github.com/ChenYilong/iOSInterviewQuestions)
+- [【面试】腾讯 iOS 开发实习电话面试记录](http://www.jianshu.com/p/8e8871a9677a)
 - [iOS开发之内购-AppStore](http://yimouleng.com/2015/12/17/ios-AppStore/#u4E8C-_u6DFB_u52A0_u5185_u8D2D) - iOS开发之内购-AppStore
 
 	
