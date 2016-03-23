@@ -114,6 +114,7 @@
 - [iOS系统分享](https://github.com/nixzhu/MonkeyKing/) - 集成iOS系统分享的样式
 - [iOS加载视频背景](https://github.com/StoneLeon/STLBGVideo) - 想Uber那样的视频背景，这是[教程](http://www.jianshu.com/p/c4704c086b67)
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) - 很好用的抽屉导航
+- [NirKxMenu](https://github.com/zpz1237/NirKxMenu) - UI高度可定制化KxMenu弹出菜单,微信那样的
 
 
 
@@ -224,6 +225,7 @@
 - [招聘一个靠谱的 iOS](https://github.com/ChenYilong/iOSInterviewQuestions)
 - [【面试】腾讯 iOS 开发实习电话面试记录](http://www.jianshu.com/p/8e8871a9677a)
 - [iOS开发之内购-AppStore](http://yimouleng.com/2015/12/17/ios-AppStore/#u4E8C-_u6DFB_u52A0_u5185_u8D2D) - iOS开发之内购-AppStore
+- [iOS快速屏幕兼容适配](https://github.com/LFL2018/ScreenAdaptation-Rapid)
 
 	
 		
