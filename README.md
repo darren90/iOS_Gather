@@ -151,6 +151,7 @@
 - [简书客户端](https://github.com/Wl201314/MJianshu)
 - [知乎日报iOS客户端](https://github.com/hshpy/HPYZhiHuDaily)
 - [知乎日报的Api分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90) - 知乎日报的Api分析，全面对于想写知乎日报的童鞋很有用
+- [ZhiHuDaily-Swift](http://git.oschina.net/xycm/ZhiHuDaily-Swift) - 用Swift写的知乎日报
 - [视频播放](https://github.com/wangpengshuai222/avplayer) - 仿造网易新闻的视频播放界面，很6
 - [“随遇”App](https://github.com/gaowanli/PinGo) - 纯Swift编写的仿“随遇”App
 - [逗笑iOS端](https://github.com/doushiDev/ds_ios) - Swift写的又一利器
@@ -226,6 +227,7 @@
 - [【面试】腾讯 iOS 开发实习电话面试记录](http://www.jianshu.com/p/8e8871a9677a)
 - [iOS开发之内购-AppStore](http://yimouleng.com/2015/12/17/ios-AppStore/#u4E8C-_u6DFB_u52A0_u5185_u8D2D) - iOS开发之内购-AppStore
 - [iOS快速屏幕兼容适配](https://github.com/LFL2018/ScreenAdaptation-Rapid)
+- [iOS9适配系列教程](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9的适配教程
 
 	
 		
