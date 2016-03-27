@@ -229,5 +229,9 @@
 - [iOS快速屏幕兼容适配](https://github.com/LFL2018/ScreenAdaptation-Rapid)
 - [iOS9适配系列教程](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9的适配教程
 
-	
+#### Swift学习
+
+-[iOS开发完全自学资源集合](http://www.jianshu.com/p/d70041eb25d7)	
+
+
 		
