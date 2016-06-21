@@ -204,6 +204,7 @@
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
 #### 其他
+- [简历](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF
 
 - [icon资源下载](http://iconfont.cn/) - icon资源下载地址
 	
