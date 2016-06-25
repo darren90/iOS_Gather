@@ -171,6 +171,7 @@
 - [MoviePlayer](https://github.com/masterweb121/Eleven) - 据称支持很多格式的视频播放器 m4v, wmv, 3gp, mp4, mov, avi, mkv, mpeg, mpg, flv, vob format.Enter any HTTP, RTSP, RTMP, RTP address play network streaming or live.使用的是：ffmpeg.
 - [Swift版本的半塘](https://github.com/jiachenmu/Swift-BanTang) - Swift版本的半塘客户端
 - [获取视频源文件地址Video-Downloader](https://github.com/EvilCult/Video-Downloader) - 获取youku,letv,sohu,tudou,bilibili,acfun,iqiyi等视频源文件地址，提供mac&win&linux独立App。
+- [音乐播放器](https://github.com/wzpziyi1/MusicPlauer) - 带有歌词的音乐播放器
 
 
 
