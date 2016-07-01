@@ -231,6 +231,7 @@
 - [iOS快速屏幕兼容适配](https://github.com/LFL2018/ScreenAdaptation-Rapid)
 - [iOS9适配系列教程](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9的适配教程
 - [一位勤奋的大牛的博客](http://xiongzenghuidegithub.github.io/blog/archives/)- 勤奋到不是在写博客，就是在写博客的路上
+- [JSPatch](https://github.com/bang590/JSPatch) - 简直是神器，热修复线上的bug。调调的
 
 #### Swift学习
 
