@@ -115,6 +115,7 @@
 - [iOS加载视频背景](https://github.com/StoneLeon/STLBGVideo) - 想Uber那样的视频背景，这是[教程](http://www.jianshu.com/p/c4704c086b67)
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) - 很好用的抽屉导航
 - [NirKxMenu](https://github.com/zpz1237/NirKxMenu) - UI高度可定制化KxMenu弹出菜单,微信那样的
+- [iOS-System-Service](https://github.com/Shmoopi/iOS-System-Services) - 获取iOS开发中，常用的设置信息，
 
 
 
