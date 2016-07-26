@@ -115,7 +115,6 @@
 - [iOS加载视频背景](https://github.com/StoneLeon/STLBGVideo) - 想Uber那样的视频背景，这是[教程](http://www.jianshu.com/p/c4704c086b67)
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) - 很好用的抽屉导航
 - [NirKxMenu](https://github.com/zpz1237/NirKxMenu) - UI高度可定制化KxMenu弹出菜单,微信那样的
-- [iOS-System-Service](https://github.com/Shmoopi/iOS-System-Services) - 获取iOS开发中，常用的设置信息，
 
 
 
@@ -174,6 +173,7 @@
 - [获取视频源文件地址Video-Downloader](https://github.com/EvilCult/Video-Downloader) - 获取youku,letv,sohu,tudou,bilibili,acfun,iqiyi等视频源文件地址，提供mac&win&linux独立App。
 - [音乐播放器](https://github.com/wzpziyi1/MusicPlauer) - 带有歌词的音乐播放器
 - [一个基于VLC的万能播放器](https://github.com/Maru-zhang/MRVLCPlayer) - 支持格式：.mkv .rmvb .asf .avi .divx .dv .flv .gxf .m1v .m2v .m2ts .m4v .mkv .mov .mp2 .mp4 .mpeg .mpeg1 .mpeg2 .mpeg4 .mpg .mts .mxf .ogg .ogm .ps .ts .vob .wmv .a52 .aac .ac3 .dts .flac .m4a .m4p .mka .mod .mp1 .mp2 .mp3 *.ogg.
+- [基于Core Text实现的iOS客户端的电子书阅读器](https://github.com/GGGHub/Reader) - 基于Core Text实现的iOS客户端的电子书阅读器
 
 
 
