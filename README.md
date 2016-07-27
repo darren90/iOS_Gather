@@ -115,6 +115,9 @@
 - [iOS加载视频背景](https://github.com/StoneLeon/STLBGVideo) - 想Uber那样的视频背景，这是[教程](http://www.jianshu.com/p/c4704c086b67)
 - [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) - 很好用的抽屉导航
 - [NirKxMenu](https://github.com/zpz1237/NirKxMenu) - UI高度可定制化KxMenu弹出菜单,微信那样的
+- [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - 带遮罩效果的 SegmentSwitch 组件
+- [iOS 弹性菜单展开效果](https://github.com/Desgard/DGExpandMenuButton) - iOS 弹性菜单展开效果
+- [一款支持 Item 动画的 Dropdown 菜单](https://github.com/Cokile/CCDropDownMenu) - 一款支持 Item 动画的 Dropdown 选择 菜单
 
 
 
