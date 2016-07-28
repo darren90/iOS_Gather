@@ -177,6 +177,13 @@
 - [音乐播放器](https://github.com/wzpziyi1/MusicPlauer) - 带有歌词的音乐播放器
 - [一个基于VLC的万能播放器](https://github.com/Maru-zhang/MRVLCPlayer) - 支持格式：.mkv .rmvb .asf .avi .divx .dv .flv .gxf .m1v .m2v .m2ts .m4v .mkv .mov .mp2 .mp4 .mpeg .mpeg1 .mpeg2 .mpeg4 .mpg .mts .mxf .ogg .ogm .ps .ts .vob .wmv .a52 .aac .ac3 .dts .flac .m4a .m4p .mka .mod .mp1 .mp2 .mp3 *.ogg.
 - [基于Core Text实现的iOS客户端的电子书阅读器](https://github.com/GGGHub/Reader) - 基于Core Text实现的iOS客户端的电子书阅读器
+- [二维码扫描](https://github.com/MxABC/LBXScan) - A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)
+
+
+
+
+
+
 
 
 
