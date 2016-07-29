@@ -178,6 +178,7 @@
 - [一个基于VLC的万能播放器](https://github.com/Maru-zhang/MRVLCPlayer) - 支持格式：.mkv .rmvb .asf .avi .divx .dv .flv .gxf .m1v .m2v .m2ts .m4v .mkv .mov .mp2 .mp4 .mpeg .mpeg1 .mpeg2 .mpeg4 .mpg .mts .mxf .ogg .ogm .ps .ts .vob .wmv .a52 .aac .ac3 .dts .flac .m4a .m4p .mka .mod .mp1 .mp2 .mp3 *.ogg.
 - [基于Core Text实现的iOS客户端的电子书阅读器](https://github.com/GGGHub/Reader) - 基于Core Text实现的iOS客户端的电子书阅读器
 - [二维码扫描](https://github.com/MxABC/LBXScan) - A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)
+- [高仿bilibili项目](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - 高仿bilibili项目
 
 
 
@@ -243,6 +244,7 @@
 - [iOS9适配系列教程](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9的适配教程
 - [一位勤奋的大牛的博客](http://xiongzenghuidegithub.github.io/blog/archives/)- 勤奋到不是在写博客，就是在写博客的路上
 - [JSPatch](https://github.com/bang590/JSPatch) - 简直是神器，热修复线上的bug。调调的
+- [iOS学习资料整理](https://github.com/zhouhuanqiang/LearningIOS) - iOS学习资料整理
 
 #### Swift学习
 
