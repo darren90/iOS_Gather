@@ -185,6 +185,7 @@
 - [基于Core Text实现的iOS客户端的电子书阅读器](https://github.com/GGGHub/Reader) - 基于Core Text实现的iOS客户端的电子书阅读器
 - [二维码扫描](https://github.com/MxABC/LBXScan) - A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)
 - [高仿bilibili项目](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - 高仿bilibili项目
+- [iOS视频直播](https://github.com/ChinaArJun/Tencent-NOW) - iOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似映客直播类型
 
 
 
