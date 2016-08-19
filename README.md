@@ -123,10 +123,8 @@
 - [超棒的 React 组件收集](https://github.com/brillout/awesome-react-components#ui-components)
 - [iOS 蓝牙工具封装库，让你更容易的操作蓝牙](https://github.com/rhummelmose/BluetoothKit)
 - [iOS-Development Podcasts](https://github.com/vermont42/Podcasts) - iOS开发者要听的Podcasts
-
-
-
-
+- [LBXScan](https://github.com/MxABC/LBXScan) - ios 二维码、条形码
+ 
 
 
 
