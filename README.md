@@ -186,6 +186,7 @@
 - [二维码扫描](https://github.com/MxABC/LBXScan) - A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装)
 - [高仿bilibili项目](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - 高仿bilibili项目
 - [iOS视频直播](https://github.com/ChinaArJun/Tencent-NOW) - iOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似映客直播类型
+- [Swift模仿的今日头条](https://github.com/hrscy/TodayNews) - Swift开源项目-模仿今日头条
 
 
 
