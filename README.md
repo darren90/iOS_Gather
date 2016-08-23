@@ -126,10 +126,13 @@
 - [LBXScan](https://github.com/MxABC/LBXScan) - ios 二维码、条形码
 - [Swift 实现：利用 OCR 实现拍照识别身份证信息，比如股票开户，P2P App 身份验证都需要类似功能](https://github.com/KevinGong2013/ChineseIDCardOCR)
 - [Feedback 工具箱，帮助开发者快速实现用户反馈功能](https://github.com/nishimao/FeedbackKit)
+- [可扩展按钮效果](https://github.com/vladislav-k/VKExpandableButton)
+- [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) - 功能类似半糖首页菜单与QQ音乐歌曲列表页面。即支持UITableview的上下滚动，同时也支持不同列表之间的滑动切换
  
 
 
 
+ 
 
 
 
@@ -199,6 +202,7 @@
 - [高仿bilibili项目](https://github.com/MichaelHuyp/Bilibili_Wuxianda) - 高仿bilibili项目
 - [iOS视频直播](https://github.com/ChinaArJun/Tencent-NOW) - iOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似映客直播类型
 - [Swift模仿的今日头条](https://github.com/hrscy/TodayNews) - Swift开源项目-模仿今日头条
+- [GaGaMall](https://github.com/jiangqqlmj/GaGaMall) - React Native开发嘎嘎商城客户端 http://www.lcode.org/
 
 
 
