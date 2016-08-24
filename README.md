@@ -248,6 +248,8 @@
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - 配置一个高效的 Mac 工作环境
 - [全新 Mac 安装指南](https://github.com/kaiye/kaiye.github.com/issues/1#rd) - 全新 Mac 安装指南
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+- [This repo is a collection of awesome Mac applications and tools for developers and designers.](https://github.com/jaywcjlove/awesome-mac) - 收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师
+
 
 #### 其他
 - [简历](https://github.com/geekcompany/DeerResume) - MarkDown在线简历工具，可在线预览、编辑和生成PDF
@@ -283,5 +285,10 @@
 
 -[iOS开发完全自学资源集合](http://www.jianshu.com/p/d70041eb25d7)	
 
+
+- [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
+- [iOS应用架构谈](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+- [ios依赖管理工具：Carthage](http://www.jianshu.com/p/b5607b8b9348)
+- [使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能](http://draveness.me/asdk-rendering/)
 
 		
