@@ -130,6 +130,10 @@
 - [可扩展按钮效果](https://github.com/vladislav-k/VKExpandableButton)
 - [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) - 功能类似半糖首页菜单与QQ音乐歌曲列表页面。即支持UITableview的上下滚动，同时也支持不同列表之间的滑动切换
 - [图片遮罩转场动画效果](https://github.com/LeoMobileDeveloper/ImageMaskTransition) - 格瓦拉的效果
+- [Swift版本的图片处理库](https://github.com/StefanLage/LegofySwift)
+- [轻松监控设备屏幕亮度，实现不同操作](https://github.com/michalkonturek/ScreenBrightness)
+- [类似 iOS Task 样式的 ViewController History 效果](https://github.com/bannzai/Kaeru)
+- [超棒的图片选择器](https://github.com/hyperoslo/ImagePicker) - SWift版本的
  
 
 
@@ -205,6 +209,8 @@
 - [iOS视频直播](https://github.com/ChinaArJun/Tencent-NOW) - iOS视频直播:高仿 腾讯旗下 < NOW > 直播 类似映客直播类型
 - [Swift模仿的今日头条](https://github.com/hrscy/TodayNews) - Swift开源项目-模仿今日头条
 - [GaGaMall](https://github.com/jiangqqlmj/GaGaMall) - React Native开发嘎嘎商城客户端 http://www.lcode.org/
+- [高仿最美应用](https://github.com/lyimin/beautifulApp) - 仿作的最美应用
+- [Swift的手势密码库](https://github.com/huangboju/GesturePassword) - 手势密码的Swift版本
 
 
 
