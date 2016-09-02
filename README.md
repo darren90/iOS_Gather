@@ -129,11 +129,12 @@
 - [Feedback 工具箱，帮助开发者快速实现用户反馈功能](https://github.com/nishimao/FeedbackKit)
 - [可扩展按钮效果](https://github.com/vladislav-k/VKExpandableButton)
 - [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) - 功能类似半糖首页菜单与QQ音乐歌曲列表页面。即支持UITableview的上下滚动，同时也支持不同列表之间的滑动切换
-- [图片遮罩转场动画效果](https://github.com/LeoMobileDeveloper/ImageMaskTransition) - 格瓦拉的效果
+- [图片遮罩转场动画效果](https://github.com/LeoMobileDeveloper/ImageMaskTransition) - 格瓦拉的点击进入详情页的效果
 - [Swift版本的图片处理库](https://github.com/StefanLage/LegofySwift)
 - [轻松监控设备屏幕亮度，实现不同操作](https://github.com/michalkonturek/ScreenBrightness)
 - [类似 iOS Task 样式的 ViewController History 效果](https://github.com/bannzai/Kaeru)
 - [超棒的图片选择器](https://github.com/hyperoslo/ImagePicker) - SWift版本的
+- [ZFVoteViewDemo](https://github.com/ZFbaby/ZFVoteViewDemo) - UITableView实现格瓦拉飞天投票效果
  
 
 
