@@ -211,6 +211,8 @@
 - [GaGaMall](https://github.com/jiangqqlmj/GaGaMall) - React Native开发嘎嘎商城客户端 http://www.lcode.org/
 - [高仿最美应用](https://github.com/lyimin/beautifulApp) - 仿作的最美应用
 - [Swift的手势密码库](https://github.com/huangboju/GesturePassword) - 手势密码的Swift版本
+- [WSY_XMHelper](https://github.com/devSC/WSY_XMHelper) - 一款m3u8下载的好Demo
+- [](https://github.com/applean/react-native-cx) - 一个react的客户端。
 
 
 
@@ -300,4 +302,8 @@
 - [使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能](http://draveness.me/asdk-rendering/)
 - [支持学生优惠的那些第三方服务](https://github.com/ivmm/Student-resources)
 
+
+
+--- 下载
+- [实现项目下载需求时遇过的那些坑](http://www.cocoachina.com/ios/20150624/12242.html)
 		
