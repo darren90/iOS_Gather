@@ -135,6 +135,8 @@
 - [类似 iOS Task 样式的 ViewController History 效果](https://github.com/bannzai/Kaeru)
 - [超棒的图片选择器](https://github.com/hyperoslo/ImagePicker) - SWift版本的
 - [ZFVoteViewDemo](https://github.com/ZFbaby/ZFVoteViewDemo) - UITableView实现格瓦拉飞天投票效果
+- [视图切换及转场 ](https://github.com/naru-jpn/View2ViewTransition)
+- [iOS 滑动 Tab 效果](https://github.com/josshad/EHHorizontalSelectionView)
  
 
 
