@@ -141,6 +141,7 @@
 - [用 TextKit 显示复杂数学公式](https://github.com/kishikawakatsumi/TextKitExamples)
 - [iOS 波纹效果](https://github.com/alsedi/RippleEffectView)
 - [过渡色背景渐变 View](https://github.com/gkye/ComplimentaryGradientView)
+- [React Native 实现的图片选择器](https://github.com/ivpusic/react-native-image-crop-picker)
  
 
 
