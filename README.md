@@ -137,6 +137,10 @@
 - [ZFVoteViewDemo](https://github.com/ZFbaby/ZFVoteViewDemo) - UITableView实现格瓦拉飞天投票效果
 - [视图切换及转场 ](https://github.com/naru-jpn/View2ViewTransition)
 - [iOS 滑动 Tab 效果](https://github.com/josshad/EHHorizontalSelectionView)
+- [iPic的图片快速上传SDK](https://github.com/toolinbox/iPicUploader)
+- [用 TextKit 显示复杂数学公式](https://github.com/kishikawakatsumi/TextKitExamples)
+- [iOS 波纹效果](https://github.com/alsedi/RippleEffectView)
+- [过渡色背景渐变 View](https://github.com/gkye/ComplimentaryGradientView)
  
 
 
@@ -216,6 +220,7 @@
 - [Swift的手势密码库](https://github.com/huangboju/GesturePassword) - 手势密码的Swift版本
 - [WSY_XMHelper](https://github.com/devSC/WSY_XMHelper) - 一款m3u8下载的好Demo
 - [](https://github.com/applean/react-native-cx) - 一个react的客户端。
+- [React Native 实现的 Whatsapp](https://github.com/VctrySam/whatsapp)
 
 
 
