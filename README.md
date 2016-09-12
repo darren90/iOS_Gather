@@ -142,6 +142,7 @@
 - [iOS 波纹效果](https://github.com/alsedi/RippleEffectView)
 - [过渡色背景渐变 View](https://github.com/gkye/ComplimentaryGradientView)
 - [React Native 实现的图片选择器](https://github.com/ivpusic/react-native-image-crop-picker)
+- [一个很带感的下载按钮效果](https://github.com/Josin22/JSDownloadView)
  
 
 
@@ -222,6 +223,7 @@
 - [WSY_XMHelper](https://github.com/devSC/WSY_XMHelper) - 一款m3u8下载的好Demo
 - [](https://github.com/applean/react-native-cx) - 一个react的客户端。
 - [React Native 实现的 Whatsapp](https://github.com/VctrySam/whatsapp)
+- [用代码动态生成 PDF 的库](https://github.com/Techprimate/TPPDF)
 
 
 
@@ -250,6 +252,7 @@
 - [Sonora](https://github.com/sonoramac/Sonora) - mac开源的音乐播放器
 - [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - Bilibili Mac Client 666的
 - [博客园 Mac客户端](https://github.com/LunaGao/cnblog-electron) - 博客园 Mac客户端
+- [一个简单的番茄工作法 Mac App](https://github.com/chelseavalentine/Pomodoro)
 	
 
 #### 多线程
