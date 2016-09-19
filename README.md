@@ -254,6 +254,7 @@
 - [bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - Bilibili Mac Client 666的
 - [博客园 Mac客户端](https://github.com/LunaGao/cnblog-electron) - 博客园 Mac客户端
 - [一个简单的番茄工作法 Mac App](https://github.com/chelseavalentine/Pomodoro)
+- [12306的mac开源客户端](https://github.com/fancymax/12306ForMac)
 	
 
 #### 多线程
