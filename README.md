@@ -144,6 +144,7 @@
 - [React Native 实现的图片选择器](https://github.com/ivpusic/react-native-image-crop-picker)
 - [一个很带感的下载按钮效果](https://github.com/Josin22/JSDownloadView)
 - [iOS 输入智能提示](https://github.com/EurekaCommunity/TokenRow)
+- [基于 Swift 实现的毛笔画板](https://github.com/AfryMask/AFBrushBoard)
  
 
 
@@ -225,6 +226,7 @@
 - [](https://github.com/applean/react-native-cx) - 一个react的客户端。
 - [React Native 实现的 Whatsapp](https://github.com/VctrySam/whatsapp)
 - [用代码动态生成 PDF 的库](https://github.com/Techprimate/TPPDF)
+- [iOS上的直播Demo](https://github.com/AnyRTC/AnyRTC-RTMP) - TMP 推流器，RTMP播放器（秒开）
 
 
 
@@ -304,6 +306,7 @@
 - [一位勤奋的大牛的博客](http://xiongzenghuidegithub.github.io/blog/archives/)- 勤奋到不是在写博客，就是在写博客的路上
 - [JSPatch](https://github.com/bang590/JSPatch) - 简直是神器，热修复线上的bug。调调的
 - [iOS学习资料整理](https://github.com/zhouhuanqiang/LearningIOS) - iOS学习资料整理
+- [greatsimple.io 出品的 iOS10 GUI 模板](http://ios10.greatsimple.io/)
 
 #### Swift学习
 
