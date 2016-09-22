@@ -145,6 +145,8 @@
 - [一个很带感的下载按钮效果](https://github.com/Josin22/JSDownloadView)
 - [iOS 输入智能提示](https://github.com/EurekaCommunity/TokenRow)
 - [基于 Swift 实现的毛笔画板](https://github.com/AfryMask/AFBrushBoard)
+- [类似 iOS 10 Apple Music 和 Podcast 上的音频频谱展示效果](https://github.com/LeonardoCardoso/AudioIndicatorBars)
+- [iOS 圆形进度条效果](https://github.com/taglia3/CircularSpinner)
  
 
 
@@ -227,6 +229,8 @@
 - [React Native 实现的 Whatsapp](https://github.com/VctrySam/whatsapp)
 - [用代码动态生成 PDF 的库](https://github.com/Techprimate/TPPDF)
 - [iOS上的直播Demo](https://github.com/AnyRTC/AnyRTC-RTMP) - TMP 推流器，RTMP播放器（秒开）
+- [基于 Electron 实现的一个轻量级 Markdown 笔记本](https://github.com/AnotherNote/anote)
+- [Swift 实现的一个画中画 （ Picture in Picture ） 播放器](https://github.com/wddwycc/XDPlayer)
 
 
 
