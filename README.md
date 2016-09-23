@@ -147,6 +147,14 @@
 - [基于 Swift 实现的毛笔画板](https://github.com/AfryMask/AFBrushBoard)
 - [类似 iOS 10 Apple Music 和 Podcast 上的音频频谱展示效果](https://github.com/LeonardoCardoso/AudioIndicatorBars)
 - [iOS 圆形进度条效果](https://github.com/taglia3/CircularSpinner)
+- [View带进度条](https://github.com/MartinMoizard/Progressable)
+- [类似 Apple Music Controller 切换过程中，顶部的平滑变换效果](https://github.com/yeatse/YTPageController)
+- [让所有的 UIView UICollectionViewCell 支持浮动视差效果](https://github.com/PGSSoft/ParallaxView)
+ 
+ 
+ 
+ 
+ 
  
 
 
@@ -231,6 +239,10 @@
 - [iOS上的直播Demo](https://github.com/AnyRTC/AnyRTC-RTMP) - TMP 推流器，RTMP播放器（秒开）
 - [基于 Electron 实现的一个轻量级 Markdown 笔记本](https://github.com/AnotherNote/anote)
 - [Swift 实现的一个画中画 （ Picture in Picture ） 播放器](https://github.com/wddwycc/XDPlayer)
+
+
+
+
 
 
 
