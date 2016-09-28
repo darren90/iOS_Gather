@@ -150,7 +150,9 @@
 - [View带进度条](https://github.com/MartinMoizard/Progressable)
 - [类似 Apple Music Controller 切换过程中，顶部的平滑变换效果](https://github.com/yeatse/YTPageController)
 - [让所有的 UIView UICollectionViewCell 支持浮动视差效果](https://github.com/PGSSoft/ParallaxView)
- 
+- [iOS Cell 展开过渡效果](https://github.com/NjrSea/FlickTransition)
+- [iOS 步行数小插件](https://github.com/Wildog/iOS-10-Steps-Widget)
+- [开发一个iMessage表情包](https://boxueio.com/series/how-do-i-in-ios10/ebook/112) 
  
  
  
