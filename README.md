@@ -153,6 +153,8 @@
 - [iOS Cell 展开过渡效果](https://github.com/NjrSea/FlickTransition)
 - [iOS 步行数小插件](https://github.com/Wildog/iOS-10-Steps-Widget)
 - [开发一个iMessage表情包](https://boxueio.com/series/how-do-i-in-ios10/ebook/112) 
+- [利用 UISegmentedControl 实现的滑块儿 Tab 效果](https://github.com/zvonicek/ImageSlideshow)
+- [Swift Image Show 滑动效果](https://github.com/twicketapp/TwicketSegmentedControl)
  
  
  
