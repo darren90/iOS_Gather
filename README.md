@@ -155,6 +155,7 @@
 - [开发一个iMessage表情包](https://boxueio.com/series/how-do-i-in-ios10/ebook/112) 
 - [利用 UISegmentedControl 实现的滑块儿 Tab 效果](https://github.com/zvonicek/ImageSlideshow)
 - [Swift Image Show 滑动效果](https://github.com/twicketapp/TwicketSegmentedControl)
+- [漂亮的 Chart 小框架](https://github.com/GeorgeWang03/WYChart)
  
  
  
