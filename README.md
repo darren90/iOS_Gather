@@ -156,6 +156,8 @@
 - [利用 UISegmentedControl 实现的滑块儿 Tab 效果](https://github.com/zvonicek/ImageSlideshow)
 - [Swift Image Show 滑动效果](https://github.com/twicketapp/TwicketSegmentedControl)
 - [漂亮的 Chart 小框架](https://github.com/GeorgeWang03/WYChart)
+- [iOS横滑控件](https://github.com/sasojadrovski/SJFluidSegmentedControl)
+- [iOS文件操作类库](https://github.com/castial/HYFileManager)
  
  
  
