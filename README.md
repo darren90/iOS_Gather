@@ -158,6 +158,7 @@
 - [漂亮的 Chart 小框架](https://github.com/GeorgeWang03/WYChart)
 - [iOS横滑控件](https://github.com/sasojadrovski/SJFluidSegmentedControl)
 - [iOS文件操作类库](https://github.com/castial/HYFileManager)
+- [支持下滑反馈的键盘组件，体现交互细节的时候到了](https://github.com/RxSwiftCommunity/RxKeyboard)
  
  
  
