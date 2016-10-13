@@ -159,6 +159,7 @@
 - [iOS横滑控件](https://github.com/sasojadrovski/SJFluidSegmentedControl)
 - [iOS文件操作类库](https://github.com/castial/HYFileManager)
 - [支持下滑反馈的键盘组件，体现交互细节的时候到了](https://github.com/RxSwiftCommunity/RxKeyboard)
+- [Cell 弹性效果](https://github.com/anyashka/CellBounceEffect) - 右滑删除的弹性效果
  
  
  
@@ -281,6 +282,7 @@
 - [博客园 Mac客户端](https://github.com/LunaGao/cnblog-electron) - 博客园 Mac客户端
 - [一个简单的番茄工作法 Mac App](https://github.com/chelseavalentine/Pomodoro)
 - [12306的mac开源客户端](https://github.com/fancymax/12306ForMac)
+
 	
 
 #### 多线程
