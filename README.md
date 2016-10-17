@@ -161,6 +161,9 @@
 - [支持下滑反馈的键盘组件，体现交互细节的时候到了](https://github.com/RxSwiftCommunity/RxKeyboard)
 - [Cell 弹性效果](https://github.com/anyashka/CellBounceEffect) - 右滑删除的弹性效果
 - [仿 Apple Store 下载进度条效果](https://github.com/aabrahamyan/UbiqArchView)
+- [带有人脸位置感知的 UIImageView，更好的展示用户头像。](https://github.com/BeauNouvelle/FaceAware)
+- [圆形的进度滑块儿，做的很精致](https://github.com/taglia3/CircularSlider)
+- [iOS Designer News App 完整版](https://github.com/MengTo/DesignerNewsApp)
  
  
  
