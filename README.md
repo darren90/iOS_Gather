@@ -164,6 +164,9 @@
 - [带有人脸位置感知的 UIImageView，更好的展示用户头像。](https://github.com/BeauNouvelle/FaceAware)
 - [圆形的进度滑块儿，做的很精致](https://github.com/taglia3/CircularSlider)
 - [iOS Designer News App 完整版](https://github.com/MengTo/DesignerNewsApp)
+- [仿即刻App 风格的图片浏览效果](https://github.com/EnjoySR/ESPictureBrowser)
+- [日历组件](https://github.com/shoheiyokoyama/Koyomi)
+- [Swift实现的iMessage效果](https://github.com/SwiftKickMobile/SwiftMessages)
  
  
  
