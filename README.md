@@ -169,6 +169,8 @@
 - [Swift实现的iMessage效果](https://github.com/SwiftKickMobile/SwiftMessages)
 - [带有滑动弹性效果 PageViewController](https://github.com/BohdanOrlov/BouncyPageViewController)
 - [图片手动切割组件，自动切割选取部分的图片](https://github.com/cemolcay/ImageFreeCut)
+- [iOS 10 风格的日历和时间选择器](https://github.com/itsmeichigo/DateTimePicker)
+- [一款实用的 Sketch 切图辅助插件](https://github.com/ozzik/Slicer)
  
  
  
@@ -204,6 +206,7 @@
 #### Demo
 
 - [高仿网易新闻](https://github.com/dsxNiubility/SXNews) - 调调的网易新闻Demo
+- [React native 实现的一款查看 GitHub 热门项目的 App](https://github.com/crazycodeboy/GitHubPopular)
 
 
 
