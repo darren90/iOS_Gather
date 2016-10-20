@@ -167,6 +167,8 @@
 - [仿即刻App 风格的图片浏览效果](https://github.com/EnjoySR/ESPictureBrowser)
 - [日历组件](https://github.com/shoheiyokoyama/Koyomi)
 - [Swift实现的iMessage效果](https://github.com/SwiftKickMobile/SwiftMessages)
+- [带有滑动弹性效果 PageViewController](https://github.com/BohdanOrlov/BouncyPageViewController)
+- [图片手动切割组件，自动切割选取部分的图片](https://github.com/cemolcay/ImageFreeCut)
  
  
  
