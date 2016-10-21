@@ -171,6 +171,7 @@
 - [图片手动切割组件，自动切割选取部分的图片](https://github.com/cemolcay/ImageFreeCut)
 - [iOS 10 风格的日历和时间选择器](https://github.com/itsmeichigo/DateTimePicker)
 - [一款实用的 Sketch 切图辅助插件](https://github.com/ozzik/Slicer)
+- [iOS 下优雅的异步操作](https://github.com/jaredsinclair/AsyncOperations)
  
  
  
