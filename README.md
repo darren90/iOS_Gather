@@ -172,6 +172,7 @@
 - [iOS 10 风格的日历和时间选择器](https://github.com/itsmeichigo/DateTimePicker)
 - [一款实用的 Sketch 切图辅助插件](https://github.com/ozzik/Slicer)
 - [iOS 下优雅的异步操作](https://github.com/jaredsinclair/AsyncOperations)
+- [iOS 时间线效果的组件](https://github.com/kf99916/TimelineTableViewCell)
  
  
  
@@ -208,6 +209,7 @@
 
 - [高仿网易新闻](https://github.com/dsxNiubility/SXNews) - 调调的网易新闻Demo
 - [React native 实现的一款查看 GitHub 热门项目的 App](https://github.com/crazycodeboy/GitHubPopular)
+- [在屏幕上显示 FPS，CPU 使用率，更好的监控应用性能](https://github.com/dani-gavrilov/GDPerformanceView)
 
 
 
