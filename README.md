@@ -173,6 +173,21 @@
 - [一款实用的 Sketch 切图辅助插件](https://github.com/ozzik/Slicer)
 - [iOS 下优雅的异步操作](https://github.com/jaredsinclair/AsyncOperations)
 - [iOS 时间线效果的组件](https://github.com/kf99916/TimelineTableViewCell)
+- [实现类似 iOS 10 Apple Music 一样效果的 浮起卡片过渡效果](https://github.com/harshilshah/DeckTransition)
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
  
  
  
