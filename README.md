@@ -175,6 +175,7 @@
 - [iOS 时间线效果的组件](https://github.com/kf99916/TimelineTableViewCell)
 - [实现类似 iOS 10 Apple Music 一样效果的 浮起卡片过渡效果](https://github.com/harshilshah/DeckTransition)
 - [无需越狱，读取其他 App 的 InfoPlist 文件](https://github.com/cyanzhong/Retriver)
+- [iOS侧边栏](https://github.com/lminhtm/LMSideBarController)
  
  
  
