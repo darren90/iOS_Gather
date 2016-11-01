@@ -178,6 +178,7 @@
 - [iOS侧边栏](https://github.com/lminhtm/LMSideBarController)
 - [一款快速浏览和分享相册中GIF的App，适配了iOS 10 的 iMessage Extension](https://github.com/atuooo/notGIF)
 - [一个处理 View Controller 内部和外部调用的开源库。可用于解除 View Controller 间耦合](https://github.com/douban/FRDIntent)
+- [类似 Wallet 效果的卡片管理组件](https://github.com/rshevchuk/Wallet)
  
  
  
