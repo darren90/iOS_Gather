@@ -179,6 +179,13 @@
 - [一款快速浏览和分享相册中GIF的App，适配了iOS 10 的 iMessage Extension](https://github.com/atuooo/notGIF)
 - [一个处理 View Controller 内部和外部调用的开源库。可用于解除 View Controller 间耦合](https://github.com/douban/FRDIntent)
 - [类似 Wallet 效果的卡片管理组件](https://github.com/rshevchuk/Wallet)
+- [Mac Range 选择器，选择区间范围，做的萌萌的](https://github.com/matthewreagan/RangeSlider)
+- [用 Swift 动态 Render HTML](https://github.com/sahandnayebaziz/Hypertext)
+- [React Native 控制 Touchbar](https://github.com/ptmt/react-native-touchbar)
+
+
+
+
  
  
  
@@ -384,4 +391,10 @@
 
 --- 下载
 - [实现项目下载需求时遇过的那些坑](http://www.cocoachina.com/ios/20150624/12242.html)
+
+
+### 重点
+
+- [优化 App 启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)
+
 		
