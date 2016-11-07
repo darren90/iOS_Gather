@@ -183,6 +183,7 @@
 - [用 Swift 动态 Render HTML](https://github.com/sahandnayebaziz/Hypertext)
 - [React Native 控制 Touchbar](https://github.com/ptmt/react-native-touchbar)
 - [A web framework and server for Swift](https://github.com/vapor/vapor)
+- [基于 UITableView 实现的更灵活的单页布局](https://github.com/edopelawi/CascadingTableDelegate)
 
 
 
@@ -396,5 +397,6 @@
 ### 重点
 
 - [优化 App 启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)
+- [一键打包ipad包并上传到蒲公英](http://www.jianshu.com/p/5d59966eaecc)
 
 		
