@@ -399,5 +399,6 @@
 
 - [优化 App 启动时间](http://yulingtianxia.com/blog/2016/10/30/Optimizing-App-Startup-Time/)
 - [一键打包ipad包并上传到蒲公英](http://www.jianshu.com/p/5d59966eaecc)
+- [腾讯的iOS自动化测试](https://github.com/yulingtianxia/TBUIAutoTest)
 
 		
