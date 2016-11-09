@@ -387,6 +387,7 @@
 - [ios依赖管理工具：Carthage](http://www.jianshu.com/p/b5607b8b9348)
 - [使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能](http://draveness.me/asdk-rendering/)
 - [支持学生优惠的那些第三方服务](https://github.com/ivmm/Student-resources)
+- [Swift 3 Collections——理解Array和NSArray的差异](https://boxueio.com/series/collection-types/ebook/125)
 
 
 
