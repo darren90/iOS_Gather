@@ -184,7 +184,7 @@
 - [React Native 控制 Touchbar](https://github.com/ptmt/react-native-touchbar)
 - [A web framework and server for Swift](https://github.com/vapor/vapor)
 - [基于 UITableView 实现的更灵活的单页布局](https://github.com/edopelawi/CascadingTableDelegate)
-
+- [EasyDataKit 简单易用的 SQLite 轮子，它基于 FMDB 封装的库，免去开发者编写复杂 SQL 的困扰]
 
 
  
