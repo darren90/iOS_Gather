@@ -184,7 +184,8 @@
 - [React Native 控制 Touchbar](https://github.com/ptmt/react-native-touchbar)
 - [A web framework and server for Swift](https://github.com/vapor/vapor)
 - [基于 UITableView 实现的更灵活的单页布局](https://github.com/edopelawi/CascadingTableDelegate)
-- [EasyDataKit 简单易用的 SQLite 轮子，它基于 FMDB 封装的库，免去开发者编写复杂 SQL 的困扰]
+- [EasyDataKit 简单易用的 SQLite 轮子，它基于 FMDB 封装的库，免去开发者编写复杂 SQL 的困扰](https://hawk0620.github.io/blog/2016/11/10/easydatakit-introduction/)
+- [iOS 圆形进度条](https://github.com/HamzaGhazouani/HGCircularSlider)
 
 
  
@@ -292,7 +293,9 @@
 - [基于 Electron 实现的一个轻量级 Markdown 笔记本](https://github.com/AnotherNote/anote)
 - [Swift 实现的一个画中画 （ Picture in Picture ） 播放器](https://github.com/wddwycc/XDPlayer)
 - [使用react native开发的一个one客户端](https://github.com/wutongke/react-native-one)
+### 非常的重要的
 
+- [Dash 开源了 iOS 版本的代码](https://github.com/Kapeli/Dash-iOS) 
 
 
 
@@ -326,6 +329,8 @@
 - [博客园 Mac客户端](https://github.com/LunaGao/cnblog-electron) - 博客园 Mac客户端
 - [一个简单的番茄工作法 Mac App](https://github.com/chelseavalentine/Pomodoro)
 - [12306的mac开源客户端](https://github.com/fancymax/12306ForMac)
+- [TouchBar Demo App，学习 Touchbar Api 的辅助材料](https://github.com/Kapeli/Dash-iOS)
+- [在你的 TouchBar 上显示 Nyancat](https://github.com/avatsaev/touchbar_nyancat)
 
 	
 
