@@ -187,6 +187,7 @@
 - [EasyDataKit 简单易用的 SQLite 轮子，它基于 FMDB 封装的库，免去开发者编写复杂 SQL 的困扰](https://hawk0620.github.io/blog/2016/11/10/easydatakit-introduction/)
 - [iOS 圆形进度条](https://github.com/HamzaGhazouani/HGCircularSlider)
 - [Katana，一个全新的 iOS 开发框架](https://bendingspoons.github.io/katana-swift/) [Katana Github](https://github.com/BendingSpoons/katana-swift)
+- [iOS预加载Web页面方案](https://github.com/ming1016/STMURLCache)
 
 
  
@@ -297,6 +298,7 @@
 ### 非常的重要的
 
 - [Dash 开源了 iOS 版本的代码](https://github.com/Kapeli/Dash-iOS) 
+- [“已阅”（iOS上开源RSS新闻阅读器）](https://github.com/ming1016/RSSRead)
 
 
 
