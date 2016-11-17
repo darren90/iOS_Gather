@@ -186,6 +186,7 @@
 - [基于 UITableView 实现的更灵活的单页布局](https://github.com/edopelawi/CascadingTableDelegate)
 - [EasyDataKit 简单易用的 SQLite 轮子，它基于 FMDB 封装的库，免去开发者编写复杂 SQL 的困扰](https://hawk0620.github.io/blog/2016/11/10/easydatakit-introduction/)
 - [iOS 圆形进度条](https://github.com/HamzaGhazouani/HGCircularSlider)
+- [Katana，一个全新的 iOS 开发框架](https://bendingspoons.github.io/katana-swift/) [Katana Github](https://github.com/BendingSpoons/katana-swift)
 
 
  
