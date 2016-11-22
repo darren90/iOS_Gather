@@ -301,6 +301,8 @@
 
 - [Dash 开源了 iOS 版本的代码](https://github.com/Kapeli/Dash-iOS) 
 - [“已阅”（iOS上开源RSS新闻阅读器）](https://github.com/ming1016/RSSRead)
+- [仿"即刻"APP](https://github.com/programmerLikeDirector/imitateJK)
+- [查看其他APP配置信息的工具APP](https://github.com/cyanzhong/Retriever)
 
 
 
