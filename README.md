@@ -189,6 +189,7 @@
 - [iOS 圆形进度条](https://github.com/HamzaGhazouani/HGCircularSlider)
 - [Katana，一个全新的 iOS 开发框架](https://bendingspoons.github.io/katana-swift/) [Katana Github](https://github.com/BendingSpoons/katana-swift)
 - [iOS预加载Web页面方案](https://github.com/ming1016/STMURLCache)
+- [阿里巴巴开源用于iOS的App模块化编程的框架](https://github.com/alibaba/BeeHive)
 
 
  
