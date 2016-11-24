@@ -190,6 +190,9 @@
 - [Katana，一个全新的 iOS 开发框架](https://bendingspoons.github.io/katana-swift/) [Katana Github](https://github.com/BendingSpoons/katana-swift)
 - [iOS预加载Web页面方案](https://github.com/ming1016/STMURLCache)
 - [阿里巴巴开源用于iOS的App模块化编程的框架](https://github.com/alibaba/BeeHive)
+- [iOS Cell 拖拽排序](https://github.com/HelloYeah/DraggingSort)
+- [iOS预加载Web页面方案](https://github.com/ming1016/STMURLCache) - 豌豆荚一览
+- [自动切换图片的 View 效果](https://github.com/noppefoxwolf/TileShiftView)
 
 
  
