@@ -193,6 +193,7 @@
 - [iOS Cell 拖拽排序](https://github.com/HelloYeah/DraggingSort)
 - [iOS预加载Web页面方案](https://github.com/ming1016/STMURLCache) - 豌豆荚一览
 - [自动切换图片的 View 效果](https://github.com/noppefoxwolf/TileShiftView)
+- [iOS 数字滚动 Label](https://github.com/codewise/AnimatingLabel)
 
 
  
@@ -417,5 +418,6 @@
 - [一键打包ipad包并上传到蒲公英](http://www.jianshu.com/p/5d59966eaecc)
 - [腾讯的iOS自动化测试](https://github.com/yulingtianxia/TBUIAutoTest)
 - [flow.ci 初体验! 记一次暖心的iOS持续集成](http://fanhang.me/ios/ji-ci-ioschi-xu-ji-cheng-chu-ti-yan)
+- [自动在多个 iOS 模拟器上运行 XCTest 测试](https://github.com/plu/pxctest)
 
 		
