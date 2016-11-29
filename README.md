@@ -194,6 +194,9 @@
 - [iOS预加载Web页面方案](https://github.com/ming1016/STMURLCache) - 豌豆荚一览
 - [自动切换图片的 View 效果](https://github.com/noppefoxwolf/TileShiftView)
 - [iOS 数字滚动 Label](https://github.com/codewise/AnimatingLabel)
+- [iOS平台键盘再也不会挡住输入控件](https://github.com/netyouli/WHC_KeyboardManager?utm_medium=email&utm_source=gank.io) - 键盘输入控件
+- [漂亮的日期选择，支持日历模式和Picker模式](https://github.com/kRadius/HYYCalendar?utm_medium=email&utm_source=gank.io)
+- [iOS信用卡输入效果](https://github.com/orazz/CreditCardForm-iOS?utm_medium=email&utm_source=gank.io)
 
 
  
