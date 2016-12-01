@@ -197,6 +197,7 @@
 - [iOS平台键盘再也不会挡住输入控件](https://github.com/netyouli/WHC_KeyboardManager?utm_medium=email&utm_source=gank.io) - 键盘输入控件
 - [漂亮的日期选择，支持日历模式和Picker模式](https://github.com/kRadius/HYYCalendar?utm_medium=email&utm_source=gank.io)
 - [iOS信用卡输入效果](https://github.com/orazz/CreditCardForm-iOS?utm_medium=email&utm_source=gank.io)
+- [iOS 屏幕录制工具](https://github.com/kosso/TiScreenRecorder?utm_medium=email&utm_source=gank.io)
 
 
  
