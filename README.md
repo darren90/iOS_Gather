@@ -198,6 +198,7 @@
 - [漂亮的日期选择，支持日历模式和Picker模式](https://github.com/kRadius/HYYCalendar?utm_medium=email&utm_source=gank.io)
 - [iOS信用卡输入效果](https://github.com/orazz/CreditCardForm-iOS?utm_medium=email&utm_source=gank.io)
 - [iOS 屏幕录制工具](https://github.com/kosso/TiScreenRecorder?utm_medium=email&utm_source=gank.io)
+- [借助人脸追踪实现的脸部关键点采集，同时加入贴纸功能](https://github.com/Sinkup/CameraStickerDemo?utm_source=gank.io&utm_medium=email)
 
 
  
@@ -424,5 +425,6 @@
 - [腾讯的iOS自动化测试](https://github.com/yulingtianxia/TBUIAutoTest)
 - [flow.ci 初体验! 记一次暖心的iOS持续集成](http://fanhang.me/ios/ji-ci-ioschi-xu-ji-cheng-chu-ti-yan)
 - [自动在多个 iOS 模拟器上运行 XCTest 测试](https://github.com/plu/pxctest)
+- [iOS多线程-从不会到熟练使用](http://www.jianshu.com/p/ac11fe7ef78c?utm_source=gank.io&utm_medium=email)
 
 		
