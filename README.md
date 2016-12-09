@@ -428,5 +428,6 @@
 - [flow.ci 初体验! 记一次暖心的iOS持续集成](http://fanhang.me/ios/ji-ci-ioschi-xu-ji-cheng-chu-ti-yan)
 - [自动在多个 iOS 模拟器上运行 XCTest 测试](https://github.com/plu/pxctest)
 - [iOS多线程-从不会到熟练使用](http://www.jianshu.com/p/ac11fe7ef78c?utm_source=gank.io&utm_medium=email)
+- [非常好用的Mac应用程序推荐](https://jaywcjlove.github.io/awesome-mac/?utm_source=gank.io&utm_medium=email)
 
 		
