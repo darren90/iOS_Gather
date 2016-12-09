@@ -199,6 +199,8 @@
 - [iOS信用卡输入效果](https://github.com/orazz/CreditCardForm-iOS?utm_medium=email&utm_source=gank.io)
 - [iOS 屏幕录制工具](https://github.com/kosso/TiScreenRecorder?utm_medium=email&utm_source=gank.io)
 - [借助人脸追踪实现的脸部关键点采集，同时加入贴纸功能](https://github.com/Sinkup/CameraStickerDemo?utm_source=gank.io&utm_medium=email)
+- [类似 Pinterest 的 Segement 组件效果](https://github.com/TBXark/PinterestSegment?utm_source=gank.io&utm_medium=email)
+- [简洁的 iOS 悬浮消息栏](https://github.com/hyperoslo/Whisper?utm_source=gank.io&utm_medium=email)
 
 
  
