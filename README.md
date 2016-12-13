@@ -13,6 +13,8 @@
 - [iOS](#iOS)
 
 - [Demo](#Demo) 
+
+- [Apple Watch Demo](#Apple Watch Demo)
 	
 - [Xcode](#Xcode)
 	
@@ -242,7 +244,9 @@
 
 
 
+### Apple Watch Demo
 
+- [Demo中包含了完整的Watch App、Glance、 Notification 三部分](https://github.com/jerryliurui/AppleWatchDemo)
 
 
 
