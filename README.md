@@ -205,6 +205,7 @@
 - [简洁的 iOS 悬浮消息栏](https://github.com/hyperoslo/Whisper?utm_source=gank.io&utm_medium=email)
 - [iOS拼图验证控件: TTGPuzzleVerify](https://github.com/zekunyan/TTGPuzzleVerify?utm_source=gank.io&utm_medium=email)
 - [简洁方便的 iOS 表单生成器](https://github.com/xmartlabs/Eureka?utm_source=gank.io&utm_medium=email)
+- [iOS动画-从不会到熟练应用:一个总结的很好的动画文章~](http://www.jianshu.com/p/3f48fabaca19?utm_source=gank.io&utm_medium=email)
 
 
  
@@ -321,7 +322,8 @@
 - [“已阅”（iOS上开源RSS新闻阅读器）](https://github.com/ming1016/RSSRead)
 - [仿"即刻"APP](https://github.com/programmerLikeDirector/imitateJK)
 - [查看其他APP配置信息的工具APP](https://github.com/cyanzhong/Retriever)
-
+- [kickstarter 开源了 iOS App 的代码](https://github.com/kickstarter/ios-oss?utm_source=gank.io&utm_medium=email)
+- [类似 QQ 一样的，通知 Bar 效果](https://github.com/qiuncheng/NoticeBar?utm_source=gank.io&utm_medium=email)
 
 
 
