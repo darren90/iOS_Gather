@@ -206,6 +206,9 @@
 - [iOS拼图验证控件: TTGPuzzleVerify](https://github.com/zekunyan/TTGPuzzleVerify?utm_source=gank.io&utm_medium=email)
 - [简洁方便的 iOS 表单生成器](https://github.com/xmartlabs/Eureka?utm_source=gank.io&utm_medium=email)
 - [iOS动画-从不会到熟练应用:一个总结的很好的动画文章~](http://www.jianshu.com/p/3f48fabaca19?utm_source=gank.io&utm_medium=email)
+- [高度可定制化日历视图，轻松实现范围选中效果](https://github.com/LZTuna/ZYCalendar?utm_source=gank.io&utm_medium=email)
+- [一个指令，把一个网址，变成一个 Mac App](https://github.com/jiahaog/nativefier?utm_source=gank.io&utm_medium=email)
+- [干货：最详细的iOS难点之CoreData讲解，附实例源码](http://www.imlifengfeng.com/blog/?p=325&utm_source=gank.io&utm_medium=email)
 
 
  
