@@ -440,5 +440,6 @@
 - [自动在多个 iOS 模拟器上运行 XCTest 测试](https://github.com/plu/pxctest)
 - [iOS多线程-从不会到熟练使用](http://www.jianshu.com/p/ac11fe7ef78c?utm_source=gank.io&utm_medium=email)
 - [非常好用的Mac应用程序推荐](https://jaywcjlove.github.io/awesome-mac/?utm_source=gank.io&utm_medium=email)
+- [监听 APP 价格变动](http://djyde.github.io/2016/02/16/how-do-i-detect-app-price/)
 
 		
