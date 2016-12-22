@@ -209,7 +209,9 @@
 - [高度可定制化日历视图，轻松实现范围选中效果](https://github.com/LZTuna/ZYCalendar?utm_source=gank.io&utm_medium=email)
 - [一个指令，把一个网址，变成一个 Mac App](https://github.com/jiahaog/nativefier?utm_source=gank.io&utm_medium=email)
 - [干货：最详细的iOS难点之CoreData讲解，附实例源码](http://www.imlifengfeng.com/blog/?p=325&utm_source=gank.io&utm_medium=email)
-
+- [打分效果组件](https://github.com/titman/LCStarRatingView?utm_source=gank.io&utm_medium=email) - 很好用的打分组件
+- [iOS 密码效果组件](https://github.com/eddy-lau/UXPasscodeField?utm_source=gank.io&utm_medium=email)
+- [iOS 漂亮的 Tip 效果组件](https://github.com/nitishmakhija/EasyTipView?utm_source=gank.io&utm_medium=email)
 
  
  
