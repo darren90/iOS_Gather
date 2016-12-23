@@ -213,6 +213,7 @@
 - [iOS 密码效果组件](https://github.com/eddy-lau/UXPasscodeField?utm_source=gank.io&utm_medium=email)
 - [iOS 漂亮的 Tip 效果组件](https://github.com/nitishmakhija/EasyTipView?utm_source=gank.io&utm_medium=email)
 - [Swift 实现的打字机效果](https://github.com/wibosco/GhostTypewriter?utm_source=gank.io&utm_medium=email)
+- [iOS各种权限获取](https://github.com/nickoneill/PermissionScope)
 
  
  
