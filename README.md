@@ -212,6 +212,7 @@
 - [打分效果组件](https://github.com/titman/LCStarRatingView?utm_source=gank.io&utm_medium=email) - 很好用的打分组件
 - [iOS 密码效果组件](https://github.com/eddy-lau/UXPasscodeField?utm_source=gank.io&utm_medium=email)
 - [iOS 漂亮的 Tip 效果组件](https://github.com/nitishmakhija/EasyTipView?utm_source=gank.io&utm_medium=email)
+- [Swift 实现的打字机效果](https://github.com/wibosco/GhostTypewriter?utm_source=gank.io&utm_medium=email)
 
  
  
@@ -443,5 +444,6 @@
 - [iOS多线程-从不会到熟练使用](http://www.jianshu.com/p/ac11fe7ef78c?utm_source=gank.io&utm_medium=email)
 - [非常好用的Mac应用程序推荐](https://jaywcjlove.github.io/awesome-mac/?utm_source=gank.io&utm_medium=email)
 - [监听 APP 价格变动](http://djyde.github.io/2016/02/16/how-do-i-detect-app-price/)
+- [史上最详细的iOS难点之Runtime运行时机制](http://www.imlifengfeng.com/blog/?p=316&utm_source=gank.io&utm_medium=email)
 
 		
