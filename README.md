@@ -366,6 +366,7 @@
 - [12306的mac开源客户端](https://github.com/fancymax/12306ForMac)
 - [TouchBar Demo App，学习 Touchbar Api 的辅助材料](https://github.com/Kapeli/Dash-iOS)
 - [在你的 TouchBar 上显示 Nyancat](https://github.com/avatsaev/touchbar_nyancat)
+- [macOS 10.12 Picture-in-Picture 快速实现](https://github.com/insidegui/PIPContainer?utm_source=gank.io&utm_medium=email)
 
 	
 
