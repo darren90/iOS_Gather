@@ -215,6 +215,8 @@
 - [Swift 实现的打字机效果](https://github.com/wibosco/GhostTypewriter?utm_source=gank.io&utm_medium=email)
 - [iOS各种权限获取](https://github.com/nickoneill/PermissionScope)
 - [致力于提高项目 UI 开发效率的解决方案](http://qmuiteam.com/ios/page/index.html) - iOS开发中UI的现成解决方案
+- [iOS 实现快速切换主题](https://github.com/iphone5solo/PYTheme?utm_medium=email&utm_source=gank.io)
+- [简单的功能引导组件](https://github.com/nbolatov/Intro?utm_medium=email&utm_source=gank.io)
 
  
  
