@@ -216,7 +216,9 @@
 - [iOS各种权限获取](https://github.com/nickoneill/PermissionScope)
 - [致力于提高项目 UI 开发效率的解决方案](http://qmuiteam.com/ios/page/index.html) - iOS开发中UI的现成解决方案
 - [iOS 实现快速切换主题](https://github.com/iphone5solo/PYTheme?utm_medium=email&utm_source=gank.io)
+- [iOS网页视图控制器](https://github.com/LSure/SureWebViewController) - [介绍文章](http://www.jianshu.com/p/553424763585) - 自带loading效果
 - [简单的功能引导组件](https://github.com/nbolatov/Intro?utm_medium=email&utm_source=gank.io)
+- [开屏广告解决方案](https://github.com/CoderZhuXH/XHLaunchAd) - -支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. [介绍文章](http://www.jianshu.com/p/775f2d508852)
 
  
  
