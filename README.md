@@ -219,6 +219,7 @@
 - [iOS网页视图控制器](https://github.com/LSure/SureWebViewController) - [介绍文章](http://www.jianshu.com/p/553424763585) - 自带loading效果
 - [简单的功能引导组件](https://github.com/nbolatov/Intro?utm_medium=email&utm_source=gank.io)
 - [开屏广告解决方案](https://github.com/CoderZhuXH/XHLaunchAd) - -支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. [介绍文章](http://www.jianshu.com/p/775f2d508852)
+- [iOS组件化方案-总结（含Demo）](http://www.jianshu.com/p/2cb4cc8d216e)
 
  
  
