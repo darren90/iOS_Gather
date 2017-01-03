@@ -221,7 +221,9 @@
 - [简单的功能引导组件](https://github.com/nbolatov/Intro?utm_medium=email&utm_source=gank.io)
 - [开屏广告解决方案](https://github.com/CoderZhuXH/XHLaunchAd) - -支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad. [介绍文章](http://www.jianshu.com/p/775f2d508852)
 - [iOS组件化方案-总结（含Demo）](http://www.jianshu.com/p/2cb4cc8d216e)
-
+- [Swift 自定义双向 Slider](https://github.com/thehung111/NHRangeSlider?utm_medium=email&utm_source=gank.io)
+- [iOS 手机号输入组件，包含各个国家的手机号规则](https://github.com/marmelroy/PhoneNumberKit?utm_medium=email&utm_source=gank.io)
+- [又一个全新的 iOS 动画引擎，Demo 和使用场景很不错](https://github.com/lkzhao/Hero?utm_medium=email&utm_source=gank.io)
  
  
  
