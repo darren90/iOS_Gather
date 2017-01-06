@@ -340,6 +340,7 @@
 - [查看其他APP配置信息的工具APP](https://github.com/cyanzhong/Retriever)
 - [kickstarter 开源了 iOS App 的代码](https://github.com/kickstarter/ios-oss?utm_source=gank.io&utm_medium=email)
 - [类似 QQ 一样的，通知 Bar 效果](https://github.com/qiuncheng/NoticeBar?utm_source=gank.io&utm_medium=email)
+- [快速拨号神器](https://github.com/CNKCQ/Deardialing?utm_source=gank.io&utm_medium=email)
 
 
 
@@ -376,6 +377,7 @@
 - [在你的 TouchBar 上显示 Nyancat](https://github.com/avatsaev/touchbar_nyancat)
 - [macOS 10.12 Picture-in-Picture 快速实现](https://github.com/insidegui/PIPContainer?utm_source=gank.io&utm_medium=email)
 - [SimPholders的开源替换：OpenSim](https://github.com/luosheng/OpenSim) - 而且最近升级到10.12后，SimPholders不能使用了
+- [一个超棒的开源 Mac 视频播放器！好看，实用，功能完整](https://lhc70000.github.io/iina/?utm_source=gank.io&utm_medium=email) -- [Github地址](https://github.com/lhc70000/iina)
 
 	
 
