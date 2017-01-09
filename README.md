@@ -224,6 +224,7 @@
 - [Swift 自定义双向 Slider](https://github.com/thehung111/NHRangeSlider?utm_medium=email&utm_source=gank.io)
 - [iOS 手机号输入组件，包含各个国家的手机号规则](https://github.com/marmelroy/PhoneNumberKit?utm_medium=email&utm_source=gank.io)
 - [又一个全新的 iOS 动画引擎，Demo 和使用场景很不错](https://github.com/lkzhao/Hero?utm_medium=email&utm_source=gank.io)
+- [PYSearch - iOS 中一款优雅的搜索控制器](https://github.com/iphone5solo/PYSearch) - 热门搜索风格,搜索历史风格,搜索建议
  
  
  
