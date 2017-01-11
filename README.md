@@ -225,7 +225,14 @@
 - [iOS 手机号输入组件，包含各个国家的手机号规则](https://github.com/marmelroy/PhoneNumberKit?utm_medium=email&utm_source=gank.io)
 - [又一个全新的 iOS 动画引擎，Demo 和使用场景很不错](https://github.com/lkzhao/Hero?utm_medium=email&utm_source=gank.io)
 - [PYSearch - iOS 中一款优雅的搜索控制器](https://github.com/iphone5solo/PYSearch) - 热门搜索风格,搜索历史风格,搜索建议
- 
+- [JPAnimation - 模仿Airbnb首页过渡动画](https://github.com/Chris-Pan/JPAnimation?utm_source=gank.io&utm_medium=email) - Modar动画介绍
+- [Popover - 一款优雅易用的类似QQ和微信消息页面的右上角微型菜单弹窗](https://github.com/lifution/Popover?utm_source=gank.io&utm_medium=email) - 类似QQ和微信消息页面的右上角微型菜单弹窗
+- [Sharaku - 漂亮的图片滤镜效果](https://github.com/makomori/Sharaku?utm_source=gank.io&utm_medium=email)
+- [全网最详细的iOS Category详解](http://www.imlifengfeng.com/blog/?utm_medium=email&utm_source=gank.io&p=474)
+
+
+
+
  
  
  
