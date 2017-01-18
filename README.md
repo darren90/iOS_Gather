@@ -387,6 +387,8 @@
 - [macOS 10.12 Picture-in-Picture 快速实现](https://github.com/insidegui/PIPContainer?utm_source=gank.io&utm_medium=email)
 - [SimPholders的开源替换：OpenSim](https://github.com/luosheng/OpenSim) - 而且最近升级到10.12后，SimPholders不能使用了
 - [一个超棒的开源 Mac 视频播放器！好看，实用，功能完整](https://lhc70000.github.io/iina/?utm_source=gank.io&utm_medium=email) -- [Github地址](https://github.com/lhc70000/iina)
+- [Telegram - Telegram Desktop messaging app - 开源 Mac App](https://github.com/telegramdesktop/tdesktop?utm_source=gank.io&utm_medium=email) - 
+- [paper-for-mac 非官方 Dropbox Paper 客户端，做的超精致](https://github.com/williambout/paper-for-mac?utm_source=gank.io&utm_medium=email) - 
 
 	
 
