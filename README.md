@@ -230,7 +230,8 @@
 - [Popover - 一款优雅易用的类似QQ和微信消息页面的右上角微型菜单弹窗](https://github.com/lifution/Popover?utm_source=gank.io&utm_medium=email) - 类似QQ和微信消息页面的右上角微型菜单弹窗
 - [Sharaku - 漂亮的图片滤镜效果](https://github.com/makomori/Sharaku?utm_source=gank.io&utm_medium=email)
 - [全网最详细的iOS Category详解](http://www.imlifengfeng.com/blog/?utm_medium=email&utm_source=gank.io&p=474)
-
+- [PieCharts - iOS 实用饼状图](https://github.com/i-schuetz/PieCharts) - 
+- [FSCalendar - 一款漂亮，强大的 iOS 日历组件](https://github.com/WenchaoD/FSCalendar) - 非常的好用，而且支持Swift
 
 
 
