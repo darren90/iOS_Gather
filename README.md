@@ -232,7 +232,8 @@
 - [全网最详细的iOS Category详解](http://www.imlifengfeng.com/blog/?utm_medium=email&utm_source=gank.io&p=474)
 - [PieCharts - iOS 实用饼状图](https://github.com/i-schuetz/PieCharts) - 
 - [FSCalendar - 一款漂亮，强大的 iOS 日历组件](https://github.com/WenchaoD/FSCalendar) - 非常的好用，而且支持Swift
-
+- [Files - Swift 文件和文件夹操作辅助工具类](https://github.com/JohnSundell/Files) - 文件文件夹的操作
+- [Tiptoes - 比iOS系统自带导航效果更好的组件，带有视差的导航效果，好看](https://github.com/caiyue1993/Tiptoes) - 
 
 
  
@@ -441,6 +442,8 @@
 - [JSPatch](https://github.com/bang590/JSPatch) - 简直是神器，热修复线上的bug。调调的
 - [iOS学习资料整理](https://github.com/zhouhuanqiang/LearningIOS) - iOS学习资料整理
 - [greatsimple.io 出品的 iOS10 GUI 模板](http://ios10.greatsimple.io/)
+- [Awesome_API - 国内一些常用的API合集](https://github.com/marktony/Awesome_API) - 比较齐全[这是国内的API](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
+
 
 #### Swift学习
 
