@@ -234,18 +234,31 @@
 - [FSCalendar - 一款漂亮，强大的 iOS 日历组件](https://github.com/WenchaoD/FSCalendar) - 非常的好用，而且支持Swift
 - [Files - Swift 文件和文件夹操作辅助工具类](https://github.com/JohnSundell/Files) - 文件文件夹的操作
 - [Tiptoes - 比iOS系统自带导航效果更好的组件，带有视差的导航效果，好看](https://github.com/caiyue1993/Tiptoes) - 
-
-
- 
- 
- 
- 
- 
+- [KRActivityIndicatorView - iOS 加载效果指示器，各式各样的](https://github.com/Henryforce/KRActivityIndicatorView) - 各式各样的loading效果
+- [FlowKit - Flow：轻松管理页面流，让代码逻辑性更强](https://github.com/FilipZawada/FlowKit) - 
+- [SegmentedControl - 一款美美的自定义 SegementedControl](https://github.com/IvanVorobei/SegmentedControl) - 
 
  
  
  
  
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
 
  
  
