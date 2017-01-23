@@ -487,5 +487,6 @@
 - [非常好用的Mac应用程序推荐](https://jaywcjlove.github.io/awesome-mac/?utm_source=gank.io&utm_medium=email)
 - [监听 APP 价格变动](http://djyde.github.io/2016/02/16/how-do-i-detect-app-price/)
 - [史上最详细的iOS难点之Runtime运行时机制](http://www.imlifengfeng.com/blog/?p=316&utm_source=gank.io&utm_medium=email)
+-[LinkedIn 开源的用于多开模拟器测试用的框架，咔咔的提升效率](https://github.com/linkedin/bluepill) - 多开模拟器，这个真的很6
 
 		
