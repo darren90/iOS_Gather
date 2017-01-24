@@ -37,6 +37,49 @@
 
 
 
+-[开发只懂 AFN ？搞定 NSURLSession 才是硬道理](http://www.cocoachina.com/ios/20161018/17785.html) - NSURLSession及其子类的详细文章，非常全面详细
+
+
+ 
+ 
+ 
+
+jenkins
+ 
+
+
+ 
+
+
+
+
+
+### 面试
+
+
+- [iOS initWithFrame、initWithCoder、awakeFromNib的区别解析](http://www.cnblogs.com/yajunLi/p/6344023.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
