@@ -240,7 +240,9 @@
 -[非侵入式的 iOS 开发网络探测和调试工具，做的超棒](https://github.com/xmartlabs/Xniffer) -  
 -[Swift 实现的社交网络 Tag 解析，比如常见的 @ ，# ，超链接等](https://github.com/optonaut/ActiveLabel.swift) -  解析例如微博上的@，#等符号
 -[开源一个位于屏幕底部的 iOS 导航栏，让用户专注于屏幕内容本身，制造沉浸
- 
+-[又一款漂亮的 iOS 日历组件，超好看](https://github.com/patchthecode/JTAppleCalendar) -  
+-[超级详细的iOS Quartz2D详解，看完就可以熟练自定义控件了](http://www.imlifengfeng.com/blog/?utm_source=gank.io&p=514&utm_medium=email) -  介绍的非常全面
+-[iOS Debug 辅助工具，能够展示日志，网络请求，设备信息，崩溃报告等等信息，非常的实用](https://github.com/remirobert/Dotzu) -  
  
  
  
