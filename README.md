@@ -369,8 +369,8 @@
 - [kickstarter 开源了 iOS App 的代码](https://github.com/kickstarter/ios-oss?utm_source=gank.io&utm_medium=email)
 - [类似 QQ 一样的，通知 Bar 效果](https://github.com/qiuncheng/NoticeBar?utm_source=gank.io&utm_medium=email)
 - [快速拨号神器](https://github.com/CNKCQ/Deardialing?utm_source=gank.io&utm_medium=email)
-
-
+-[让 Swift Cell 动画变得更容易实现](https://github.com/Mononster/Swift-CellAnimation) -  
+-[一个可滑动的不定宽按钮的 Segment Control，带自动居中，可直接在 Storyboard 中定制](https://github.com/Wildog/WDScrollableSegmentedControl) -  横滑控件，segment
 
 
 
@@ -427,6 +427,7 @@
 - [全新 Mac 安装指南](https://github.com/kaiye/kaiye.github.com/issues/1#rd) - 全新 Mac 安装指南
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [This repo is a collection of awesome Mac applications and tools for developers and designers.](https://github.com/jaywcjlove/awesome-mac) - 收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师
+-[Mac Code Editor](https://github.com/kuyawa/CodeEditor) - mac的代码编辑器 
 
 
 #### 其他
