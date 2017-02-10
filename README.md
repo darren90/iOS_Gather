@@ -243,6 +243,8 @@
 -[又一款漂亮的 iOS 日历组件，超好看](https://github.com/patchthecode/JTAppleCalendar) -  
 -[超级详细的iOS Quartz2D详解，看完就可以熟练自定义控件了](http://www.imlifengfeng.com/blog/?utm_source=gank.io&p=514&utm_medium=email) -  介绍的非常全面
 -[iOS Debug 辅助工具，能够展示日志，网络请求，设备信息，崩溃报告等等信息，非常的实用](https://github.com/remirobert/Dotzu) -  
+-[Swift 发送邮件](https://github.com/candostdagdeviren/CDAlertView) -  Swift编写
+-[弹出一个醒目而优雅的通知框](https://github.com/onevcat/Hedwig) -  瞄神写的
  
  
  
