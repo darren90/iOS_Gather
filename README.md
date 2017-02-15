@@ -245,7 +245,8 @@
 -[iOS Debug 辅助工具，能够展示日志，网络请求，设备信息，崩溃报告等等信息，非常的实用](https://github.com/remirobert/Dotzu) -  
 -[Swift 发送邮件](https://github.com/candostdagdeviren/CDAlertView) -  Swift编写
 -[弹出一个醒目而优雅的通知框](https://github.com/onevcat/Hedwig) -  瞄神写的
- 
+-[UIDevice 封装，更方便的获取设备信息，以及仿真设备](https://github.com/dennisweissmann/DeviceKit) -  Swift编写
+-[给 Auto Layout 赋予更多的功能，使用起来更方便些]https://github.com/roberthein/TinyConstraints) -  看起来很赞
  
  
  
