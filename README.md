@@ -247,7 +247,7 @@
 -[弹出一个醒目而优雅的通知框](https://github.com/onevcat/Hedwig) -  瞄神写的
 -[UIDevice 封装，更方便的获取设备信息，以及仿真设备](https://github.com/dennisweissmann/DeviceKit) -  Swift编写
 -[给 Auto Layout 赋予更多的功能，使用起来更方便些]https://github.com/roberthein/TinyConstraints) -  看起来很赞
- 
+-[Swift 下实现的漂亮的 Slide 组件](https://github.com/WenchaoD/FSPagerView) - 轮播图控件，Swift实现，可选择的样式非常多。
  
  
 
