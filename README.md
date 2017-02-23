@@ -255,7 +255,9 @@
 
 -[iOS Panel 效果，支持拖动，也支持定位展示](https://github.com/louisdh/panelkit) -  iOS地图使用库
 -[iOS 闪烁动画效果，之前也推荐过几个类似的库，再推荐一个新的](https://github.com/631106979/WCLShineButton) -  点赞动画效果 
-
+-[app开发者专用应用商店截图工具](https://github.com/6ag/AppScreenshots) -  
+-[iOS Dropdown 风格菜单](https://github.com/younatics/YNDropDownMenu) -  就是大众点评下拉的选择菜单
+-[iOS 瀑布流布局](https://github.com/NicolasKim/ELWaterFallLayout) -  
  
  
  
