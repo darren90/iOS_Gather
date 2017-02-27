@@ -249,7 +249,6 @@
 -[给 Auto Layout 赋予更多的功能，使用起来更方便些]https://github.com/roberthein/TinyConstraints) -  看起来很赞
 -[Swift 下实现的漂亮的 Slide 组件](https://github.com/WenchaoD/FSPagerView) - 轮播图控件，Swift实现，可选择的样式非常多。
 -[iOS版本的相机](https://hawk0620.github.io/blog/2017/02/17/zpcamera-opensource-share/) -  项目代码[ZPCamera](https://github.com/hawk0620/ZPCamera) - Osho 相机是我独立开发上架的一个相机 App，它支持1:1，4:3，16:9多种分辨率拍摄，滤镜可在取景框的实时预览，拍摄过程可与滤镜实时合成，支持分段拍摄，支持回删等特性。下面先分享分享开发这个 App 的一些心得体会，文末会给出项目的下载地址，阅读本文可能需要一点点 AVFoundation 开发的基础
-
 -[iOS消息通知框架，支持多种效果](https://github.com/imlifengfeng/FFToast) -  
 -[Swift 渐变式加载进度条](https://github.com/DholStudio/DSGradientProgressView) -   
 
@@ -258,7 +257,8 @@
 -[app开发者专用应用商店截图工具](https://github.com/6ag/AppScreenshots) -  
 -[iOS Dropdown 风格菜单](https://github.com/younatics/YNDropDownMenu) -  就是大众点评下拉的选择菜单
 -[iOS 瀑布流布局](https://github.com/NicolasKim/ELWaterFallLayout) -  
- 
+-[一个轻量级的 To-Do iOS 插件](https://github.com/cyanzhong/TodayMind) -  Pin 作者开源了新项目
+-[React Native 实现的下拉刷新，很漂亮 - RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) - React Native的刷新 
  
  
  
