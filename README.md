@@ -230,7 +230,7 @@
 - [Popover - 一款优雅易用的类似QQ和微信消息页面的右上角微型菜单弹窗](https://github.com/lifution/Popover?utm_source=gank.io&utm_medium=email) - 类似QQ和微信消息页面的右上角微型菜单弹窗
 - [Sharaku - 漂亮的图片滤镜效果](https://github.com/makomori/Sharaku?utm_source=gank.io&utm_medium=email)
 - [全网最详细的iOS Category详解](http://www.imlifengfeng.com/blog/?utm_medium=email&utm_source=gank.io&p=474)
-- [PieCharts - iOS 实用饼状图](https://github.com/i-schuetz/PieCharts) - 
+- [PieCharts - iOS 实用饼状图](https://github.com/i-schuetz/PieCharts)
 - [FSCalendar - 一款漂亮，强大的 iOS 日历组件](https://github.com/WenchaoD/FSCalendar) - 非常的好用，而且支持Swift
 - [Files - Swift 文件和文件夹操作辅助工具类](https://github.com/JohnSundell/Files) - 文件文件夹的操作
 - [Tiptoes - 比iOS系统自带导航效果更好的组件，带有视差的导航效果，好看](https://github.com/caiyue1993/Tiptoes) - 
@@ -240,7 +240,7 @@
 -[非侵入式的 iOS 开发网络探测和调试工具，做的超棒](https://github.com/xmartlabs/Xniffer) -  
 -[Swift 实现的社交网络 Tag 解析，比如常见的 @ ，# ，超链接等](https://github.com/optonaut/ActiveLabel.swift) -  解析例如微博上的@，#等符号
 -[开源一个位于屏幕底部的 iOS 导航栏，让用户专注于屏幕内容本身，制造沉浸
--[又一款漂亮的 iOS 日历组件，超好看](https://github.com/patchthecode/JTAppleCalendar) -  
+-[又一款漂亮的 iOS 日历组件，超好看](https://github.com/patchthecode/JTAppleCalendar)
 -[超级详细的iOS Quartz2D详解，看完就可以熟练自定义控件了](http://www.imlifengfeng.com/blog/?utm_source=gank.io&p=514&utm_medium=email) -  介绍的非常全面
 -[iOS Debug 辅助工具，能够展示日志，网络请求，设备信息，崩溃报告等等信息，非常的实用](https://github.com/remirobert/Dotzu) -  
 -[Swift 发送邮件](https://github.com/candostdagdeviren/CDAlertView) -  Swift编写
@@ -249,17 +249,19 @@
 -[给 Auto Layout 赋予更多的功能，使用起来更方便些]https://github.com/roberthein/TinyConstraints) -  看起来很赞
 -[Swift 下实现的漂亮的 Slide 组件](https://github.com/WenchaoD/FSPagerView) - 轮播图控件，Swift实现，可选择的样式非常多。
 -[iOS版本的相机](https://hawk0620.github.io/blog/2017/02/17/zpcamera-opensource-share/) -  项目代码[ZPCamera](https://github.com/hawk0620/ZPCamera) - Osho 相机是我独立开发上架的一个相机 App，它支持1:1，4:3，16:9多种分辨率拍摄，滤镜可在取景框的实时预览，拍摄过程可与滤镜实时合成，支持分段拍摄，支持回删等特性。下面先分享分享开发这个 App 的一些心得体会，文末会给出项目的下载地址，阅读本文可能需要一点点 AVFoundation 开发的基础
--[iOS消息通知框架，支持多种效果](https://github.com/imlifengfeng/FFToast) -  
--[Swift 渐变式加载进度条](https://github.com/DholStudio/DSGradientProgressView) -   
+-[iOS消息通知框架，支持多种效果](https://github.com/imlifengfeng/FFToast)  
+-[Swift 渐变式加载进度条](https://github.com/DholStudio/DSGradientProgressView)   
 
 -[iOS Panel 效果，支持拖动，也支持定位展示](https://github.com/louisdh/panelkit) -  iOS地图使用库
 -[iOS 闪烁动画效果，之前也推荐过几个类似的库，再推荐一个新的](https://github.com/631106979/WCLShineButton) -  点赞动画效果 
--[app开发者专用应用商店截图工具](https://github.com/6ag/AppScreenshots) -  
+-[app开发者专用应用商店截图工具](https://github.com/6ag/AppScreenshots)  
 -[iOS Dropdown 风格菜单](https://github.com/younatics/YNDropDownMenu) -  就是大众点评下拉的选择菜单
--[iOS 瀑布流布局](https://github.com/NicolasKim/ELWaterFallLayout) -  
+-[iOS 瀑布流布局](https://github.com/NicolasKim/ELWaterFallLayout)  
 -[一个轻量级的 To-Do iOS 插件](https://github.com/cyanzhong/TodayMind) -  Pin 作者开源了新项目
 -[React Native 实现的下拉刷新，很漂亮 - RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) - React Native的刷新 
- 
+-[Swift 多线程任务管理库](https://github.com/intelygenz/Kommander-iOS)  
+-[iOS 360° 图片展示组件，酷酷的](https://github.com/scihant/CTPanoramaView)
+-[轻巧的一款 iOS 网络变更通知工具](https://github.com/ezefranca/EFInternetIndicator) -  结合Reachability进行网络变化时，显示提示组件
  
  
 
@@ -418,6 +420,7 @@
 - [一个超棒的开源 Mac 视频播放器！好看，实用，功能完整](https://lhc70000.github.io/iina/?utm_source=gank.io&utm_medium=email) -- [Github地址](https://github.com/lhc70000/iina)
 - [Telegram - Telegram Desktop messaging app - 开源 Mac App](https://github.com/telegramdesktop/tdesktop?utm_source=gank.io&utm_medium=email) - 
 - [paper-for-mac 非官方 Dropbox Paper 客户端，做的超精致](https://github.com/williambout/paper-for-mac?utm_source=gank.io&utm_medium=email) - 
+-[一款好用的Geek专用播放器，全快捷键操作，全平台支持，最重要的，免费开源](https://mpv.io/) -  全平台mac,windows都支持，很赞
 
 	
 
