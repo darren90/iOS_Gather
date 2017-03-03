@@ -236,7 +236,7 @@
 - [Tiptoes - 比iOS系统自带导航效果更好的组件，带有视差的导航效果，好看](https://github.com/caiyue1993/Tiptoes) - 
 - [KRActivityIndicatorView - iOS 加载效果指示器，各式各样的](https://github.com/Henryforce/KRActivityIndicatorView) - 各式各样的loading效果
 - [FlowKit - Flow：轻松管理页面流，让代码逻辑性更强](https://github.com/FilipZawada/FlowKit) - 
-- [SegmentedControl - 一款美美的自定义 SegementedControl](https://github.com/IvanVorobei/SegmentedControl) - 
+- [SegmentedControl - 一款美美的自定义 SegementedControl](https://github.com/IvanVorobei/SegmentedControl) 
 -[非侵入式的 iOS 开发网络探测和调试工具，做的超棒](https://github.com/xmartlabs/Xniffer) -  
 -[Swift 实现的社交网络 Tag 解析，比如常见的 @ ，# ，超链接等](https://github.com/optonaut/ActiveLabel.swift) -  解析例如微博上的@，#等符号
 -[开源一个位于屏幕底部的 iOS 导航栏，让用户专注于屏幕内容本身，制造沉浸
@@ -262,7 +262,9 @@
 -[Swift 多线程任务管理库](https://github.com/intelygenz/Kommander-iOS)  
 -[iOS 360° 图片展示组件，酷酷的](https://github.com/scihant/CTPanoramaView)
 -[轻巧的一款 iOS 网络变更通知工具](https://github.com/ezefranca/EFInternetIndicator) -  结合Reachability进行网络变化时，显示提示组件
- 
+-[中国程序员常读错的英文单词的 App](https://github.com/lexrus/Huahui)
+-[无需越狱，Hook 微信 App](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) -  修改了微信，这个真的很6
+-[OC 实现的一款 Cell 折叠效果](https://github.com/bref-Chan/CCFoldCell) -  上下翻滚折叠，效果不错
  
 
 
