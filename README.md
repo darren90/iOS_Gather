@@ -445,6 +445,8 @@
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [This repo is a collection of awesome Mac applications and tools for developers and designers.](https://github.com/jaywcjlove/awesome-mac) - 收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师
 -[Mac Code Editor](https://github.com/kuyawa/CodeEditor) - mac的代码编辑器 
+-[在Mac的菜单栏显示Github的总星数、followers数和通知数，同时可以在图标中看到自己每天Github数据的变化](https://github.com/Nightonke/Gitee) -  Mac App显示在状态栏
+
 
 
 #### 其他
