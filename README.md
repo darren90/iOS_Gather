@@ -267,7 +267,10 @@
 -[OC 实现的一款 Cell 折叠效果](https://github.com/bref-Chan/CCFoldCell) -  上下翻滚折叠，效果不错
 -[2017 我的 iOS 开发工具集](https://github.com/wxyyxc1992/FrontendTechnology-Handbook)
 -[Alibaba 开源 iOS 高性能异构滚动视图构建方案LazyScrollView](https://github.com/alibaba/LazyScrollView) - 解决了滚动视图的复用回收问题。
- 
+-[iOS 索要权限 - RequestPermission](https://github.com/IvanVorobei/RequestPermission) -  优雅的向用户索要权限，拍照，相册，通知，位置，麦克风，日历等等
+-[用QuartzCode快速实现一个收藏动画](http://tutuge.me/2017/03/08/quartzcode-demo-star-animation/) 
+-[有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/)
+-[使用 LLDB 调试 APP](http://www.imlifengfeng.com/blog/) - 文章  
 
 
 
@@ -425,6 +428,7 @@
 - [Telegram - Telegram Desktop messaging app - 开源 Mac App](https://github.com/telegramdesktop/tdesktop?utm_source=gank.io&utm_medium=email) - 
 - [paper-for-mac 非官方 Dropbox Paper 客户端，做的超精致](https://github.com/williambout/paper-for-mac?utm_source=gank.io&utm_medium=email) - 
 -[一款好用的Geek专用播放器，全快捷键操作，全平台支持，最重要的，免费开源](https://mpv.io/) -  全平台mac,windows都支持，很赞
+-[在Mac上优雅的计算你写了多少行代码 - PPRows](https://github.com/jkpang/PPRows) -  Mac APP
 
 	
 
