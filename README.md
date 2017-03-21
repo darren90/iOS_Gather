@@ -271,8 +271,12 @@
 -[用QuartzCode快速实现一个收藏动画](http://tutuge.me/2017/03/08/quartzcode-demo-star-animation/) 
 -[有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/)
 -[使用 LLDB 调试 APP](http://www.imlifengfeng.com/blog/) - 文章  
-
-
+-[React Native 一体系化导航组件 react-native-navigation](https://github.com/wix/react-native-navigation) -  React Native的导航栏
+-[一个下载，缓存，渲染小图片集合的库](https://github.com/northwind/FlyImage) -  下载很多小图片
+-[iOS模块化过程中模块间解耦方案 - DecouplingKit](https://github.com/coderyi/DecouplingKit) - iOS模块化过程中模块间解耦方案
+-[iOS 翻页指示器效果合集 - CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) -  UIPageControl的各种自定义的效果
+-[iOS Title 旋转切换效果，细节真棒](https://github.com/badoo/BMASpinningLabel) -  效果很赞
+-[轻松创建 iOS View Controller 动画过度效果](https://github.com/Touchwonders/Transition) -  Swift写的，转场动画
 
 
 
