@@ -277,7 +277,8 @@
 -[iOS 翻页指示器效果合集 - CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) -  UIPageControl的各种自定义的效果
 -[iOS Title 旋转切换效果，细节真棒](https://github.com/badoo/BMASpinningLabel) -  效果很赞
 -[轻松创建 iOS View Controller 动画过度效果](https://github.com/Touchwonders/Transition) -  Swift写的，转场动画
-
+-[web页面缓存框架Swift版本 - mattress](https://github.com/buzzfeed/mattress) -  厉害了了这个
+-[iPad 浮动键盘 - floatingkeyboard-playground](https://github.com/steventroughtonsmith/floatingkeyboard-playground) -  iPad键盘
 
 
 
