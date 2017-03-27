@@ -400,7 +400,10 @@
 -[让 Swift Cell 动画变得更容易实现](https://github.com/Mononster/Swift-CellAnimation) -  
 -[一个可滑动的不定宽按钮的 Segment Control，带自动居中，可直接在 Storyboard 中定制](https://github.com/Wildog/WDScrollableSegmentedControl) -  横滑控件，segment
 
+-[iOS 开源 App 集合](https://github.com/dkhamsing/open-source-ios-apps) -  Collaborative List of Open-Source iOS Apps，iOS Demo的合辑
 
+-[iOS APP开发的调试工具GodEye](https://github.com/zixun/GodEye) - 能够显示log，崩溃日志，内存泄露，cpu占用情况等等，非常的详细，iOS 开发，上帝之眼。可以看到 Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder 等等等等
+-[iOS APP开发的调试工具Dotzu](https://github.com/remirobert/Dotzu) -  可以显示日志，网络，崩溃等等信息
 
 
 

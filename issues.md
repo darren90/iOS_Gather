@@ -26,7 +26,22 @@
 -[iOS后台模式开发指南](https://github.com/hehonghui/iOS-tech-frontier/blob/master/issue-3/iOS%E5%90%8E%E5%8F%B0%E6%A8%A1%E5%BC%8F%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.md) - 这篇不错
 -[NSURLSession使用说明及后台工作流程分析](http://www.cocoachina.com/ios/20131106/7304.html)
 -[iOS 后台运行实现总结](http://www.jianshu.com/p/d3e279de2e32#)
+- [iOS NSURLSession](http://cookfront.github.io/2015/05/27/ios-nsurlsession/)
+-[iOS NSURLSession介绍](http://www.dswey.com/2014/11/17/nsurlsession/)
 
+
+
+-[iOS网络-NSURLSession简单使用](http://www.jianshu.com/p/0c10b922a691)
+-[为什么要使用NSURLSession?](http://www.jianshu.com/p/045cdfdaaf6e)
+-[iOS开发下载、断点续传-NSURLConnection、NSURLSession](http://www.jianshu.com/p/b5861e1d9f7b)
+-[用NSURLConnection封装一个断点续传后台下载的轻量级下载工具_part1 ](http://www.imooc.com/article/12784) - NSURLConnection实现的可以后台现在的APP
+
+-[iOS使用NSURLSession进行下载（包括后台下载，断点下载）](http://www.jianshu.com/p/1211cf99dfc3) - 这个非常的详细
+-[iOS7 NSURLSession 实现批量下载，支持后台下载功能（进度展示、暂停、重启等）](https://github.com/kingundertree/XZDownloadTask) - 这个也非常的详细
+-[基于iOS 10、realm封装的下载器（支持存储读取、断点续传、后台下载、杀死APP重启后的断点续传等功能）](http://www.cocoachina.com/ios/20170316/18901.html)
+-[一个简单的使用NSURLSession的下载Demo，包括后台下载和断点下载](https://github.com/HustHank/BackgroundDownloadDemo)
+-[LYFDownloader](https://github.com/Luoyuanfeng/LYFDownloader)
+-[NSURLSession 拾遗](http://zxfcumtcs.github.io/2016/06/09/NSURLSession_Supplements/)
 
 -----
 
