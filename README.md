@@ -404,6 +404,48 @@
 
 -[iOS APP开发的调试工具GodEye](https://github.com/zixun/GodEye) - 能够显示log，崩溃日志，内存泄露，cpu占用情况等等，非常的详细，iOS 开发，上帝之眼。可以看到 Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder 等等等等
 -[iOS APP开发的调试工具Dotzu](https://github.com/remirobert/Dotzu) -  可以显示日志，网络，崩溃等等信息
+-[高性能横向UITableView](https://github.com/nightwolf-chen/JDCHorizontalTableView) -  横着滑动的UITableView
+-[iOS页面内的系统引导页AwesomeIntroGuideView](https://github.com/Bupterambition/AwesomeIntroGuideView) -  iOS 漂亮的 Intro 效果，实现对新功能区域的高亮介绍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
