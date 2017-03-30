@@ -279,8 +279,7 @@
 -[轻松创建 iOS View Controller 动画过度效果](https://github.com/Touchwonders/Transition) -  Swift写的，转场动画
 -[web页面缓存框架Swift版本 - mattress](https://github.com/buzzfeed/mattress) -  厉害了了这个
 -[iPad 浮动键盘 - floatingkeyboard-playground](https://github.com/steventroughtonsmith/floatingkeyboard-playground) -  iPad键盘
-
-
+-[养一只”无限猴子”帮你测试](https://kemchenj.github.io/2017/03/16/2017-03-16/) - iOS Monkey测试方案
 
 
 
