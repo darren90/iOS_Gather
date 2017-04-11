@@ -280,7 +280,7 @@
 -[web页面缓存框架Swift版本 - mattress](https://github.com/buzzfeed/mattress) -  厉害了了这个
 -[iPad 浮动键盘 - floatingkeyboard-playground](https://github.com/steventroughtonsmith/floatingkeyboard-playground) -  iPad键盘
 -[养一只”无限猴子”帮你测试](https://kemchenj.github.io/2017/03/16/2017-03-16/) - iOS Monkey测试方案
-
+-[给图片拓展下属性，加个边框、搞个渐变](https://github.com/devxoul/SwiftyImage) -  Swift版本的图片处理
 
 
 
