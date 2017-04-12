@@ -281,6 +281,10 @@
 -[iPad 浮动键盘 - floatingkeyboard-playground](https://github.com/steventroughtonsmith/floatingkeyboard-playground) -  iPad键盘
 -[养一只”无限猴子”帮你测试](https://kemchenj.github.io/2017/03/16/2017-03-16/) - iOS Monkey测试方案
 -[给图片拓展下属性，加个边框、搞个渐变](https://github.com/devxoul/SwiftyImage) -  Swift版本的图片处理
+-[比较全面和强大的播放器，同时支持 VR 全景视频](https://github.com/libobjc/SGPlayer) -  强大的播放器
+-[评分条/星级条（类似于淘宝/京东/1号店/亚马逊等商城类的评分条）](https://github.com/jinht/RatingBar) -  滑动评分
+
+
 
 
 
