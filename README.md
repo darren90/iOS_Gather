@@ -283,7 +283,8 @@
 -[给图片拓展下属性，加个边框、搞个渐变](https://github.com/devxoul/SwiftyImage) -  Swift版本的图片处理
 -[比较全面和强大的播放器，同时支持 VR 全景视频](https://github.com/libobjc/SGPlayer) -  强大的播放器
 -[评分条/星级条（类似于淘宝/京东/1号店/亚马逊等商城类的评分条）](https://github.com/jinht/RatingBar) -  滑动评分
-
+-[iOS loading动画合辑 Swift版本 - NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  这个真的很赞
+-[iOS loading动画合辑 oc版本 - DGActivityIndicatorView](https://github.com/ninjaprox/DGActivityIndicatorView) -   这个真的很赞
 
 
 
