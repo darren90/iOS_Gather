@@ -285,7 +285,7 @@
 -[评分条/星级条（类似于淘宝/京东/1号店/亚马逊等商城类的评分条）](https://github.com/jinht/RatingBar) -  滑动评分
 -[iOS loading动画合辑 Swift版本 - NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  这个真的很赞
 -[iOS loading动画合辑 oc版本 - DGActivityIndicatorView](https://github.com/ninjaprox/DGActivityIndicatorView) -   这个真的很赞
-
+-[iOS 手势解锁独立控件，可扩展性很强](https://github.com/hsuanchih/CCGestureLock-Swift) -  Swift版本的扩展性强
 
 
 
