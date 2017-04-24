@@ -389,7 +389,7 @@
 - [Swift 实现的一个画中画 （ Picture in Picture ） 播放器](https://github.com/wddwycc/XDPlayer)
 - [使用react native开发的一个one客户端](https://github.com/wutongke/react-native-one)
 -[轻量，漂亮的开源财务管理 App](https://github.com/richardxyx/BoardBank) -  使用起来还是不错的。
-
+-[React Native 写的美团客户端](https://github.com/huanxsd/MeiTuan) -  React Native的又一力作
 
 
 ### 非常的重要的
