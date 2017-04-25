@@ -286,6 +286,7 @@
 -[iOS loading动画合辑 Swift版本 - NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  这个真的很赞
 -[iOS loading动画合辑 oc版本 - DGActivityIndicatorView](https://github.com/ninjaprox/DGActivityIndicatorView) -   这个真的很赞
 -[iOS 手势解锁独立控件，可扩展性很强](https://github.com/hsuanchih/CCGestureLock-Swift) -  Swift版本的扩展性强
+-[BouncyLayout 滚动遇边界时，反弹式动画效果](https://github.com/roberthein/BouncyLayout) -  UICollectionView的布局文件动画效果很赞
 
 
 
