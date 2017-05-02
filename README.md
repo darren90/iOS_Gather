@@ -289,7 +289,7 @@
 -[BouncyLayout 滚动遇边界时，反弹式动画效果](https://github.com/roberthein/BouncyLayout) -  UICollectionView的布局文件动画效果很赞
 -[支持底部插入 Cell 的 UITableView](https://github.com/marty-suzuki/ReverseExtension)
 -[UILabel 和 UITextView 功能扩展，类似微博多媒体文本](https://github.com/jhurray/SelectableTextView) 
-
+-[基于 Swift 实现的支持多种展示方式的下拉刷新组件](https://github.com/WXGBridgeQ/SwiftPullToRefresh) - Swift3.0编写，总于出了Swift版本的刷新框架(包括下拉刷新，上拉加载更多)
 
 
 
