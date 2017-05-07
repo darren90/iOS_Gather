@@ -231,65 +231,67 @@
 - [Sharaku - 漂亮的图片滤镜效果](https://github.com/makomori/Sharaku?utm_source=gank.io&utm_medium=email)
 - [全网最详细的iOS Category详解](http://www.imlifengfeng.com/blog/?utm_medium=email&utm_source=gank.io&p=474)
 - [PieCharts - iOS 实用饼状图](https://github.com/i-schuetz/PieCharts)
-- [FSCalendar - 一款漂亮，强大的 iOS 日历组件](https://github.com/WenchaoD/FSCalendar) - 非常的好用，而且支持Swift
-- [Files - Swift 文件和文件夹操作辅助工具类](https://github.com/JohnSundell/Files) - 文件文件夹的操作
+- [FSCalendar - 一款漂亮，强大的 iOS 日历组件](https://github.com/WenchaoD/FSCalendar) 非常的好用，而且支持Swift
+- [Files - Swift 文件和文件夹操作辅助工具类](https://github.com/JohnSundell/Files) 文件文件夹的操作
 - [Tiptoes - 比iOS系统自带导航效果更好的组件，带有视差的导航效果，好看](https://github.com/caiyue1993/Tiptoes) - 
-- [KRActivityIndicatorView - iOS 加载效果指示器，各式各样的](https://github.com/Henryforce/KRActivityIndicatorView) - 各式各样的loading效果
+- [KRActivityIndicatorView - iOS 加载效果指示器，各式各样的](https://github.com/Henryforce/KRActivityIndicatorView)  各式各样的loading效果
 - [FlowKit - Flow：轻松管理页面流，让代码逻辑性更强](https://github.com/FilipZawada/FlowKit) - 
 - [SegmentedControl - 一款美美的自定义 SegementedControl](https://github.com/IvanVorobei/SegmentedControl) 
--[非侵入式的 iOS 开发网络探测和调试工具，做的超棒](https://github.com/xmartlabs/Xniffer) -  
--[Swift 实现的社交网络 Tag 解析，比如常见的 @ ，# ，超链接等](https://github.com/optonaut/ActiveLabel.swift) -  解析例如微博上的@，#等符号
--[开源一个位于屏幕底部的 iOS 导航栏，让用户专注于屏幕内容本身，制造沉浸
--[又一款漂亮的 iOS 日历组件，超好看](https://github.com/patchthecode/JTAppleCalendar)
--[超级详细的iOS Quartz2D详解，看完就可以熟练自定义控件了](http://www.imlifengfeng.com/blog/?utm_source=gank.io&p=514&utm_medium=email) -  介绍的非常全面
--[iOS Debug 辅助工具，能够展示日志，网络请求，设备信息，崩溃报告等等信息，非常的实用](https://github.com/remirobert/Dotzu) -  
--[Swift 发送邮件](https://github.com/candostdagdeviren/CDAlertView) -  Swift编写
--[弹出一个醒目而优雅的通知框](https://github.com/onevcat/Hedwig) -  瞄神写的
--[UIDevice 封装，更方便的获取设备信息，以及仿真设备](https://github.com/dennisweissmann/DeviceKit) -  Swift编写
--[给 Auto Layout 赋予更多的功能，使用起来更方便些]https://github.com/roberthein/TinyConstraints) -  看起来很赞
--[Swift 下实现的漂亮的 Slide 组件](https://github.com/WenchaoD/FSPagerView) - 轮播图控件，Swift实现，可选择的样式非常多。
--[iOS版本的相机](https://hawk0620.github.io/blog/2017/02/17/zpcamera-opensource-share/) -  项目代码[ZPCamera](https://github.com/hawk0620/ZPCamera) - Osho 相机是我独立开发上架的一个相机 App，它支持1:1，4:3，16:9多种分辨率拍摄，滤镜可在取景框的实时预览，拍摄过程可与滤镜实时合成，支持分段拍摄，支持回删等特性。下面先分享分享开发这个 App 的一些心得体会，文末会给出项目的下载地址，阅读本文可能需要一点点 AVFoundation 开发的基础
--[iOS消息通知框架，支持多种效果](https://github.com/imlifengfeng/FFToast)  
--[Swift 渐变式加载进度条](https://github.com/DholStudio/DSGradientProgressView)   
+- [非侵入式的 iOS 开发网络探测和调试工具，做的超棒](https://github.com/xmartlabs/Xniffer) 
+- [Swift 实现的社交网络 Tag 解析，比如常见的 @ ，# ，超链接等](https://github.com/optonaut/ActiveLabel.swift) 解析例如微博上的@，#等符号
+- [又一款漂亮的 iOS 日历组件，超好看](https://github.com/patchthecode/JTAppleCalendar)
+- [超级详细的iOS Quartz2D详解，看完就可以熟练自定义控件了](http://www.imlifengfeng.com/blog/?utm_source=gank.io&p=514&utm_medium=email) -  介绍的非常全面
 
--[iOS Panel 效果，支持拖动，也支持定位展示](https://github.com/louisdh/panelkit) -  iOS地图使用库
--[iOS 闪烁动画效果，之前也推荐过几个类似的库，再推荐一个新的](https://github.com/631106979/WCLShineButton) -  点赞动画效果 
--[app开发者专用应用商店截图工具](https://github.com/6ag/AppScreenshots)  
--[iOS Dropdown 风格菜单](https://github.com/younatics/YNDropDownMenu) -  就是大众点评下拉的选择菜单
--[iOS 瀑布流布局](https://github.com/NicolasKim/ELWaterFallLayout)  
--[一个轻量级的 To-Do iOS 插件](https://github.com/cyanzhong/TodayMind) -  Pin 作者开源了新项目
--[React Native 实现的下拉刷新，很漂亮 - RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) - React Native的刷新 
--[Swift 多线程任务管理库](https://github.com/intelygenz/Kommander-iOS)  
--[iOS 360° 图片展示组件，酷酷的](https://github.com/scihant/CTPanoramaView)
--[轻巧的一款 iOS 网络变更通知工具](https://github.com/ezefranca/EFInternetIndicator) -  结合Reachability进行网络变化时，显示提示组件
--[中国程序员常读错的英文单词的 App](https://github.com/lexrus/Huahui)
--[无需越狱，Hook 微信 App](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) -  修改了微信，这个真的很6
--[OC 实现的一款 Cell 折叠效果](https://github.com/bref-Chan/CCFoldCell) -  上下翻滚折叠，效果不错
--[2017 我的 iOS 开发工具集](https://github.com/wxyyxc1992/FrontendTechnology-Handbook)
--[Alibaba 开源 iOS 高性能异构滚动视图构建方案LazyScrollView](https://github.com/alibaba/LazyScrollView) - 解决了滚动视图的复用回收问题。
--[iOS 索要权限 - RequestPermission](https://github.com/IvanVorobei/RequestPermission) -  优雅的向用户索要权限，拍照，相册，通知，位置，麦克风，日历等等
--[用QuartzCode快速实现一个收藏动画](http://tutuge.me/2017/03/08/quartzcode-demo-star-animation/) 
--[有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/)
--[使用 LLDB 调试 APP](http://www.imlifengfeng.com/blog/) - 文章  
--[React Native 一体系化导航组件 react-native-navigation](https://github.com/wix/react-native-navigation) -  React Native的导航栏
--[一个下载，缓存，渲染小图片集合的库](https://github.com/northwind/FlyImage) -  下载很多小图片
--[iOS模块化过程中模块间解耦方案 - DecouplingKit](https://github.com/coderyi/DecouplingKit) - iOS模块化过程中模块间解耦方案
--[iOS 翻页指示器效果合集 - CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) -  UIPageControl的各种自定义的效果
--[iOS Title 旋转切换效果，细节真棒](https://github.com/badoo/BMASpinningLabel) -  效果很赞
--[轻松创建 iOS View Controller 动画过度效果](https://github.com/Touchwonders/Transition) -  Swift写的，转场动画
--[web页面缓存框架Swift版本 - mattress](https://github.com/buzzfeed/mattress) -  厉害了了这个
--[iPad 浮动键盘 - floatingkeyboard-playground](https://github.com/steventroughtonsmith/floatingkeyboard-playground) -  iPad键盘
--[养一只”无限猴子”帮你测试](https://kemchenj.github.io/2017/03/16/2017-03-16/) - iOS Monkey测试方案
--[给图片拓展下属性，加个边框、搞个渐变](https://github.com/devxoul/SwiftyImage) -  Swift版本的图片处理
--[比较全面和强大的播放器，同时支持 VR 全景视频](https://github.com/libobjc/SGPlayer) -  强大的播放器
--[评分条/星级条（类似于淘宝/京东/1号店/亚马逊等商城类的评分条）](https://github.com/jinht/RatingBar) -  滑动评分
--[iOS loading动画合辑 Swift版本 - NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  这个真的很赞
--[iOS loading动画合辑 oc版本 - DGActivityIndicatorView](https://github.com/ninjaprox/DGActivityIndicatorView) -   这个真的很赞
--[iOS 手势解锁独立控件，可扩展性很强](https://github.com/hsuanchih/CCGestureLock-Swift) -  Swift版本的扩展性强
--[BouncyLayout 滚动遇边界时，反弹式动画效果](https://github.com/roberthein/BouncyLayout) -  UICollectionView的布局文件动画效果很赞
--[支持底部插入 Cell 的 UITableView](https://github.com/marty-suzuki/ReverseExtension)
--[UILabel 和 UITextView 功能扩展，类似微博多媒体文本](https://github.com/jhurray/SelectableTextView) 
--[基于 Swift 实现的支持多种展示方式的下拉刷新组件](https://github.com/WXGBridgeQ/SwiftPullToRefresh) - Swift3.0编写，总于出了Swift版本的刷新框架(包括下拉刷新，上拉加载更多)
+- [iOS Debug 辅助工具，能够展示日志，网络请求，设备信息，崩溃报告等等信息，非常的实用](https://github.com/remirobert/Dotzu) 
+- [Swift 发送邮件](https://github.com/candostdagdeviren/CDAlertView) -  Swift编写
+- [弹出一个醒目而优雅的通知框](https://github.com/onevcat/Hedwig) -  瞄神写的
+- [UIDevice 封装，更方便的获取设备信息，以及仿真设备](https://github.com/dennisweissmann/DeviceKit) Swift编写
+- [给 Auto Layout 赋予更多的功能，使用起来更方便些]https://github.com/roberthein/TinyConstraints) -  看起来很赞
+- [Swift 下实现的漂亮的 Slide 组件](https://github.com/WenchaoD/FSPagerView) - 轮播图控件，Swift实现，可选择的样式非常多。
+- [iOS版本的相机](https://hawk0620.github.io/blog/2017/02/17/zpcamera-opensource-share/) -  项目代码[ZPCamera](https://github.com/hawk0620/ZPCamera) - Osho 相机是我独立开发上架的一个相机 App，它支持1:1，4:3，16:9多种分辨率拍摄，滤镜可在取景框的实时预览，拍摄过程可与滤镜实时合成，支持分段拍摄，支持回删等特性。下面先分享分享开发这个 App 的一些心得体会，文末会给出项目的下载地址，阅读本文可能需要一点点 AVFoundation 开发的基础
+- [iOS消息通知框架，支持多种效果](https://github.com/imlifengfeng/FFToast)  
+- [Swift 渐变式加载进度条](https://github.com/DholStudio/DSGradientProgressView)   
+- [iOS Panel 效果，支持拖动，也支持定位展示](https://github.com/louisdh/panelkit) -  iOS地图使用库
+- [iOS 闪烁动画效果，之前也推荐过几个类似的库，再推荐一个新的](https://github.com/631106979/WCLShineButton) -  点赞动画效果 
+- [app开发者专用应用商店截图工具](https://github.com/6ag/AppScreenshots)  
+- [iOS Dropdown 风格菜单](https://github.com/younatics/YNDropDownMenu) -  就是大众点评下拉的选择菜单
+- [iOS 瀑布流布局](https://github.com/NicolasKim/ELWaterFallLayout)  
+- [一个轻量级的 To-Do iOS 插件](https://github.com/cyanzhong/TodayMind) -  Pin 作者开源了新项目
+- [React Native 实现的下拉刷新，很漂亮 - RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl) - React Native的刷新 
+- [Swift 多线程任务管理库](https://github.com/intelygenz/Kommander-iOS)  
+- [iOS 360° 图片展示组件，酷酷的](https://github.com/scihant/CTPanoramaView)
+- [轻巧的一款 iOS 网络变更通知工具](https://github.com/ezefranca/EFInternetIndicator) -  结合Reachability进行网络变化时，显示提示组件
+- [中国程序员常读错的英文单词的 App](https://github.com/lexrus/Huahui)
+- [无需越狱，Hook 微信 App](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) -  修改了微信，这个真的很6
+- [OC 实现的一款 Cell 折叠效果](https://github.com/bref-Chan/CCFoldCell) -  上下翻滚折叠，效果不错
+- [2017 我的 iOS 开发工具集](https://github.com/wxyyxc1992/FrontendTechnology-Handbook)
+- [Alibaba 开源 iOS 高性能异构滚动视图构建方案LazyScrollView](https://github.com/alibaba/LazyScrollView) - 解决了滚动视图的复用回收问题。
+
+- [iOS 索要权限 - RequestPermission](https://github.com/IvanVorobei/RequestPermission) -  优雅的向用户索要权限，拍照，相册，通知，位置，麦克风，日历等等
+
+- [用QuartzCode快速实现一个收藏动画](http://tutuge.me/2017/03/08/quartzcode-demo-star-animation/) 
+
+- [有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/)
+- [使用 LLDB 调试 APP](http://www.imlifengfeng.com/blog/) 
+- [React Native 一体系化导航组件 react-native-navigation](https://github.com/wix/react-native-navigation) -  React Native的导航栏
+- [一个下载，缓存，渲染小图片集合的库](https://github.com/northwind/FlyImage) -  下载很多小图片
+- [iOS模块化过程中模块间解耦方案 - DecouplingKit](https://github.com/coderyi/DecouplingKit) - iOS模块化过程中模块间解耦方案
+- [iOS 翻页指示器效果合集 - CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) -  UIPageControl的各种自定义的效果
+- [iOS Title 旋转切换效果，细节真棒](https://github.com/badoo/BMASpinningLabel) -  效果很赞
+- [轻松创建 iOS View Controller 动画过度效果](https://github.com/Touchwonders/Transition) -  Swift写的，转场动画
+- [web页面缓存框架Swift版本 - mattress](https://github.com/buzzfeed/mattress) -  厉害了了这个
+- [iPad 浮动键盘 - floatingkeyboard-playground](https://github.com/steventroughtonsmith/floatingkeyboard-playground) -  iPad键盘
+- [养一只”无限猴子”帮你测试](https://kemchenj.github.io/2017/03/16/2017-03-16/) - iOS Monkey测试方案
+- [给图片拓展下属性，加个边框、搞个渐变](https://github.com/devxoul/SwiftyImage) -  Swift版本的图片处理
+- [比较全面和强大的播放器，同时支持 VR 全景视频](https://github.com/libobjc/SGPlayer) -  强大的播放器
+- [评分条/星级条（类似于淘宝/京东/1号店/亚马逊等商城类的评分条）](https://github.com/jinht/RatingBar) -  滑动评分
+- [iOS loading动画合辑 Swift版本 - NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -  这个真的很赞
+- [iOS loading动画合辑 oc版本 - DGActivityIndicatorView](https://github.com/ninjaprox/DGActivityIndicatorView) 这个真的很赞
+- [iOS 手势解锁独立控件，可扩展性很强](https://github.com/hsuanchih/CCGestureLock-Swift) -  Swift版本的扩展性强
+- [BouncyLayout 滚动遇边界时，反弹式动画效果](https://github.com/roberthein/BouncyLayout) -  UICollectionView的布局文件动画效果很赞
+- [支持底部插入 Cell 的 UITableView](https://github.com/marty-suzuki/ReverseExtension)
+- [UILabel 和 UITextView 功能扩展，类似微博多媒体文本](https://github.com/jhurray/SelectableTextView) 
+- [基于 Swift 实现的支持多种展示方式的下拉刷新组件](https://github.com/WXGBridgeQ/SwiftPullToRefresh) - Swift3.0编写，总于出了Swift版本的刷新框架(包括下拉刷新，上拉加载更多)
 
 
 
@@ -407,15 +409,13 @@
 - [kickstarter 开源了 iOS App 的代码](https://github.com/kickstarter/ios-oss?utm_source=gank.io&utm_medium=email)
 - [类似 QQ 一样的，通知 Bar 效果](https://github.com/qiuncheng/NoticeBar?utm_source=gank.io&utm_medium=email)
 - [快速拨号神器](https://github.com/CNKCQ/Deardialing?utm_source=gank.io&utm_medium=email)
--[让 Swift Cell 动画变得更容易实现](https://github.com/Mononster/Swift-CellAnimation) -  
--[一个可滑动的不定宽按钮的 Segment Control，带自动居中，可直接在 Storyboard 中定制](https://github.com/Wildog/WDScrollableSegmentedControl) -  横滑控件，segment
-
--[iOS 开源 App 集合](https://github.com/dkhamsing/open-source-ios-apps) -  Collaborative List of Open-Source iOS Apps，iOS Demo的合辑
-
--[iOS APP开发的调试工具GodEye](https://github.com/zixun/GodEye) - 能够显示log，崩溃日志，内存泄露，cpu占用情况等等，非常的详细，iOS 开发，上帝之眼。可以看到 Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder 等等等等
--[iOS APP开发的调试工具Dotzu](https://github.com/remirobert/Dotzu) -  可以显示日志，网络，崩溃等等信息
--[高性能横向UITableView](https://github.com/nightwolf-chen/JDCHorizontalTableView) -  横着滑动的UITableView
--[iOS页面内的系统引导页AwesomeIntroGuideView](https://github.com/Bupterambition/AwesomeIntroGuideView) -  iOS 漂亮的 Intro 效果，实现对新功能区域的高亮介绍
+- [让 Swift Cell 动画变得更容易实现](https://github.com/Mononster/Swift-CellAnimation) -  
+- [一个可滑动的不定宽按钮的 Segment Control，带自动居中，可直接在 Storyboard 中定制](https://github.com/Wildog/WDScrollableSegmentedControl) -  横滑控件，segment
+- [iOS 开源 App 集合](https://github.com/dkhamsing/open-source-ios-apps) -  Collaborative List of Open-Source iOS Apps，iOS Demo的合辑
+- [iOS APP开发的调试工具GodEye](https://github.com/zixun/GodEye) - 能够显示log，崩溃日志，内存泄露，cpu占用情况等等，非常的详细，iOS 开发，上帝之眼。可以看到 Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder 等等等等
+- [iOS APP开发的调试工具Dotzu](https://github.com/remirobert/Dotzu) -  可以显示日志，网络，崩溃等等信息
+- [高性能横向UITableView](https://github.com/nightwolf-chen/JDCHorizontalTableView) -  横着滑动的UITableView
+- [iOS页面内的系统引导页AwesomeIntroGuideView](https://github.com/Bupterambition/AwesomeIntroGuideView) -  iOS 漂亮的 Intro 效果，实现对新功能区域的高亮介绍
 
 
 
@@ -491,8 +491,8 @@
 - [一个超棒的开源 Mac 视频播放器！好看，实用，功能完整](https://lhc70000.github.io/iina/?utm_source=gank.io&utm_medium=email) -- [Github地址](https://github.com/lhc70000/iina)
 - [Telegram - Telegram Desktop messaging app - 开源 Mac App](https://github.com/telegramdesktop/tdesktop?utm_source=gank.io&utm_medium=email) - 
 - [paper-for-mac 非官方 Dropbox Paper 客户端，做的超精致](https://github.com/williambout/paper-for-mac?utm_source=gank.io&utm_medium=email) - 
--[一款好用的Geek专用播放器，全快捷键操作，全平台支持，最重要的，免费开源](https://mpv.io/) -  全平台mac,windows都支持，很赞
--[在Mac上优雅的计算你写了多少行代码 - PPRows](https://github.com/jkpang/PPRows) -  Mac APP
+- [一款好用的Geek专用播放器，全快捷键操作，全平台支持，最重要的，免费开源](https://mpv.io/) -  全平台mac,windows都支持，很赞
+- [在Mac上优雅的计算你写了多少行代码 - PPRows](https://github.com/jkpang/PPRows) -  Mac APP
 
 	
 
@@ -512,8 +512,8 @@
 - [全新 Mac 安装指南](https://github.com/kaiye/kaiye.github.com/issues/1#rd) - 全新 Mac 安装指南
 - [收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [This repo is a collection of awesome Mac applications and tools for developers and designers.](https://github.com/jaywcjlove/awesome-mac) - 收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师
--[Mac Code Editor](https://github.com/kuyawa/CodeEditor) - mac的代码编辑器 
--[在Mac的菜单栏显示Github的总星数、followers数和通知数，同时可以在图标中看到自己每天Github数据的变化](https://github.com/Nightonke/Gitee) -  Mac App显示在状态栏
+- [Mac Code Editor](https://github.com/kuyawa/CodeEditor) - mac的代码编辑器 
+- [在Mac的菜单栏显示Github的总星数、followers数和通知数，同时可以在图标中看到自己每天Github数据的变化](https://github.com/Nightonke/Gitee) -  Mac App显示在状态栏
 
 
 
@@ -552,7 +552,7 @@
 
 #### Swift学习
 
--[iOS开发完全自学资源集合](http://www.jianshu.com/p/d70041eb25d7)	
+- [iOS开发完全自学资源集合](http://www.jianshu.com/p/d70041eb25d7)	
 
 
 - [微信读书 iOS 性能优化总结](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
@@ -565,6 +565,7 @@
 
 
 --- 下载
+
 - [实现项目下载需求时遇过的那些坑](http://www.cocoachina.com/ios/20150624/12242.html)
 
 
