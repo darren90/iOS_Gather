@@ -292,7 +292,8 @@
 - [支持底部插入 Cell 的 UITableView](https://github.com/marty-suzuki/ReverseExtension)
 - [UILabel 和 UITextView 功能扩展，类似微博多媒体文本](https://github.com/jhurray/SelectableTextView) 
 - [基于 Swift 实现的支持多种展示方式的下拉刷新组件](https://github.com/WXGBridgeQ/SwiftPullToRefresh) - Swift3.0编写，总于出了Swift版本的刷新框架(包括下拉刷新，上拉加载更多)
-
+- [ETCollectionViewWaterFallLayout - Swift版本的瀑布流Layout](https://github.com/ElegantTeam/ETCollectionViewWaterFallLayout) -  Swift编写
+- [跨平台复杂布局的场景的解决方案——来自阿里巴巴](https://github.com/alibaba/Tangram-iOS) -  模块化的用户界面解决方案构建本地动态页面
 
 
 
