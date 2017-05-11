@@ -83,7 +83,8 @@
 - [UICollectionViewLeftAlignedLayout](https://github.com/mokagio/UICollectionViewLeftAlignedLayout) - UICollectionViewLeftAlignedLayout 实现左对齐的视图布局效果。
 - [贝塞尔曲线](https://github.com/DeveloperLx/LxThroughPointsBezier) - Draw a smooth bezier through several points you designated. The curve‘s bend level is adjustable.
 - [启动动画](https://github.com/CharlinFeng/CoreLaunch) - 快速添加启动动画
-- [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)- 可自由定制的iOS底部导航控件 -[源码解读](http://www.jianshu.com/p/c1c5765baded)
+- [RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)- 可自由定制的iOS底部导航控件 
+- [源码解读](http://www.jianshu.com/p/c1c5765baded)
 
 - [抽屉DDMenuController](https://github.com/JPluto/DDMenuController) - 侧边栏
 - [CRGradientLabel](https://github.com/chroman/CRGradientLabel) - CRGradientLabel 是自定义的 UILabel 子类，支持渐变颜色背景。
@@ -393,11 +394,17 @@
 - [基于 Electron 实现的一个轻量级 Markdown 笔记本](https://github.com/AnotherNote/anote)
 - [Swift 实现的一个画中画 （ Picture in Picture ） 播放器](https://github.com/wddwycc/XDPlayer)
 - [使用react native开发的一个one客户端](https://github.com/wutongke/react-native-one)
--[轻量，漂亮的开源财务管理 App](https://github.com/richardxyx/BoardBank) -  使用起来还是不错的。
--[React Native 写的美团客户端](https://github.com/huanxsd/MeiTuan) -  React Native的又一力作
--[基于 Retrokit 实现的非官方 Dribbble 客户端](https://github.com/devxoul/Drrrible) -  iOS领域又一力作
--[可能是最好看的 v2ex iOS 客户端](https://github.com/darkerk/v2ex) -  支持主题切换
-
+- [轻量，漂亮的开源财务管理 App](https://github.com/richardxyx/BoardBank) -  使用起来还是不错的。
+- [React Native 写的美团客户端](https://github.com/huanxsd/MeiTuan) -  React Native的又一力作
+- [基于 Retrokit 实现的非官方 Dribbble 客户端](https://github.com/devxoul/Drrrible) -  iOS领域又一力作
+- [可能是最好看的 v2ex iOS 客户端](https://github.com/darkerk/v2ex) -  支持主题切换
+- [懒人笔记iOS客户端](https://github.com/liaojinxing/Voice2Note) -  
+- [《猿已阅》码农周刊iOS客户端](https://github.com/icepy/manong-reading) -  
+- [火狐浏览器iOS客户端](https://github.com/mozilla-mobile/firefox-ios) -  
+- [大神做的高仿网易新闻项目源码](https://github.com/dsxNiubility/SXNews) -  
+- [维基百科iOS客户端](https://github.com/wikimedia/wikipedia-ios) -  
+- [YoCelsius——一款天气预报的应用]( https://github.com/YouXianMing/YoCelsius) - 
+- [密记iOS版——款简单的笔记应用](https://github.com/iHTCboy/SecurityNote) -  
 
 
 
@@ -581,7 +588,7 @@
 - [非常好用的Mac应用程序推荐](https://jaywcjlove.github.io/awesome-mac/?utm_source=gank.io&utm_medium=email)
 - [监听 APP 价格变动](http://djyde.github.io/2016/02/16/how-do-i-detect-app-price/)
 - [史上最详细的iOS难点之Runtime运行时机制](http://www.imlifengfeng.com/blog/?p=316&utm_source=gank.io&utm_medium=email)
--[LinkedIn 开源的用于多开模拟器测试用的框架，咔咔的提升效率](https://github.com/linkedin/bluepill) - 多开模拟器，这个真的很6
+- [LinkedIn 开源的用于多开模拟器测试用的框架，咔咔的提升效率](https://github.com/linkedin/bluepill) - 多开模拟器，这个真的很6
 
 		
 
