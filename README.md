@@ -295,7 +295,9 @@
 - [基于 Swift 实现的支持多种展示方式的下拉刷新组件](https://github.com/WXGBridgeQ/SwiftPullToRefresh) - Swift3.0编写，总于出了Swift版本的刷新框架(包括下拉刷新，上拉加载更多)
 - [ETCollectionViewWaterFallLayout - Swift版本的瀑布流Layout](https://github.com/ElegantTeam/ETCollectionViewWaterFallLayout) -  Swift编写
 - [跨平台复杂布局的场景的解决方案——来自阿里巴巴](https://github.com/alibaba/Tangram-iOS) -  模块化的用户界面解决方案构建本地动态页面
-
+- [恰到好处的 Swift 图片 Shadow 效果](https://github.com/olddonkey/ShadowImageView) -  图片的阴影效果
+- [IM 风格 UI 组件，直接快速嵌入，只要认真实现逻辑就好了](https://github.com/jpush/aurora-imui) -  同时支持 Android 和 iOS
+- [iOS 类似 Instagram 的背景渐变动画效果，很漂亮。]() -  
 
 
  
