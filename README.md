@@ -503,7 +503,7 @@
 - [paper-for-mac 非官方 Dropbox Paper 客户端，做的超精致](https://github.com/williambout/paper-for-mac?utm_source=gank.io&utm_medium=email) - 
 - [一款好用的Geek专用播放器，全快捷键操作，全平台支持，最重要的，免费开源](https://mpv.io/) -  全平台mac,windows都支持，很赞
 - [在Mac上优雅的计算你写了多少行代码 - PPRows](https://github.com/jkpang/PPRows) -  Mac APP
-
+- [fir.im 的 mac 客户端，用来管理和上传 fir 的应用](https://github.com/isaced/fir-mac) -  Swift，项目主要涉及到 NSTableView 的定制，和 Cocoa Touch 中的 UITableView 运作原理还是很不一样，macOS 的临时目录运用，以及 NSTask (Swift 里叫 Process) 的使用
 	
 
 #### 多线程
