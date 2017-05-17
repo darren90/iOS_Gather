@@ -426,8 +426,8 @@
 - [iOS APP开发的调试工具Dotzu](https://github.com/remirobert/Dotzu) -  可以显示日志，网络，崩溃等等信息
 - [高性能横向UITableView](https://github.com/nightwolf-chen/JDCHorizontalTableView) -  横着滑动的UITableView
 - [iOS页面内的系统引导页AwesomeIntroGuideView](https://github.com/Bupterambition/AwesomeIntroGuideView) -  iOS 漂亮的 Intro 效果，实现对新功能区域的高亮介绍
-
-
+- [iOS Banner 通知效果](https://github.com/Daltron/NotificationBanner) -  顶部通知来的效果 Swift3
+- [倒计时效果](https://github.com/rsrbk/SRCountdownTimer) -  圆形倒计时
 
 
 
@@ -593,6 +593,9 @@
 - [SDWebImage的缓存策略](https://mp.weixin.qq.com/s?__biz=MzA3ODkzOTQ2NA==&mid=2651911488&idx=1&sn=a7add148c85e34cc586741a3b082a9d8&chksm=845f4167b328c871686274313dbb0a1e81a1aa0559c2a2a181d56816f20455ebdf192115dda2&scene=0&key=62d5caa735f4616f266a1e0774350847765f594341feef8376a86d7334f5c6e7b8050a7940857d561d13e3bec7a32193260c251b4dbfe97890bff23ff42b86e6de67de5663c1a48cfd9320df50062e37&ascene=0&uin=MjYzNTcxNDEwMw%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.12.4+build(16E195)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=dXhAk0i%2F754d%2F0BuP15ujCQtXRnwfffsvA9GsPqc1%2B44ZdF5h2%2BJBBDbpLUahvPJ) -  好文推荐
 - [LinkedIn 开源的用于多开模拟器测试用的框架，咔咔的提升效率](https://github.com/linkedin/bluepill) - 多开模拟器，这个真的很6
 
+## 资料合辑
+
+- [@Swift 2017 活动现场相关资源合集](https://github.com/atConf/atswift-2017-resources) -  Swift2017的资料汇总
 		
 
 
