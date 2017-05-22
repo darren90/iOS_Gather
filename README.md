@@ -267,11 +267,8 @@
 - [OC 实现的一款 Cell 折叠效果](https://github.com/bref-Chan/CCFoldCell) -  上下翻滚折叠，效果不错
 - [2017 我的 iOS 开发工具集](https://github.com/wxyyxc1992/FrontendTechnology-Handbook)
 - [Alibaba 开源 iOS 高性能异构滚动视图构建方案LazyScrollView](https://github.com/alibaba/LazyScrollView) - 解决了滚动视图的复用回收问题。
-
 - [iOS 索要权限 - RequestPermission](https://github.com/IvanVorobei/RequestPermission) -  优雅的向用户索要权限，拍照，相册，通知，位置，麦克风，日历等等
-
 - [用QuartzCode快速实现一个收藏动画](http://tutuge.me/2017/03/08/quartzcode-demo-star-animation/) 
-
 - [有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/)
 - [使用 LLDB 调试 APP](http://www.imlifengfeng.com/blog/) 
 - [React Native 一体系化导航组件 react-native-navigation](https://github.com/wix/react-native-navigation) -  React Native的导航栏
@@ -298,7 +295,8 @@
 - [恰到好处的 Swift 图片 Shadow 效果](https://github.com/olddonkey/ShadowImageView) -  图片的阴影效果
 - [IM 风格 UI 组件，直接快速嵌入，只要认真实现逻辑就好了](https://github.com/jpush/aurora-imui) -  同时支持 Android 和 iOS
 - [iOS 类似 Instagram 的背景渐变动画效果，很漂亮。]() -  
-
+- [随机键盘的 Passcode 效果，全力保证数据安全](https://github.com/cruisediary/Passcode) -  
+- [下载进度条效果](https://github.com/LeonardoCardoso/NFDownloadButton) -  下载按钮的动态效果，圆形
 
  
  
