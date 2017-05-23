@@ -297,7 +297,7 @@
 - [iOS 类似 Instagram 的背景渐变动画效果，很漂亮。]() -  
 - [随机键盘的 Passcode 效果，全力保证数据安全](https://github.com/cruisediary/Passcode) -  
 - [下载进度条效果](https://github.com/LeonardoCardoso/NFDownloadButton) -  下载按钮的动态效果，圆形
-
+- [好用的横滑条](https://github.com/kingsic/SGPageView) -  有好几个效果
  
  
  
