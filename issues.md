@@ -78,6 +78,24 @@ jenkins
 
 
 
+https://blog.leancloud.cn/2835/
+http://www.jianshu.com/p/080108c969e8
+http://linyehui.me/2016/12/01/fix-memory-problem-with-allocation/
+http://www.jianshu.com/p/21d29be26479
+
+
+
+# Instrument Time Profiler教程
+
+# 一. 介绍
+
+Time Profiler帮助我们分析代码的执行时间，找出导致程序变慢的原因，告诉我们“时间都去哪儿了？”。
+
+1. Time Profiler：分析代码的执行时间，找出导致程序变慢的原因。
+2. Allocations：监测内存使用 / 分配情况 
+3. Leaks：找到引发内存泄漏的起点
+
+工具版本：Version 8.3 (8E162)
 
 
 
@@ -90,9 +108,32 @@ jenkins
 
 
 
+参考：
+- [iOS 性能优化：Instruments 工具的救命三招](https://blog.leancloud.cn/2835/) - 可以这里这篇文章的Demo进行使用
+- [instrument Time Profiler总结](http://www.jianshu.com/p/21d29be26479) - 介绍的浅显易懂
 
 
 
+
+
+
+
+
+
+CoreGraphics.framework
+
+Quartz 2D API manages the graphic context and implements drawing.
+Quartz Services API provides low level access to the window server. This includes display hardware, resolution, refresh rate, and others.
+QuartzCore.framework
+
+Core Animation: Objective-C API to do 2D animation.
+Core Image: image and video processing (filters, warp, transitions).iOS 5
+Quartz.frameworkOS X only
+
+Image Kit: display and edit images.
+PDF Kit: display and edit PDFs.
+Quartz Composer: display Quartz Composer compositions.
+QuickLookUI: preview media elements.
 
 
 
