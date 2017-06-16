@@ -298,7 +298,9 @@
 - [随机键盘的 Passcode 效果，全力保证数据安全](https://github.com/cruisediary/Passcode) -  
 - [下载进度条效果](https://github.com/LeonardoCardoso/NFDownloadButton) -  下载按钮的动态效果，圆形
 - [好用的横滑条](https://github.com/kingsic/SGPageView) -  有好几个效果
--[iOS 隐私界面保护方法](https://github.com/alexruperez/LaunchScreenSnapshot) - iOS 双击home键，多任务管理界面看到的APP画面
+- [iOS 隐私界面保护方法](https://github.com/alexruperez/LaunchScreenSnapshot) - iOS 双击home键，多任务管理界面看到的APP画面
+- [基于 Swift 实现的炫酷的主题切换效果](https://github.com/Boerworz/Gagat)
+- [仿iOS原生的天气应用](https://github.com/SwiftTsubame/iOS11Weather)
 
  
  
