@@ -301,6 +301,9 @@
 - [iOS 隐私界面保护方法](https://github.com/alexruperez/LaunchScreenSnapshot) - iOS 双击home键，多任务管理界面看到的APP画面
 - [基于 Swift 实现的炫酷的主题切换效果](https://github.com/Boerworz/Gagat)
 - [仿iOS原生的天气应用](https://github.com/SwiftTsubame/iOS11Weather)
+- [帧速计算框架](https://github.com/kconner/KMCGeigerCounter)
+- [Code Data框架MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
+- [Tableview那种悬停的headerCSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)
 
  
  
