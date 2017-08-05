@@ -304,7 +304,7 @@
 - [帧速计算框架](https://github.com/kconner/KMCGeigerCounter)
 - [Code Data框架MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
 - [Tableview那种悬停的headerCSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)
-
+- [iOS 功能健全的侧栏 Panel 效果](https://github.com/fahidattique55/FAPanels)
  
  
  
@@ -601,6 +601,6 @@
 ## 资料合辑
 
 - [@Swift 2017 活动现场相关资源合集](https://github.com/atConf/atswift-2017-resources) -  Swift2017的资料汇总
-		
+- [charles各个版本下载](http://charles.iiilab.com/)		
 
 
