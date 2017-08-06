@@ -305,7 +305,9 @@
 - [Code Data框架MagicalRecord](https://github.com/magicalpanda/MagicalRecord)
 - [Tableview那种悬停的headerCSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)
 - [iOS 功能健全的侧栏 Panel 效果](https://github.com/fahidattique55/FAPanels)
- 
+- [Swift 实现的 Terminal 进度效果](https://github.com/AladinWay/TransitionButton) 
+- [按钮加载动画效果 Demo](https://github.com/kiliankoe/CLISpinner)
+- [轻量图片编辑组件](https://github.com/agilie/AGImageControls)
  
  
  
