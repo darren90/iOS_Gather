@@ -308,7 +308,7 @@
 - [Swift 实现的 Terminal 进度效果](https://github.com/AladinWay/TransitionButton) 
 - [按钮加载动画效果 Demo](https://github.com/kiliankoe/CLISpinner)
 - [轻量图片编辑组件](https://github.com/agilie/AGImageControls)
- 
+- [iOS上的一个简单，实用的无限循环轮播图组件](https://github.com/12207480/TYCyclePagerView) - 轮播图又一给力实现
  
  
  
