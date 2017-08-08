@@ -309,7 +309,8 @@
 - [按钮加载动画效果 Demo](https://github.com/kiliankoe/CLISpinner)
 - [轻量图片编辑组件](https://github.com/agilie/AGImageControls)
 - [iOS上的一个简单，实用的无限循环轮播图组件](https://github.com/12207480/TYCyclePagerView) - 轮播图又一给力实现
- 
+- [iOS 声明式 Layout 布局](https://github.com/schibsted/layout) 
+- [鲁班-图片压缩算法](https://github.com/iCell/Mozi) - 仿微信朋友圈压缩策略的iOS实现
  
  
  
