@@ -414,6 +414,8 @@
 - [维基百科iOS客户端](https://github.com/wikimedia/wikipedia-ios) -  
 - [YoCelsius——一款天气预报的应用]( https://github.com/YouXianMing/YoCelsius) - 
 - [密记iOS版——款简单的笔记应用](https://github.com/iHTCboy/SecurityNote) -  
+- [一款完成度较高的记录跑步iOS App](https://github.com/moshuqi/YSRun) - 易瘦跑步 iOS客户端
+- [iOS音乐播放器](https://github.com/AppliKeySolutions/PandoraPlayer) - 界面好看
 
 
 
