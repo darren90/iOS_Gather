@@ -311,7 +311,9 @@
 - [iOS上的一个简单，实用的无限循环轮播图组件](https://github.com/12207480/TYCyclePagerView) - 轮播图又一给力实现
 - [iOS 声明式 Layout 布局](https://github.com/schibsted/layout) 
 - [鲁班-图片压缩算法](https://github.com/iCell/Mozi) - 仿微信朋友圈压缩策略的iOS实现
- 
+- [macOS 全局快捷键实现](https://github.com/soffes/HotKey)
+- [链式联动 UI 效果，很适合杂志，阅读分类型 App](https://github.com/jindulys/ChainPageCollectionView)
+
  
  
 
@@ -513,6 +515,9 @@
 - [一款好用的Geek专用播放器，全快捷键操作，全平台支持，最重要的，免费开源](https://mpv.io/) -  全平台mac,windows都支持，很赞
 - [在Mac上优雅的计算你写了多少行代码 - PPRows](https://github.com/jkpang/PPRows) -  Mac APP
 - [fir.im 的 mac 客户端，用来管理和上传 fir 的应用](https://github.com/isaced/fir-mac) -  Swift，项目主要涉及到 NSTableView 的定制，和 Cocoa Touch 中的 UITableView 运作原理还是很不一样，macOS 的临时目录运用，以及 NSTask (Swift 里叫 Process) 的使用
+- [CotEditor开源了](https://github.com/coteditor/CotEditor) - mac版本的文本编辑器[coteditor官网](https://coteditor.com/)
+
+
 	
 
 #### 多线程
