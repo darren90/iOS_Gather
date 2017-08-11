@@ -313,7 +313,8 @@
 - [鲁班-图片压缩算法](https://github.com/iCell/Mozi) - 仿微信朋友圈压缩策略的iOS实现
 - [macOS 全局快捷键实现](https://github.com/soffes/HotKey)
 - [链式联动 UI 效果，很适合杂志，阅读分类型 App](https://github.com/jindulys/ChainPageCollectionView)
-
+- [A drop-in replacement for UICollectionViewFlowLayout](https://github.com/devxoul/UICollectionViewFlexLayout) - UICollectionView的layout布局
+- [可伸展的 Table Cell](https://github.com/rob-nash/CollapsibleTable) - 类似QQ联系人界面，展开折叠
  
  
 
