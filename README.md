@@ -315,8 +315,7 @@
 - [链式联动 UI 效果，很适合杂志，阅读分类型 App](https://github.com/jindulys/ChainPageCollectionView)
 - [A drop-in replacement for UICollectionViewFlowLayout](https://github.com/devxoul/UICollectionViewFlexLayout) - UICollectionView的layout布局
 - [可伸展的 Table Cell](https://github.com/rob-nash/CollapsibleTable) - 类似QQ联系人界面，展开折叠
- 
- 
+
 
 
 
@@ -440,7 +439,8 @@
 - [iOS页面内的系统引导页AwesomeIntroGuideView](https://github.com/Bupterambition/AwesomeIntroGuideView) -  iOS 漂亮的 Intro 效果，实现对新功能区域的高亮介绍
 - [iOS Banner 通知效果](https://github.com/Daltron/NotificationBanner) -  顶部通知来的效果 Swift3
 - [倒计时效果](https://github.com/rsrbk/SRCountdownTimer) -  圆形倒计时
-
+- [View iOS app sandbox file system on real device, share files via airdrop](https://github.com/music4kid/AirSandbox) - iOS通过airdrop查看真机沙盒，不越狱也可以
+ 
 
 
 
