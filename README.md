@@ -539,6 +539,7 @@
 - [This repo is a collection of awesome Mac applications and tools for developers and designers.](https://github.com/jaywcjlove/awesome-mac) - 收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师
 - [Mac Code Editor](https://github.com/kuyawa/CodeEditor) - mac的代码编辑器 
 - [在Mac的菜单栏显示Github的总星数、followers数和通知数，同时可以在图标中看到自己每天Github数据的变化](https://github.com/Nightonke/Gitee) -  Mac App显示在状态栏
+- [通过 14 个小项目，上手 Swift macOS 开](https://github.com/KrisYu/swift14macOSApps) - mac开发Demo
 
 
 
@@ -573,6 +574,7 @@
 - [iOS学习资料整理](https://github.com/zhouhuanqiang/LearningIOS) - iOS学习资料整理
 - [greatsimple.io 出品的 iOS10 GUI 模板](http://ios10.greatsimple.io/)
 - [Awesome_API - 国内一些常用的API合集](https://github.com/marktony/Awesome_API) - 比较齐全[这是国内的API](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
+- [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
 
 
 #### Swift学习
