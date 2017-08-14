@@ -319,6 +319,7 @@
 
 
 
+
  
 
 
@@ -418,6 +419,9 @@
 - [密记iOS版——款简单的笔记应用](https://github.com/iHTCboy/SecurityNote) -  
 - [一款完成度较高的记录跑步iOS App](https://github.com/moshuqi/YSRun) - 易瘦跑步 iOS客户端
 - [iOS音乐播放器](https://github.com/AppliKeySolutions/PandoraPlayer) - 界面好看
+
+### 1.2 ReactNative的开源项目
+- [基于 ReactNative 实现的 GitHub 客户端，很漂亮](https://github.com/gitpoint/git-point) - RN实现的Github客户端
 
 
 
@@ -610,6 +614,8 @@
 - [SDWebImage的缓存策略](https://mp.weixin.qq.com/s?__biz=MzA3ODkzOTQ2NA==&mid=2651911488&idx=1&sn=a7add148c85e34cc586741a3b082a9d8&chksm=845f4167b328c871686274313dbb0a1e81a1aa0559c2a2a181d56816f20455ebdf192115dda2&scene=0&key=62d5caa735f4616f266a1e0774350847765f594341feef8376a86d7334f5c6e7b8050a7940857d561d13e3bec7a32193260c251b4dbfe97890bff23ff42b86e6de67de5663c1a48cfd9320df50062e37&ascene=0&uin=MjYzNTcxNDEwMw%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.12.4+build(16E195)&version=12020110&nettype=WIFI&fontScale=100&pass_ticket=dXhAk0i%2F754d%2F0BuP15ujCQtXRnwfffsvA9GsPqc1%2B44ZdF5h2%2BJBBDbpLUahvPJ) -  好文推荐
 - [LinkedIn 开源的用于多开模拟器测试用的框架，咔咔的提升效率](https://github.com/linkedin/bluepill) - 多开模拟器，这个真的很6
 - [What's New in LLVM 9. 这绝不仅仅是一篇 WWDC 2017 Session 411 学习笔记。除了有关 LLVM 9.0 的新特性之外，还有关于静态分析器和 Clang 5 Objective-C ARC 的一点看法和经验。](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/) - WWDC2017的最新力作
+- [常见的 iOS 工具库集合](https://github.com/marcoarment/FCUtilities)
+
 
 ## 资料合辑
 
