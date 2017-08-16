@@ -315,7 +315,8 @@
 - [链式联动 UI 效果，很适合杂志，阅读分类型 App](https://github.com/jindulys/ChainPageCollectionView)
 - [A drop-in replacement for UICollectionViewFlowLayout](https://github.com/devxoul/UICollectionViewFlexLayout) - UICollectionView的layout布局
 - [可伸展的 Table Cell](https://github.com/rob-nash/CollapsibleTable) - 类似QQ联系人界面，展开折叠
-
+- [Swift Zip 文件操作库](https://github.com/Meniny/Zipper) - Swift版本的文件压缩库
+- [多平台消息集合 Api](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
 
 
 
