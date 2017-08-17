@@ -317,8 +317,8 @@
 - [可伸展的 Table Cell](https://github.com/rob-nash/CollapsibleTable) - 类似QQ联系人界面，展开折叠
 - [Swift Zip 文件操作库](https://github.com/Meniny/Zipper) - Swift版本的文件压缩库
 - [多平台消息集合 Api](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
-
-
+- [PDFKit iOS 11 Demo，最快捷的 PDF 阅读效果](https://github.com/kishikawakatsumi/BookReader)
+- [轻量级 iOS 主题切换功能](https://github.com/regexident/Gestalt)
 
 
  
