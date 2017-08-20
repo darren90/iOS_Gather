@@ -319,7 +319,7 @@
 - [多平台消息集合 Api](https://github.com/Yoctol/messaging-apis) - Messaging APIs for multi-platform
 - [PDFKit iOS 11 Demo，最快捷的 PDF 阅读效果](https://github.com/kishikawakatsumi/BookReader)
 - [轻量级 iOS 主题切换功能](https://github.com/regexident/Gestalt)
-
+- [iOS 11 新特性 Demo 集合](https://github.com/artemnovichkov/iOS-11-by-Examples)
 
  
 
@@ -528,6 +528,7 @@
 - [在Mac上优雅的计算你写了多少行代码 - PPRows](https://github.com/jkpang/PPRows) -  Mac APP
 - [fir.im 的 mac 客户端，用来管理和上传 fir 的应用](https://github.com/isaced/fir-mac) -  Swift，项目主要涉及到 NSTableView 的定制，和 Cocoa Touch 中的 UITableView 运作原理还是很不一样，macOS 的临时目录运用，以及 NSTask (Swift 里叫 Process) 的使用
 - [CotEditor开源了](https://github.com/coteditor/CotEditor) - mac版本的文本编辑器[coteditor官网](https://coteditor.com/)
+- [Mac 上做好的 GitHub 加星项目管理工具](https://itunes.apple.com/us/app/ohmystar2/id1218642292?utm_medium=email&ls=1&utm_source=gank.io&mt=8)
 
 
 	
