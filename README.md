@@ -320,7 +320,7 @@
 - [PDFKit iOS 11 Demo，最快捷的 PDF 阅读效果](https://github.com/kishikawakatsumi/BookReader)
 - [轻量级 iOS 主题切换功能](https://github.com/regexident/Gestalt)
 - [iOS 11 新特性 Demo 集合](https://github.com/artemnovichkov/iOS-11-by-Examples)
-
+- [ARKit 实现的超级玛丽](https://github.com/bjarnel/arkit-smb-homage) - ARkit好火
  
 
 
@@ -429,7 +429,7 @@
 
 ### 1.2 ReactNative的开源项目
 - [基于 ReactNative 实现的 GitHub 客户端，很漂亮](https://github.com/gitpoint/git-point) - RN实现的Github客户端
-
+- [开源版 EverNote](https://github.com/Laverna/laverna)
 
 
 ### 非常的重要的
