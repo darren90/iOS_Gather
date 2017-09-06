@@ -353,7 +353,7 @@
 - [React native 实现的一款查看 GitHub 热门项目的 App](https://github.com/crazycodeboy/GitHubPopular)
 - [在屏幕上显示 FPS，CPU 使用率，更好的监控应用性能](https://github.com/dani-gavrilov/GDPerformanceView)
 - [iOS上的VPN开源客户端](https://github.com/lexrus/VPNOn)
-
+- [iOS 漂亮的播放器效果](https://github.com/MillmanY/MMPlayerView) - iOS播放器Demo包含横竖屏切换的效果
 
 
 #### 开源项目
