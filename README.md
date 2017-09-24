@@ -322,6 +322,7 @@
 - [iOS 11 新特性 Demo 集合](https://github.com/artemnovichkov/iOS-11-by-Examples)
 - [ARKit 实现的超级玛丽](https://github.com/bjarnel/arkit-smb-homage) - ARkit好火
 - [银行卡信用卡效果组件，很逼真啊](https://github.com/eliakorkmaz/iCard)
+- [iOS UITableView 动画-合集](http://www.jianshu.com/p/2dc3c9e0ca3e)
 
 
 
