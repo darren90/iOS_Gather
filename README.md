@@ -530,7 +530,7 @@
 - [fir.im 的 mac 客户端，用来管理和上传 fir 的应用](https://github.com/isaced/fir-mac) -  Swift，项目主要涉及到 NSTableView 的定制，和 Cocoa Touch 中的 UITableView 运作原理还是很不一样，macOS 的临时目录运用，以及 NSTask (Swift 里叫 Process) 的使用
 - [CotEditor开源了](https://github.com/coteditor/CotEditor) - mac版本的文本编辑器[coteditor官网](https://coteditor.com/)
 - [Mac 上做好的 GitHub 加星项目管理工具](https://itunes.apple.com/us/app/ohmystar2/id1218642292?utm_medium=email&ls=1&utm_source=gank.io&mt=8)
-
+- [Mac上开源的微信客户端](https://github.com/geeeeeeeeek/electronic-wechat) - 人气很高的第三方微信客户端
 
 	
 
