@@ -323,7 +323,8 @@
 - [ARKit 实现的超级玛丽](https://github.com/bjarnel/arkit-smb-homage) - ARkit好火
 - [银行卡信用卡效果组件，很逼真啊](https://github.com/eliakorkmaz/iCard)
 - [iOS UITableView 动画-合集](http://www.jianshu.com/p/2dc3c9e0ca3e)
-
+- [Powermode 输入效果，shaking，shaking](https://github.com/younatics/PowerMode)
+- [最漂亮的一个音频采样，作曲工具](https://github.com/AudioKit/ROMPlayer)
 
 
 
