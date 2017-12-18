@@ -325,9 +325,9 @@
 - [iOS UITableView 动画-合集](http://www.jianshu.com/p/2dc3c9e0ca3e)
 - [Powermode 输入效果，shaking，shaking](https://github.com/younatics/PowerMode)
 - [最漂亮的一个音频采样，作曲工具](https://github.com/AudioKit/ROMPlayer)
-
-
-
+- [A slider widget with a popup bubble displaying the precise value selected](https://github.com/Ramotion/fluid-slider)
+- [Pull up controller with multiple sticky points like in iOS Maps](https://github.com/MarioIannotta/PullUpController)
+- [https://github.com/insidegui/AnimojiStudio](Make Animoji videos with unlimited duration and share anywhere)
 
 
 
