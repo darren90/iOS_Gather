@@ -328,7 +328,7 @@
 - [A slider widget with a popup bubble displaying the precise value selected](https://github.com/Ramotion/fluid-slider)
 - [Pull up controller with multiple sticky points like in iOS Maps](https://github.com/MarioIannotta/PullUpController)
 - [https://github.com/insidegui/AnimojiStudio](Make Animoji videos with unlimited duration and share anywhere)
-
+- [iOS新一代界面开发利器 —— FlexLib](https://github.com/zhenglibao/FlexLib)
 
 
 
