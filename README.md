@@ -330,6 +330,8 @@
 - [https://github.com/insidegui/AnimojiStudio](Make Animoji videos with unlimited duration and share anywhere)
 - [iOS新一代界面开发利器 —— FlexLib](https://github.com/zhenglibao/FlexLib)
 - [Susi 人工智能助理 开源了他们的 iOS 客户端](https://github.com/fossasia/susi_iOS)
+- [通过截图实现的 ocr 文字识别，很有用](https://github.com/gragrance/CaptuocrToy)
+- [在 App 内实现 App UI 设计的设计工具](https://github.com/willowtreeapps/Hyperion-iOS) - 像mark工具一样
 
 
 
