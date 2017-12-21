@@ -329,7 +329,7 @@
 - [Pull up controller with multiple sticky points like in iOS Maps](https://github.com/MarioIannotta/PullUpController)
 - [https://github.com/insidegui/AnimojiStudio](Make Animoji videos with unlimited duration and share anywhere)
 - [iOS新一代界面开发利器 —— FlexLib](https://github.com/zhenglibao/FlexLib)
-
+- [Susi 人工智能助理 开源了他们的 iOS 客户端](https://github.com/fossasia/susi_iOS)
 
 
 
