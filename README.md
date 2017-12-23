@@ -332,9 +332,7 @@
 - [Susi 人工智能助理 开源了他们的 iOS 客户端](https://github.com/fossasia/susi_iOS)
 - [通过截图实现的 ocr 文字识别，很有用](https://github.com/gragrance/CaptuocrToy)
 - [在 App 内实现 App UI 设计的设计工具](https://github.com/willowtreeapps/Hyperion-iOS) - 像mark工具一样
-
-
-
+- [Swift 实现类似 Facebook 加载时的背景框架效果](https://github.com/Juanpe/SkeletonView)
 
 
 
@@ -358,6 +356,7 @@
 - [在屏幕上显示 FPS，CPU 使用率，更好的监控应用性能](https://github.com/dani-gavrilov/GDPerformanceView)
 - [iOS上的VPN开源客户端](https://github.com/lexrus/VPNOn)
 - [iOS 漂亮的播放器效果](https://github.com/MillmanY/MMPlayerView) - iOS播放器Demo包含横竖屏切换的效果
+- [一款好用的空气 APP](https://github.com/AKTeam/AirKnow)
 
 
 #### 开源项目
