@@ -425,7 +425,8 @@
 - [iOS音乐播放器](https://github.com/AppliKeySolutions/PandoraPlayer) - 界面好看
 - [用户体验极佳的干货集中营 iOS App](https://github.com/yeziahehe/Gank) - Ganks干货网的又一客户端
 
-
+- [GitMan：基于Git的网盘式文件同步工具](https://github.com/amoblin/gitman)
+- [iOS本地应用性能监控管理](https://github.com/12207480/Prism)
 
 
 
