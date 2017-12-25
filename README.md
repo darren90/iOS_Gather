@@ -333,7 +333,7 @@
 - [通过截图实现的 ocr 文字识别，很有用](https://github.com/gragrance/CaptuocrToy)
 - [在 App 内实现 App UI 设计的设计工具](https://github.com/willowtreeapps/Hyperion-iOS) - 像mark工具一样
 - [Swift 实现类似 Facebook 加载时的背景框架效果](https://github.com/Juanpe/SkeletonView)
-
+- [Boostnote是为程序员开发的一种记事本开放源码应用程序。 我们的GitHub 星数已经超过了5,400。Boostnote主要的功能有两个。Markdown笔记,Snippet笔记。 参考:https://zhuanlan.zhihu.com/p/32015294](https://boostnote.io/?utm_source=gank.io&utm_medium=email)
 
 
 
