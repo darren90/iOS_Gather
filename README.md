@@ -628,6 +628,8 @@
 - [LinkedIn 开源的用于多开模拟器测试用的框架，咔咔的提升效率](https://github.com/linkedin/bluepill) - 多开模拟器，这个真的很6
 - [What's New in LLVM 9. 这绝不仅仅是一篇 WWDC 2017 Session 411 学习笔记。除了有关 LLVM 9.0 的新特性之外，还有关于静态分析器和 Clang 5 Objective-C ARC 的一点看法和经验。](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/) - WWDC2017的最新力作
 - [常见的 iOS 工具库集合](https://github.com/marcoarment/FCUtilities)
+- [iOS第三方库汇总](https://www.jianshu.com/p/91232c11770e)
+- [草根学 Python （基于Python3.6](https://github.com/TwoWater/Python)
 
 
 ## 资料合辑
