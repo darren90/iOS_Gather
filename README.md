@@ -458,7 +458,9 @@
 - [倒计时效果](https://github.com/rsrbk/SRCountdownTimer) -  圆形倒计时
 - [View iOS app sandbox file system on real device, share files via airdrop](https://github.com/music4kid/AirSandbox) - iOS通过airdrop查看真机沙盒，不越狱也可以
  
-
+- [Core ML and Vision Framework on iOS 11](http://yulingtianxia.com/blog/2017/06/19/Core-ML-and-Vision-Framework-on-iOS-11/)
+- [调试神器 - 快速访问调试中 iOS 应用内文件系统 Documents, Media 等目录及文件](https://github.com/luckytianyiyan/TySimulator) - mac上快速访问模拟器中的文件系统
+- [基于 iOS AR 实现的俄罗斯方块，越来越多的 AR 项目冒出来了](https://github.com/exyte/ARTetris)
 
 
 
