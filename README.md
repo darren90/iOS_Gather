@@ -463,6 +463,9 @@
 - [基于 iOS AR 实现的俄罗斯方块，越来越多的 AR 项目冒出来了](https://github.com/exyte/ARTetris)
 - [iOS我的，设置界面快速搭建](https://github.com/DianQK/Flix) - 我的，设置界面快速搭建，Swift版本
 
+- [微信读书开源的缓存框架](https://github.com/Zepo/GYDataCenter) - iOS缓存框架 [APP 缓存数据线程安全问题探讨
+](http://blog.cnbang.net/tech/3262/)
+- [linkedin的缓存框架](https://github.com/linkedin/RocketData) - 
 
 
 
