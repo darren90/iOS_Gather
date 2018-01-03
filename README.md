@@ -466,7 +466,7 @@
 - [微信读书开源的缓存框架](https://github.com/Zepo/GYDataCenter) - iOS缓存框架 [APP 缓存数据线程安全问题探讨
 ](http://blog.cnbang.net/tech/3262/)
 - [linkedin的缓存框架](https://github.com/linkedin/RocketData) - 
-
+- [iOS 底部菜单栏效果](https://github.com/alexaubry/BulletinBoard) - 底部弹出框的效果
 
 
 
