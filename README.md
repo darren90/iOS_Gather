@@ -471,7 +471,7 @@
 - [同步 Realm Database 和 CloudKit，轻松时间数据同步](https://github.com/caiyue1993/IceCream)
 - [Swift 实现的简单实用的 ViewPager](https://github.com/CNKCQ/ViewPagers)
 - [交互便捷的 iOS 选择器组件](https://github.com/blueapron/Mandoline)
-
+- [一个非常有用的UITextView组件](https://github.com/linkedin/Hakawai)
 
 
 
