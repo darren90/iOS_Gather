@@ -465,6 +465,7 @@
 
 - [微信读书开源的缓存框架](https://github.com/Zepo/GYDataCenter) - iOS缓存框架 [APP 缓存数据线程安全问题探讨
 ](http://blog.cnbang.net/tech/3262/)
+- [微信开源的跨平台数据库](https://github.com/Tencent/wcdb)
 - [linkedin的缓存框架](https://github.com/linkedin/RocketData) - 
 - [iOS 底部菜单栏效果](https://github.com/alexaubry/BulletinBoard) - 底部弹出框的效果
 - [用安卓、rn的方式开发ios原生app](https://github.com/zhenglibao/FlexLib) - 通过flexbox进行布局
@@ -472,7 +473,7 @@
 - [Swift 实现的简单实用的 ViewPager](https://github.com/CNKCQ/ViewPagers)
 - [交互便捷的 iOS 选择器组件](https://github.com/blueapron/Mandoline)
 - [一个非常有用的UITextView组件](https://github.com/linkedin/Hakawai)
-
+- [四款下拉刷新的比较，更少bug的KafkaRefresh](https://github.com/xorshine/KafkaRefresh)
 
 
 
