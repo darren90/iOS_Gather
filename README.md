@@ -474,7 +474,6 @@
 - [交互便捷的 iOS 选择器组件](https://github.com/blueapron/Mandoline)
 - [一个非常有用的UITextView组件](https://github.com/linkedin/Hakawai)
 - [四款下拉刷新的比较，更少bug的KafkaRefresh](https://github.com/xorshine/KafkaRefresh)
-
 - [气泡效果](https://github.com/goldmoment/Bubble)
 - [轻量级顶部 Slider](https://github.com/MagicLab-team/BannerView)
 - [一个仿的很完整的 ofo](https://github.com/XiongJoJo/OFO)
