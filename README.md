@@ -601,6 +601,7 @@
 - [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
 - [弹幕实时分析, 动画, 绘图, 多线程, 长连接, 你想知道的全都有](https://github.com/syik/BulletAnalyzer)
 
+
 #### Swift学习
 
 - [iOS开发完全自学资源集合](http://www.jianshu.com/p/d70041eb25d7)	
@@ -637,6 +638,7 @@
 - [常见的 iOS 工具库集合](https://github.com/marcoarment/FCUtilities)
 - [iOS第三方库汇总](https://www.jianshu.com/p/91232c11770e)
 - [草根学 Python （基于Python3.6](https://github.com/TwoWater/Python)
+- [iOS应用架构谈 网络层设计方案 - Casa Taloyum](https://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
 
 
 ## 资料合辑
