@@ -475,7 +475,8 @@
 - [四款下拉刷新的比较，更少bug的KafkaRefresh](https://github.com/xorshine/KafkaRefresh)
 - [气泡效果](https://github.com/goldmoment/Bubble)
 - [轻量级顶部 Slider](https://github.com/MagicLab-team/BannerView) - Swift版本的轮播图
-
+- [iOS 一个异步渲染TextKit开源库](https://github.com/12207480/TYText)
+- [基于protocol的iOS模块路由和依赖注入框架](https://github.com/Zuikyo/ZIKRouter)
 
 
 
