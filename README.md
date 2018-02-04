@@ -478,6 +478,8 @@
 - [iOS 一个异步渲染TextKit开源库](https://github.com/12207480/TYText)
 - [基于protocol的iOS模块路由和依赖注入框架](https://github.com/Zuikyo/ZIKRouter) - 路由
 - [SCIndexView provide a index view like Wechat](https://github.com/TalkingJourney/SCIndexView) - uitableview滑动指示器 类似微信
+- [给 UICollectionView 加上各种漂亮的过渡效果](https://github.com/KelvinJin/AnimatedCollectionViewLayout)
+- [iOS 模糊背景的弹出窗口](https://github.com/MarioIannotta/MIBlurPopup)
 
 
 
