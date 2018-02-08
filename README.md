@@ -480,7 +480,10 @@
 - [SCIndexView provide a index view like Wechat](https://github.com/TalkingJourney/SCIndexView) - uitableview滑动指示器 类似微信
 - [给 UICollectionView 加上各种漂亮的过渡效果](https://github.com/KelvinJin/AnimatedCollectionViewLayout)
 - [iOS 模糊背景的弹出窗口](https://github.com/MarioIannotta/MIBlurPopup)
-
+- [OC 实现的一款 Cell 折叠效果])(https://github.com/bref-Chan/CCFoldCell) - 折叠Cell
+- [Type-Safe Swift Networking](https://github.com/tailoredmedia/Endpoints)
+- [iOS 开发一定要尝试的 Texture(ASDK)](https://didee.cn/2018/01/29/iOS-ASDK/)
+- [炫酷交互的第三方微博~~](https://github.com/zhnnnnn/ZHNCosmos)
 
 
 
