@@ -338,6 +338,12 @@
 - [史上最便捷的 JSON 模型解析](https://github.com/CNKCQ/AlamofireCodable)
 - [Airbnb 放出了 Lottie iOS 版本动画库](https://github.com/airbnb/lottie-ios)
 
+- [iOS 中效率极高的多 event 定时器，适用于复杂的轮询任务管理！](https://github.com/CNKCQ/GlobalTimer)
+- [GarlandView seamlessly transitions between multiple lists of content. Made by @Ramotion](https://github.com/Ramotion/garland-view)
+
+
+
+
 
 
 ### Apple Watch Demo
