@@ -345,7 +345,6 @@
 
 
 
-
 ### Apple Watch Demo
 
 - [Demo中包含了完整的Watch App、Glance、 Notification 三部分](https://github.com/jerryliurui/AppleWatchDemo)
@@ -557,6 +556,7 @@
 - [CotEditor开源了](https://github.com/coteditor/CotEditor) - mac版本的文本编辑器[coteditor官网](https://coteditor.com/)
 - [Mac 上做好的 GitHub 加星项目管理工具](https://itunes.apple.com/us/app/ohmystar2/id1218642292?utm_medium=email&ls=1&utm_source=gank.io&mt=8)
 - [Mac上开源的微信客户端](https://github.com/geeeeeeeeek/electronic-wechat) - 人气很高的第三方微信客户端
+- [Mac上解压Assets.car文件的小工具](https://github.com/yuedong56/Assets.carTool)
 
 	
 
