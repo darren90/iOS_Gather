@@ -492,7 +492,7 @@
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
 - [iOS换肤功能](https://github.com/Draveness/DKNightVersion) - 夜间模式，换肤统一方案
 - [iOS富文本编辑器](https://github.com/nnhubbard/ZSSRichTextEditor) - 基于webview的富文本编辑器
-
+- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 
 
 
