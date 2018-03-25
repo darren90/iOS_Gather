@@ -615,7 +615,7 @@
 - [Awesome_API - 国内一些常用的API合集](https://github.com/marktony/Awesome_API) - 比较齐全[这是国内的API](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
 - [浅谈 MVC、MVP 和 MVVM 架构模式](http://draveness.me/mvx.html)
 - [弹幕实时分析, 动画, 绘图, 多线程, 长连接, 你想知道的全都有](https://github.com/syik/BulletAnalyzer)
-
+- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 
 
 
