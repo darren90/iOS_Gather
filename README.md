@@ -617,7 +617,7 @@
 - [弹幕实时分析, 动画, 绘图, 多线程, 长连接, 你想知道的全都有](https://github.com/syik/BulletAnalyzer)
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 - [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 英语进阶指南
-
+- [可以学习Swift](http://www.hangge.com/)
 
 
 
