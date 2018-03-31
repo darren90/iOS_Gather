@@ -342,7 +342,7 @@
 - [iOS-APP内置调试工具(debugging-tool)](https://github.com/DotzuX/DotzuX) 
 - [iOS下载器](https://github.com/yueshangfeng/ZYLDownloader) - Downloader
 - [iHasApp](https://github.com/danielamitay/iHasApp) - 检测iPhone上是否安装了APP
-
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - 功能强大的哔哩哔哩播放器 包含iOS和Android版本
 
 
 
