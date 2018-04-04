@@ -344,7 +344,7 @@
 - [iHasApp](https://github.com/danielamitay/iHasApp) - 检测iPhone上是否安装了APP
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - 功能强大的哔哩哔哩播放器 包含iOS和Android版本
 - [36Kr开源的KRVideoPlayer](https://github.com/PlutusCat/KrVideoPlayerPlus)
-
+- [Swift版百思不得姐](https://juejin.im/post/5ac341525188255c946bdc14) - 文章介绍及源码
 
 
 
