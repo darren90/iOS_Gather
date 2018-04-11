@@ -505,7 +505,7 @@
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 - [常简单易用且功能丰富的纯Swift下载框架](https://github.com/Danie1s/Tiercel)
 - [iOS, Swift, Objective-C 心得](https://github.com/100mango/zen) - 非常全的总结
-
+- [金山云iOS播放SDK](https://github.com/ksvc/KSYMediaPlayer_iOS) - 金山云的播放器，全格式支持
 
 
 
