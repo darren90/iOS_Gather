@@ -568,7 +568,9 @@
 - [Mac上开源的微信客户端](https://github.com/geeeeeeeeek/electronic-wechat) - 人气很高的第三方微信客户端
 - [Mac上解压Assets.car文件的小工具](https://github.com/yuedong56/Assets.carTool)
 - [MPOFinderFileDownloader](https://github.com/Naituw/MPOFinderFileDownloader)
-	
+- [iina](https://github.com/lhc70000/iina) - 也许是mac上最好用的播放器，很好用
+
+
 
 #### 多线程
 - [iOS中的多线程](http://my.oschina.net/aofe/blog/270093#OSC_h2_3)
