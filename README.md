@@ -346,7 +346,7 @@
 - [36Kr开源的KRVideoPlayer](https://github.com/PlutusCat/KrVideoPlayerPlus)
 - [Swift版百思不得姐](https://juejin.im/post/5ac341525188255c946bdc14) - 文章介绍及源码
 - [iOS开发中常用的功能](https://github.com/anyunzhong/DFCommon) - 快速开发ios app，封装了ios开发常用的功能
-
+- [iOS-APP内置调试工具(debugging-tool) ](https://github.com/DotzuX/DotzuX)
 
 
 
@@ -581,6 +581,7 @@
 - [Mac上解压Assets.car文件的小工具](https://github.com/yuedong56/Assets.carTool)
 - [MPOFinderFileDownloader](https://github.com/Naituw/MPOFinderFileDownloader)
 - [iina](https://github.com/lhc70000/iina) - 也许是mac上最好用的播放器，很好用
+- [通过 14 个小项目，上手 Swift macOS 开发](https://github.com/KrisYu/swift14macOSApps)
 
 
 
