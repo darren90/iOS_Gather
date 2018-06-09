@@ -349,7 +349,7 @@
 - [iOS-APP内置调试工具(debugging-tool) ](https://github.com/DotzuX/DotzuX)
 - [轻松路由URL方案](https://github.com/giginet/Crossroad)
 - [一个带有不同旋转动画的优雅按钮](https://github.com/simformsolutions/SSSpinnerButton)
-
+- [Swift库帮助您将GDPR功能添加到您的应用](https://github.com/ralcr/ConsentKit)
 
 
 
