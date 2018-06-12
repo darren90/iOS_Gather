@@ -350,7 +350,8 @@
 - [轻松路由URL方案](https://github.com/giginet/Crossroad)
 - [一个带有不同旋转动画的优雅按钮](https://github.com/simformsolutions/SSSpinnerButton)
 - [Swift库帮助您将GDPR功能添加到您的应用](https://github.com/ralcr/ConsentKit)
-
+- [用于UITableView＆UICollectionView的声明式的类型安全管理器](https://github.com/malcommac/FlowKit)
+- [一个简单而强大的图表库](https://github.com/cagricolak/CoreCharts)
 
 
 
