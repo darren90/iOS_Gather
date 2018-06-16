@@ -352,8 +352,15 @@
 - [Swift库帮助您将GDPR功能添加到您的应用](https://github.com/ralcr/ConsentKit)
 - [用于UITableView＆UICollectionView的声明式的类型安全管理器](https://github.com/malcommac/FlowKit)
 - [一个简单而强大的图表库](https://github.com/cagricolak/CoreCharts)
-
-
+- [基于Flutter构建的stopwatch app](https://github.com/bizz84/stopwatch-flutter)
+- [Sketch具有绘图的基本功能。 任何人都可以轻松创建绘图iOS应用](https://github.com/daihase/Sketch)
+- [TinyPart是一个由Objective-C编写的面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制(https://github.com/RyanLeeLY/TinyPart)
+- [iOS图表控件](https://github.com/Abedalkareem/AMDots)
+- [一个iOS的加载指示器](https://github.com/wsslxt/SSWCharts)
+- [material风格的Flutter 控件(https://github.com/aqwert/flutter_platform_widgets)
+- [iOS侧滑控件：支持左、右滑动的侧滑菜单，可配置单侧滑动，同时可配置菜单宽度等，更多配置请参考”可设置参数“](https://github.com/choiceyou/FWSideMenu)
+- [一款全自动化文字适配库，支持自定义字体，多样式设置等](https://github.com/04zhujunjie/JJFontFit)
+- [特效TabBar，以开放为封装核心的TabBar组件，尽量将属性、API等参数全部开放给使用者](https://github.com/axclogo/AxcAE_TabBar?utm_medium=email&utm_source=gank.io)
 
 
 
