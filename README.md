@@ -361,7 +361,9 @@
 - [iOS侧滑控件：支持左、右滑动的侧滑菜单，可配置单侧滑动，同时可配置菜单宽度等，更多配置请参考”可设置参数“](https://github.com/choiceyou/FWSideMenu)
 - [一款全自动化文字适配库，支持自定义字体，多样式设置等](https://github.com/04zhujunjie/JJFontFit)
 - [特效TabBar，以开放为封装核心的TabBar组件，尽量将属性、API等参数全部开放给使用者](https://github.com/axclogo/AxcAE_TabBar?utm_medium=email&utm_source=gank.io)
-
+- [MLModelCamera：通过简单的 Drag-and-Drop 即可实现对 Core ML 模型文件的实时测试](https://github.com/shu223/MLModelCamera)
+- [iOS 视频变声器，对录制或下载的视频进行变声，可以处理成大叔、萝莉、搞怪等效果](https://github.com/xueyongwei/XYWSoundChanger)
+- [silverfox-gen：一个 Swift 命令行工具，可以把 Markdown 文件转换为 HTML](https://github.com/louisdh/silverfox-gen)
 
 
 
