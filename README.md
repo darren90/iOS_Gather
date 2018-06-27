@@ -364,7 +364,7 @@
 - [MLModelCamera：通过简单的 Drag-and-Drop 即可实现对 Core ML 模型文件的实时测试](https://github.com/shu223/MLModelCamera)
 - [iOS 视频变声器，对录制或下载的视频进行变声，可以处理成大叔、萝莉、搞怪等效果](https://github.com/xueyongwei/XYWSoundChanger)
 - [silverfox-gen：一个 Swift 命令行工具，可以把 Markdown 文件转换为 HTML](https://github.com/louisdh/silverfox-gen)
-
+- [DDGScreenShot：无侵入式实现复杂屏幕截屏，并实现拼接、裁剪、滤镜等后期处理功能](https://github.com/dudongge/DDGScreenShot)
 
 
 
