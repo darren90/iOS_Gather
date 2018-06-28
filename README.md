@@ -365,7 +365,10 @@
 - [iOS 视频变声器，对录制或下载的视频进行变声，可以处理成大叔、萝莉、搞怪等效果](https://github.com/xueyongwei/XYWSoundChanger)
 - [silverfox-gen：一个 Swift 命令行工具，可以把 Markdown 文件转换为 HTML](https://github.com/louisdh/silverfox-gen)
 - [DDGScreenShot：无侵入式实现复杂屏幕截屏，并实现拼接、裁剪、滤镜等后期处理功能](https://github.com/dudongge/DDGScreenShot)
-
+- [QQPlugin-macOS：macOS 版 QQ 小助手，支持 防撤回、自动回复和 Alfred 扩展功能](https://github.com/TKkk-iOSer/QQPlugin-macOS)
+- [一款功能强大的 iOS App 内调试工具，支持在 App 运行状态下直接修改 UI 查看效果等](https://github.com/Flipboard/FLEX)
+- [iOS-Performance-Optimization：iOS 性能优化专题合集](https://github.com/skyming/iOS-Performance-Optimization)
+- [Facebook 团队开源的 iOS 运行时循环引用检测库，帮助定位循环引用问题](https://github.com/facebook/FBRetainCycleDetector)
 
 
 
