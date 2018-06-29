@@ -369,7 +369,9 @@
 - [一款功能强大的 iOS App 内调试工具，支持在 App 运行状态下直接修改 UI 查看效果等](https://github.com/Flipboard/FLEX)
 - [iOS-Performance-Optimization：iOS 性能优化专题合集](https://github.com/skyming/iOS-Performance-Optimization)
 - [Facebook 团队开源的 iOS 运行时循环引用检测库，帮助定位循环引用问题](https://github.com/facebook/FBRetainCycleDetector)
-
+- [OpenTerm：一个 iOS 沙箱命令行接口，可以在 iPhone 上执行部分终端命令](https://github.com/SherlockQi/HeavenMemoirs)
+- [HeavenMemoirs - 使用 ARKit 实现的 AR相册](https://github.com/louisdh/openterm)
+- [一个Flutter实现的炫酷flip_panel](https://github.com/hnvn/flutter_flip_panel)
 
 
 
