@@ -372,6 +372,77 @@
 - [OpenTerm：一个 iOS 沙箱命令行接口，可以在 iPhone 上执行部分终端命令](https://github.com/SherlockQi/HeavenMemoirs)
 - [HeavenMemoirs - 使用 ARKit 实现的 AR相册](https://github.com/louisdh/openterm)
 - [一个Flutter实现的炫酷flip_panel](https://github.com/hnvn/flutter_flip_panel)
+- [Nuke：功能强大的图片加载库，具有渐进加载、预加载、断点重连等特性，支持 WebP、Gif 等多种格式，支持多种缓存方式](https://github.com/kean/Nuke)
+- [Gifu：使用 Swift 实现的高性能 Gif 支持库](https://github.com/kaishin/Gifu)
+- [一个简单却功能强大的刮刮乐视图，几行代码就可以实现刮刮乐效果](https://www.jianshu.com/p/0139a2a22857)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
