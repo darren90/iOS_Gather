@@ -375,7 +375,9 @@
 - [Nuke：功能强大的图片加载库，具有渐进加载、预加载、断点重连等特性，支持 WebP、Gif 等多种格式，支持多种缓存方式](https://github.com/kean/Nuke)
 - [Gifu：使用 Swift 实现的高性能 Gif 支持库](https://github.com/kaishin/Gifu)
 - [一个简单却功能强大的刮刮乐视图，几行代码就可以实现刮刮乐效果](https://www.jianshu.com/p/0139a2a22857)
-
+- [MessengerKit：一个快速构建聊天界面的 UI 库，基于 Swift 4](https://github.com/steve228uk/MessengerKit)
+- [Kitsunebi：基于 OpenGLES，通过覆盖视频的 alpha 通道，在界面上实现酷炫动画](https://github.com/noppefoxwolf/Kitsunebi)
+- [SearchTextField：带有自动补全功能的 UITextField 子类](https://github.com/apasccon/SearchTextField)
 
 
 
