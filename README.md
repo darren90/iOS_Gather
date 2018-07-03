@@ -378,7 +378,11 @@
 - [MessengerKit：一个快速构建聊天界面的 UI 库，基于 Swift 4](https://github.com/steve228uk/MessengerKit)
 - [Kitsunebi：基于 OpenGLES，通过覆盖视频的 alpha 通道，在界面上实现酷炫动画](https://github.com/noppefoxwolf/Kitsunebi)
 - [SearchTextField：带有自动补全功能的 UITextField 子类](https://github.com/apasccon/SearchTextField)
-
+- [WidgetKit：动态加载 “另一个 App” 到 App 里](https://github.com/faviomob/WidgetKit)
+- [Vaccine：防止你的 App 被别人反编译](https://github.com/zenangst/Vaccine)
+- [InjectionIII：运行时动态注入代码到项目里，injectionforxcode 的 Swift 版本](https://github.com/johnno1962/InjectionIII)
+- [一款炫酷的平行视窗Cell效果Demo](https://github.com/jerryliurui/AmazingParallelWindow) - 知乎广告的效果
+- [扩展UIView的下拉菜单](https://github.com/tokijh/JHDropDownMenu)
 
 
 
