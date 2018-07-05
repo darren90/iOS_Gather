@@ -383,6 +383,10 @@
 - [InjectionIII：运行时动态注入代码到项目里，injectionforxcode 的 Swift 版本](https://github.com/johnno1962/InjectionIII)
 - [一款炫酷的平行视窗Cell效果Demo](https://github.com/jerryliurui/AmazingParallelWindow) - 知乎广告的效果
 - [扩展UIView的下拉菜单](https://github.com/tokijh/JHDropDownMenu)
+- [NNPlayground：受 Tensorflow 的 Deep playground 启发而制作的神经网络 iPhone 版](https://github.com/ypwhs/NNPlayground)
+- [Highlightr：基于 highlight.js，使用 Swift 实现的语法高亮库](https://github.com/raspu/Highlightr)
+- [pop：Facebook 团队开源的动画引擎](https://github.com/facebook/pop)
+- [VBFPopFlatButton：使用 pop 库实现的按钮，动效不错](https://github.com/victorBaro/VBFPopFlatButton)
 
 
 
