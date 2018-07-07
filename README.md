@@ -387,7 +387,11 @@
 - [Highlightr：基于 highlight.js，使用 Swift 实现的语法高亮库](https://github.com/raspu/Highlightr)
 - [pop：Facebook 团队开源的动画引擎](https://github.com/facebook/pop)
 - [VBFPopFlatButton：使用 pop 库实现的按钮，动效不错](https://github.com/victorBaro/VBFPopFlatButton)
-
+- [FlyoverKit：在 MKMapView 上实现 360° 俯视图](https://github.com/SvenTiigi/FlyoverKit)
+- [仿抖音下拉刷新效果](https://github.com/qlyx/douyinRefresh)
+- [iOS 树状列表控件，灵活性高，可自定义样式](https://github.com/mayan29/TreeTableView)
+- [WeatherAnimation（太阳，云，雨，雷暴，雪）](https://github.com/whbalzac/WHWeatherAnimation)
+- [快速简单的手势密码](https://github.com/hackjie/GPassword)
 
 
 
