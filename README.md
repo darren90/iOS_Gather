@@ -392,7 +392,10 @@
 - [iOS 树状列表控件，灵活性高，可自定义样式](https://github.com/mayan29/TreeTableView)
 - [WeatherAnimation（太阳，云，雨，雷暴，雪）](https://github.com/whbalzac/WHWeatherAnimation)
 - [快速简单的手势密码](https://github.com/hackjie/GPassword)
-
+- [Swift 实现的基于 OpenGL ES3 的涂鸦绘图库，支持自定义纹理、压力感应、自动笔触等特性](https://github.com/Harley-xk/MaLiang)
+- [可折叠FoldTableViewCell](https://github.com/XLsn0w/XLsn0wFoldTableView)
+- [FlowMenuAnimation：流动菜单动效](https://github.com/BearRan/FlowMenuAnimation)
+- [长按即可移动cell的自定义TableView](https://github.com/pujiaxin33/JXMovableCellTableView)
 
 
 
