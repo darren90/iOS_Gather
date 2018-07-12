@@ -396,7 +396,10 @@
 - [可折叠FoldTableViewCell](https://github.com/XLsn0w/XLsn0wFoldTableView)
 - [FlowMenuAnimation：流动菜单动效](https://github.com/BearRan/FlowMenuAnimation)
 - [长按即可移动cell的自定义TableView](https://github.com/pujiaxin33/JXMovableCellTableView)
-
+- [EasyReact：美团开源的简易版响应式编程库](https://github.com/meituan/EasyReact)
+- [SJVideoPlayer：基于 AVPlayer 实现的、功能较全的视频播放器](https://github.com/changsanjiang/SJVideoPlayer)
+- [KDCircularProgress：一个效果比较炫的圆形进度条](https://github.com/kaandedeoglu/KDCircularProgress)
+- [重构版--特斯拉组件、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图](https://github.com/yongyuandouneng/YNPageViewController)
 
 
 
