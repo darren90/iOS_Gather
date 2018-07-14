@@ -400,6 +400,11 @@
 - [SJVideoPlayer：基于 AVPlayer 实现的、功能较全的视频播放器](https://github.com/changsanjiang/SJVideoPlayer)
 - [KDCircularProgress：一个效果比较炫的圆形进度条](https://github.com/kaandedeoglu/KDCircularProgress)
 - [重构版--特斯拉组件、多页面嵌套滚动、悬停效果、美团、淘宝、京东、微博、腾讯新闻、网易新闻、今日头条等标题滚动视图](https://github.com/yongyuandouneng/YNPageViewController)
+- [Moya：基于 Alamofire 封装的网络抽象层，提高你的开发效率](https://github.com/Moya/Moya)
+- [SwiftKotlin：把 Swift 代码转换为 Kotlin](https://github.com/angelolloqui/SwiftKotlin)
+- [LTMorphingLabel：酷炫的 字符串 变换动画](https://github.com/lexrus/LTMorphingLabel)
+- [RTRootNavigationController：让每一个 ViewController 都有自己独立的 NavigationBar](https://github.com/rickytan/RTRootNavigationController)
+- [SwiftSoup：使用 Swift 实现的 HTML 解析器](https://github.com/scinfu/SwiftSoup)
 
 
 
