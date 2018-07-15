@@ -405,8 +405,15 @@
 - [LTMorphingLabel：酷炫的 字符串 变换动画](https://github.com/lexrus/LTMorphingLabel)
 - [RTRootNavigationController：让每一个 ViewController 都有自己独立的 NavigationBar](https://github.com/rickytan/RTRootNavigationController)
 - [SwiftSoup：使用 Swift 实现的 HTML 解析器](https://github.com/scinfu/SwiftSoup)
-
-
+- [日常开发必备的沙盒、Bundle文件浏览与分享控制器](https://github.com/pujiaxin33/JXFileBrowserController)
+- [给定货币中货币金额的精确，类型安全表示。](https://github.com/Flight-School/Money)
+- [Swift编译时保证集合包含值。](https://github.com/pointfreeco/swift-nonempty)
+- [简单的界面核心动画。 以顺序或并行方式运行类型安全的动画](https://github.com/cats-oss/Sica)
+- [CoreText + 异步绘制 + 链式语法, 轻量灵活图文混排框架])(https://github.com/syik/ZJAttributedText)
+- [Bartinter：当 status bar 后面的内容改变时，动态修改 status bar 的样式](https://github.com/MaximKotliar/Bartinter)
+- [AMPopTip：一个实现效果非常精细的气泡弹出组件](https://github.com/andreamazz/AMPopTip)
+- [RichEditorView：一个简单的、模块化的富文本编辑视图](https://github.com/cjwirth/RichEditorView)
+- [Reachability.swift：使用 Swift 闭包实现的网络状态检查库，可以取代 Apple 的 Reachability 库](https://github.com/ashleymills/Reachability.swift)
 
 
 
@@ -694,7 +701,7 @@
 - [MPOFinderFileDownloader](https://github.com/Naituw/MPOFinderFileDownloader)
 - [iina](https://github.com/lhc70000/iina) - 也许是mac上最好用的播放器，很好用
 - [通过 14 个小项目，上手 Swift macOS 开发](https://github.com/KrisYu/swift14macOSApps)
-
+- [MacOS开源应用集合](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 
 #### 多线程
