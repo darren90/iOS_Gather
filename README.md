@@ -414,7 +414,10 @@
 - [AMPopTip：一个实现效果非常精细的气泡弹出组件](https://github.com/andreamazz/AMPopTip)
 - [RichEditorView：一个简单的、模块化的富文本编辑视图](https://github.com/cjwirth/RichEditorView)
 - [Reachability.swift：使用 Swift 闭包实现的网络状态检查库，可以取代 Apple 的 Reachability 库](https://github.com/ashleymills/Reachability.swift)
-
+- [WXTabBarController：在系统 UITabBarController 的基础上实现了安卓版微信 TabBar 的滑动切换功能](https://github.com/leichunfeng/WXTabBarController)
+- [轻量级低风险 iOS Hotfix 方案(http://limboy.me/tech/2018/03/04/ios-lightweight-hotfix.html)
+- [Aspects：iOS AOP 库](https://github.com/steipete/Aspects)
+- [MessageThrottle：一个轻量级的 Objective-C 消息节流和防抖库，避免同一个方法在短时间内被频繁重复调用](https://github.com/yulingtianxia/MessageThrottle)
 
 
 
