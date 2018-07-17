@@ -418,7 +418,9 @@
 - [轻量级低风险 iOS Hotfix 方案(http://limboy.me/tech/2018/03/04/ios-lightweight-hotfix.html)
 - [Aspects：iOS AOP 库](https://github.com/steipete/Aspects)
 - [MessageThrottle：一个轻量级的 Objective-C 消息节流和防抖库，避免同一个方法在短时间内被频繁重复调用](https://github.com/yulingtianxia/MessageThrottle)
-
+- [WhatsNewKit：给用户展示你的 App 新特性，可定制](https://github.com/SvenTiigi/WhatsNewKit)
+- [AwaitKit：受 ES8 Async/Await 启发，用 Swift 实现的异步编程库](https://github.com/yannickl/AwaitKit)
+- [喵神出品，用 Swift 实现的命令行工具：FengNiao，作用是删除 Xcode 项目里没有使用的资源文件](https://github.com/onevcat/FengNiao)
 
 
 
