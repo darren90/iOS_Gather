@@ -421,7 +421,8 @@
 - [WhatsNewKit：给用户展示你的 App 新特性，可定制](https://github.com/SvenTiigi/WhatsNewKit)
 - [AwaitKit：受 ES8 Async/Await 启发，用 Swift 实现的异步编程库](https://github.com/yannickl/AwaitKit)
 - [喵神出品，用 Swift 实现的命令行工具：FengNiao，作用是删除 Xcode 项目里没有使用的资源文件](https://github.com/onevcat/FengNiao)
-
+- [SwifterSwift：500 多个 Swift Extension 集合，提高你的生产率](https://github.com/SwifterSwift/SwifterSwift)
+- [CocoaDebug：一个 iOS 调试工具，支持 Debug 模式下查看 App 日志](https://github.com/CocoaDebug/CocoaDebug)
 
 
 
