@@ -423,7 +423,11 @@
 - [喵神出品，用 Swift 实现的命令行工具：FengNiao，作用是删除 Xcode 项目里没有使用的资源文件](https://github.com/onevcat/FengNiao)
 - [SwifterSwift：500 多个 Swift Extension 集合，提高你的生产率](https://github.com/SwifterSwift/SwifterSwift)
 - [CocoaDebug：一个 iOS 调试工具，支持 Debug 模式下查看 App 日志](https://github.com/CocoaDebug/CocoaDebug)
-
+- [AWLive：号称最简单的 iOS 直播推流代码](https://github.com/hardman/AWLive)
+- [腾讯团队开源，在开发时在iOS应用程序中查找内存泄漏](https://github.com/Tencent/MLeaksFinder)
+- [iOS键盘触摸栏配件视图](https://github.com/EMUR/AccessoryTouchBar)
+- [基于coordinator pattern的iOS反应性导航库](https://github.com/quickbirdstudios/RxCoordinator)
+- [一个iOS 11.0 - 11.3.1越狱项目](https://github.com/LycaJB/LycaJB)
 
 
 
