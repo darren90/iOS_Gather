@@ -428,7 +428,9 @@
 - [iOS键盘触摸栏配件视图](https://github.com/EMUR/AccessoryTouchBar)
 - [基于coordinator pattern的iOS反应性导航库](https://github.com/quickbirdstudios/RxCoordinator)
 - [一个iOS 11.0 - 11.3.1越狱项目](https://github.com/LycaJB/LycaJB)
-
+- [用于JSON Feed格式的Swift编码器和解码器](https://github.com/Flight-School/JSONFeed)
+- [仿转转首页banner](https://github.com/daimengxiaozhi/MDShockBannerView)
+- [iOS NavigationController过渡效果](https://github.com/arcangelw/WZRootNavigationController)
 
 
 
