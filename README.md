@@ -431,7 +431,12 @@
 - [用于JSON Feed格式的Swift编码器和解码器](https://github.com/Flight-School/JSONFeed)
 - [仿转转首页banner](https://github.com/daimengxiaozhi/MDShockBannerView)
 - [iOS NavigationController过渡效果](https://github.com/arcangelw/WZRootNavigationController)
-
+- [iOS网络调试工具库](https://github.com/pmusolino/Wormholy)
+- [iOS中@功能的实现](https://github.com/lisongrc/ATDemo)
+- [基于ios MJRefresh 开发的插件，可提供自定义的弹性刷新](https://github.com/react-native-studio/react-native-MJRefresh)
+- [一个完全可定制的iOS Horizontal PickerView库，使用swift编写](https://github.com/abhiperry/ADDatePicker)
+- [类似FaceTime/iOS PiP可抛出的视图](https://github.com/gklka/GKPictureInPictureView)
+- [iOS 12 + ARKit 2 +图像跟踪Demo：哈利波特风格的动态图片，生活电影海报，视频明信片，纸张薄“显示”，以及更多增强现实乐趣等等](https://github.com/robomex/ARKit-2-Image-Tracking-Demo)
 
 
 
