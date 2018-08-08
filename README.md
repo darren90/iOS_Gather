@@ -437,7 +437,9 @@
 - [一个完全可定制的iOS Horizontal PickerView库，使用swift编写](https://github.com/abhiperry/ADDatePicker)
 - [类似FaceTime/iOS PiP可抛出的视图](https://github.com/gklka/GKPictureInPictureView)
 - [iOS 12 + ARKit 2 +图像跟踪Demo：哈利波特风格的动态图片，生活电影海报，视频明信片，纸张薄“显示”，以及更多增强现实乐趣等等](https://github.com/robomex/ARKit-2-Image-Tracking-Demo)
-
+- [一个iOS 截图快捷库](https://github.com/VernonVan/PPSnapshotKit)
+- [一个使用简单，交互友好的BottomSheetView，swift编写](https://github.com/pujiaxin33/JXBottomSheetView)
+- [iOS / Objective C：一种非常简单的UIAlertView替代方案](https://github.com/cwRichardKim/RKDropdownAlert)
 
 
 
