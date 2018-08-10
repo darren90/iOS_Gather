@@ -440,7 +440,10 @@
 - [一个iOS 截图快捷库](https://github.com/VernonVan/PPSnapshotKit)
 - [一个使用简单，交互友好的BottomSheetView，swift编写](https://github.com/pujiaxin33/JXBottomSheetView)
 - [iOS / Objective C：一种非常简单的UIAlertView替代方案](https://github.com/cwRichardKim/RKDropdownAlert)
-
+- [Facebook 开源，Uber 维护的 iOS 快照测试框架](https://github.com/uber/ios-snapshot-test-case)
+- [将iOS模拟器应用程序包转换为iOSMac（Marzipan）](https://github.com/steventroughtonsmith/marzipanify)
+- [优雅地处理rdar://链接](https://github.com/ethanhuang13/ladybug)
+- [允许用户管理存储在iCloud中的数据的框架](https://github.com/arturgrigor/CloudKitGDPR)
 
 
 
