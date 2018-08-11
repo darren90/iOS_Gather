@@ -444,7 +444,9 @@
 - [将iOS模拟器应用程序包转换为iOSMac（Marzipan）](https://github.com/steventroughtonsmith/marzipanify)
 - [优雅地处理rdar://链接](https://github.com/ethanhuang13/ladybug)
 - [允许用户管理存储在iCloud中的数据的框架](https://github.com/arturgrigor/CloudKitGDPR)
-
+- [将AR的高精度与GPS数据的比例结合起来](https://github.com/ProjectDent/ARKit-CoreLocation)
+- [响应文本字段交互的动画](https://github.com/cgoldsby/LoginCritter)
+- [主流转场动画，无侵入，API简单易用](https://github.com/yuwind/HHTransition)
 
 
 
