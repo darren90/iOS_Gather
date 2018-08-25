@@ -447,6 +447,10 @@
 - [将AR的高精度与GPS数据的比例结合起来](https://github.com/ProjectDent/ARKit-CoreLocation)
 - [响应文本字段交互的动画](https://github.com/cgoldsby/LoginCritter)
 - [主流转场动画，无侵入，API简单易用](https://github.com/yuwind/HHTransition)
+- [一个slide-modeled的UI导航控制器](https://github.com/Ramotion/navigation-toolbar)
+- [QMUI iOS——致力于提高项目 UI 开发效率的解决方案](https://github.com/QMUI/QMUI_iOS)
+- [极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、等等图表](https://github.com/AAChartModel/AAChartKit)
+- [开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad](https://github.com/CoderZhuXH/XHLaunchAd)
 
 
 
