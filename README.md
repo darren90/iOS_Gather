@@ -451,7 +451,17 @@
 - [QMUI iOS——致力于提高项目 UI 开发效率的解决方案](https://github.com/QMUI/QMUI_iOS)
 - [极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、等等图表](https://github.com/AAChartModel/AAChartKit)
 - [开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad](https://github.com/CoderZhuXH/XHLaunchAd)
-
+- [垂直、水平方向皆可滚动、header悬浮的分类列表视图](https://github.com/pujiaxin33/JXPagingView)
+- [用Swift编写的iOS简单侧边菜单](https://github.com/evnaz/ENSwiftSideMenu)
+- [一个优雅的Swift URL路由](https://github.com/devxoul/URLNavigator)
+- [在iOS上构建表单的最灵活和最强大的方法](https://github.com/3lvis/Form)
+- [适用于iOS的照片库， 与Facebook照片浏览器类似的功能](https://github.com/EddyBorja/EBPhotoPages)
+- [适用于移动应用的智能且易于使用的图像屏蔽和剪切SDK](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK)
+- [Swift中简单且高度可定制的iOS TagList视图](https://github.com/ElaWorkshop/TagListView)
+- [UICollectionView替换UITableView。类似Parallax Header，Sticky Section Header](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)
+- [腾讯新闻、网易新闻、今日头条、QQ音乐、京东、爱奇艺等所有主流APP分类切换滚动视图](https://github.com/pujiaxin33/JXCategoryView)
+- [优雅的搜索控制器取代iOS的UISearchController（iPhone和iPad）](https://github.com/ko1o/PYSearch)
+- [重新构想UICollectionView](https://github.com/SoySauceLab/CollectionKit)
 
 
 
