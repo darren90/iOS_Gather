@@ -406,7 +406,7 @@
 - [RTRootNavigationController：让每一个 ViewController 都有自己独立的 NavigationBar](https://github.com/rickytan/RTRootNavigationController)
 - [SwiftSoup：使用 Swift 实现的 HTML 解析器](https://github.com/scinfu/SwiftSoup)
 - [日常开发必备的沙盒、Bundle文件浏览与分享控制器](https://github.com/pujiaxin33/JXFileBrowserController)
-- [给定货币中货币金额的精确，类型安全表示。](https://github.com/Flight-School/Money)
+- [给定货币中货币金额的精确，类型安全表示](https://github.com/Flight-School/Money)
 - [Swift编译时保证集合包含值。](https://github.com/pointfreeco/swift-nonempty)
 - [简单的界面核心动画。 以顺序或并行方式运行类型安全的动画](https://github.com/cats-oss/Sica)
 - [CoreText + 异步绘制 + 链式语法, 轻量灵活图文混排框架])(https://github.com/syik/ZJAttributedText)
@@ -462,8 +462,13 @@
 - [腾讯新闻、网易新闻、今日头条、QQ音乐、京东、爱奇艺等所有主流APP分类切换滚动视图](https://github.com/pujiaxin33/JXCategoryView)
 - [优雅的搜索控制器取代iOS的UISearchController（iPhone和iPad）](https://github.com/ko1o/PYSearch)
 - [重新构想UICollectionView](https://github.com/SoySauceLab/CollectionKit)
-
-
+- [简单且可自定义的拉动以刷新实现](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
+- [一个炫酷的卡片滑动库](https://github.com/cwRichardKim/RKSwipeCards)
+- [LLDebugTool - 便捷的IOS调试工具（支持Swift）](https://github.com/HDB-Li/LLDebugToolSwift)
+- [高仿闲鱼、转转、京东、中央天气预报等主流APP列表底部分页滚动视图](https://github.com/pujiaxin33/JXPageListView)
+- [牛逼框架FlexLib](https://xiaohuicoding.github.io/2018/08/15/%E4%BD%BF%E7%94%A8%20FlexLib%20%E5%B8%83%E5%B1%80iOS%E9%A1%B5%E9%9D%A2/)
+- [仿简书网页，网络加载过渡动画](https://github.com/tigerAndBull/LoadAnimatedDemo-ios)
+- [绘制K线支撑横竖屏切换、刷新、长按、缩放、masonry适配，完美支持金融产品](https://github.com/AbuIOSDeveloper/KLine)
 
 
 
