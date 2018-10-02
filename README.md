@@ -678,7 +678,12 @@
 - [常简单易用且功能丰富的纯Swift下载框架](https://github.com/Danie1s/Tiercel)
 - [iOS, Swift, Objective-C 心得](https://github.com/100mango/zen) - 非常全的总结
 - [金山云iOS播放SDK](https://github.com/ksvc/KSYMediaPlayer_iOS) - 金山云的播放器，全格式支持
-
+- [适用于iOS和tvOS的优雅过渡库](https://github.com/HeroTransitions/Hero)
+- [一个数据驱动的UICollectionView框架，用于构建快速灵活的列表](https://github.com/Instagram/IGListKit)
+- [Native App over HTTP, on iOS ](https://github.com/Jasonette/JASONETTE-iOS)
+- [适用于iOS，watchOS，tvOS和macOS的Keychain的简单Swift包装器](https://github.com/kishikawakatsumi/KeychainAccess)
+- [简单且可自定义的拉动以刷新实现](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
+- [一个炫酷的卡片滑动库](https://github.com/cwRichardKim/RKSwipeCards)
 
 
 
