@@ -684,7 +684,9 @@
 - [适用于iOS，watchOS，tvOS和macOS的Keychain的简单Swift包装器](https://github.com/kishikawakatsumi/KeychainAccess)
 - [简单且可自定义的拉动以刷新实现](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
 - [一个炫酷的卡片滑动库](https://github.com/cwRichardKim/RKSwipeCards)
-
+- [LLDebugTool - 便捷的IOS调试工具(新增截屏功能)](https://github.com/HDB-Li/LLDebugTool)
+- [功能强大且易于使用的marquee视图](https://github.com/pujiaxin33/JXMarqueeView)
+- [多彩的圆角矩形Dash边框](https://github.com/yulingtianxia/YXYDashLayer)
 
 
 
