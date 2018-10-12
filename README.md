@@ -687,7 +687,13 @@
 - [LLDebugTool - 便捷的IOS调试工具(新增截屏功能)](https://github.com/HDB-Li/LLDebugTool)
 - [功能强大且易于使用的marquee视图](https://github.com/pujiaxin33/JXMarqueeView)
 - [多彩的圆角矩形Dash边框](https://github.com/yulingtianxia/YXYDashLayer)
-
+- [全新的富文本工具——NudeIn](https://github.com/hon-key/NudeIn)
+- [强大易用支持URL Rewrite的iOS路由库— FFRouter](https://github.com/imlifengfeng/FFRouter)
+- [用于检查应用程序运行状态的基于JavaScript的调试器](https://github.com/SatanWoo/JSDebugger)
+- [仿美团、淘宝、QQ、微博、腾讯、网易、今日头条等标题滚动视图](https://github.com/kingsic/SGPagingView) - Scoll Tab模块 横滑
+- 【An overlay that gets your user’s voice permission and input as text in a customizable UI](https://github.com/algolia/voice-overlay-ios)
+- [iOS中的三角测量效果](https://github.com/younatics/Triangulation)
+- [自定义ShimmerUI效果](https://github.com/fahidattique55/FAShimmerViews)
 
 
 
