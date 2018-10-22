@@ -469,7 +469,14 @@
 - [牛逼框架FlexLib](https://xiaohuicoding.github.io/2018/08/15/%E4%BD%BF%E7%94%A8%20FlexLib%20%E5%B8%83%E5%B1%80iOS%E9%A1%B5%E9%9D%A2/)
 - [仿简书网页，网络加载过渡动画](https://github.com/tigerAndBull/LoadAnimatedDemo-ios)
 - [绘制K线支撑横竖屏切换、刷新、长按、缩放、masonry适配，完美支持金融产品](https://github.com/AbuIOSDeveloper/KLine)
-
+- [基于SpriteKit的人造模拟手表面板示例适用于watchOS](https://github.com/steventroughtonsmith/SpriteKitWatchFace)
+- [一个树状结构列表](https://github.com/bestDew/ZKTreeTableView)
+- [iOS版支付宝，一键收取蚂蚁森林全部好友能量，一键帮好友收取能量，定时收取能量,为好友浇水](https://github.com/luoyanbei/Alipay_AntForest)
+- [将字典(NSDictionary)和数组(NSArray)打印的Log显示为Json格式](https://github.com/shixueqian/PrintBeautifulLog)
+- [iOS验证码输入](https://github.com/HouWan/CodeTextDemo)
+- [基于UICollectionView实现的支持水平和垂直两个方向上的的分页和渐进循环轮播效果，可以设置时间间隔、渐进速率、是否循环、分页宽度和间隔，还支持高度自定义分页视图的控件](https://github.com/wsl2ls/WSL_RollView)
+- [一行代码实现高仿微信悬浮球](https://github.com/TMWu/WeChatFloatBall?utm_source=gank.io&utm_medium=email)
+- [自定义滑动刻度尺，滑动标尺，实现简单，所有参数可完全自定义](https://github.com/FirstStepzz/DividingRuler)
 
 
 
@@ -616,6 +623,11 @@
 
 - [GitMan：基于Git的网盘式文件同步工具](https://github.com/amoblin/gitman)
 - [iOS本地应用性能监控管理](https://github.com/12207480/Prism)
+
+- [Flutter实现的干货集中营客户端](https://github.com/txy199292/gank_io)
+- [一个完整的下载app，支持种子搜索，边下边播](https://github.com/roomanl/AndroidDownload)
+- [基于 iOS 和 Python 开发的移动端音乐 App](https://github.com/378056350/imissMusic)
+
 
 
 
