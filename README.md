@@ -477,7 +477,19 @@
 - [基于UICollectionView实现的支持水平和垂直两个方向上的的分页和渐进循环轮播效果，可以设置时间间隔、渐进速率、是否循环、分页宽度和间隔，还支持高度自定义分页视图的控件](https://github.com/wsl2ls/WSL_RollView)
 - [一行代码实现高仿微信悬浮球](https://github.com/TMWu/WeChatFloatBall?utm_source=gank.io&utm_medium=email)
 - [自定义滑动刻度尺，滑动标尺，实现简单，所有参数可完全自定义](https://github.com/FirstStepzz/DividingRuler)
-
+- [iOS 常用开源框架，让开发事半功倍](http://www.code4app.com/blog-840696-21307.html)
+- [滑动按钮组，新闻/电商类顶部常用](https://github.com/objc94/YUHoriView)
+- [iOS基于WKWebView的二次封装webview](https://github.com/xiubojin/JXBWKWebView)
+- [一个iOS画板工具组件](https://github.com/wang82426107/SDDrawView)
+- [一个iOS框架，只需几行代码即可轻松创建美观且功能强大的指南页面](https://github.com/iDwyane/DWIntrosPage) - 新特性页面
+- [iOS代码自动翻新(混淆)专家](https://github.com/netyouli/WHC_ConfuseSoftware)
+- [审查页面交互 - 方便和漂亮的方式来要求审查](https://github.com/nbolatov/RPInteraction)
+- 一个iOS OC语言原生IM模块，具备发送文字、表情、语音、图片、视频等完整功能](https://github.com/fshmjl/RChat)
+- [Swift开发的Note应用](https://github.com/yuvraj24/SwiftNotes)
+- [GraphLayout - iOS UI控件可视化图形](https://github.com/bakhtiyork/GraphLayout)
+- [iOS 截图的那些事儿](https://www.jianshu.com/p/3327ffeb7fa5)
+- [一款iOS应用，可帮助您检查，编辑和删除照片的元数据，包括但不限于EXIF，TIFF...](https://github.com/Ckitakishi/MetaX)
+- [Uber开源的Swift的并发工具](https://github.com/uber/swift-concurrency)
 
 
 
@@ -628,6 +640,11 @@
 - [一个完整的下载app，支持种子搜索，边下边播](https://github.com/roomanl/AndroidDownload)
 - [基于 iOS 和 Python 开发的移动端音乐 App](https://github.com/378056350/imissMusic)
 
+- [LovePlayNews精仿爱玩iOS app，使用AsyncDisplayKit提高UI流畅性，项目结构及代码清晰明了](https://github.com/12207480/LovePlayNews)
+- [iOS高仿抖音App](https://github.com/sshiqiao/douyin-ios-objectc)
+
+- [基于Jenkins的iOS/Android自动构建系统,支持iOS和Android的构建](https://github.com/whihail/AutoArchive)
+- [Flutter实现的知乎客户端](https://github.com/HackSoul/zhihu-flutter)
 
 
 
