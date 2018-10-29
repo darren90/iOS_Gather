@@ -490,7 +490,11 @@
 - [iOS 截图的那些事儿](https://www.jianshu.com/p/3327ffeb7fa5)
 - [一款iOS应用，可帮助您检查，编辑和删除照片的元数据，包括但不限于EXIF，TIFF...](https://github.com/Ckitakishi/MetaX)
 - [Uber开源的Swift的并发工具](https://github.com/uber/swift-concurrency)
-
+- [类似Instagram的图像选择器和滤镜]https://github.com/Yummypets/YPImagePicker)
+- [Swift的Facebook的css布局端口](https://github.com/alexdrone/flexboxswfit_deprecated)
+- [异步GIF图像解码器和图像查看器支持播放GIF图像。 它只是使用更少的内存](https://github.com/liyong03/YLGIFImage)
+- [iOS的图像框架显示/编码/解码动画WebP，APNG，GIF等](https://github.com/ibireme/YYImage)
+- [iOS异步图片加载库](https://github.com/hyperoslo/Imaginary)
 
 
 
@@ -659,7 +663,7 @@
 
 - [基于Jenkins的iOS/Android自动构建系统,支持iOS和Android的构建](https://github.com/whihail/AutoArchive)
 - [Flutter实现的知乎客户端](https://github.com/HackSoul/zhihu-flutter)
-
+- [Phimp.me是iOS的照片应用程序，旨在取代专有照片应用程序。 它提供了诸如拍照，添加过滤器，编辑图像并将其上传到社交网络等功能](https://github.com/jogendra/phimpme-iOS)
 
 
 
