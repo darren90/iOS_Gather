@@ -475,6 +475,7 @@
 - [将字典(NSDictionary)和数组(NSArray)打印的Log显示为Json格式](https://github.com/shixueqian/PrintBeautifulLog)
 - [iOS验证码输入](https://github.com/HouWan/CodeTextDemo)
 - [基于UICollectionView实现的支持水平和垂直两个方向上的的分页和渐进循环轮播效果，可以设置时间间隔、渐进速率、是否循环、分页宽度和间隔，还支持高度自定义分页视图的控件](https://github.com/wsl2ls/WSL_RollView)
+
 - [一行代码实现高仿微信悬浮球](https://github.com/TMWu/WeChatFloatBall?utm_source=gank.io&utm_medium=email)
 - [自定义滑动刻度尺，滑动标尺，实现简单，所有参数可完全自定义](https://github.com/FirstStepzz/DividingRuler)
 - [iOS 常用开源框架，让开发事半功倍](http://www.code4app.com/blog-840696-21307.html)
