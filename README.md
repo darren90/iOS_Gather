@@ -497,7 +497,11 @@
 - [异步GIF图像解码器和图像查看器支持播放GIF图像。 它只是使用更少的内存](https://github.com/liyong03/YLGIFImage)
 - [iOS的图像框架显示/编码/解码动画WebP，APNG，GIF等](https://github.com/ibireme/YYImage)
 - [iOS异步图片加载库](https://github.com/hyperoslo/Imaginary)
-
+- [轻量级的并发网络框架](https://github.com/iAmrSalman/Dots)
+- [在Swift中使用JSON的基本库](https://github.com/owensd/json-swift)
+- [来自Changba iOS团队的高性能视频效果处理框架](https://github.com/ChangbaDevs/KTVVideoProcess)
+- [swift智能开发框架 用最少的代码完成页面 智能分页(策略设计模式) cell和section解耦 业务拆分 mock管理](https://github.com/manondidi/swiftArch)
+- [解析iOS 64位内核缓存的插件](https://github.com/mrmacete/r2-ios-kernelcache)
 
 
 
@@ -744,7 +748,8 @@
 - [iOS中的三角测量效果](https://github.com/younatics/Triangulation)
 - [自定义ShimmerUI效果](https://github.com/fahidattique55/FAShimmerViews)
 
-
+- [十面阿里 屌丝程序员的逆袭之路](https://mp.weixin.qq.com/s/Opl0UbICnnBEg3xqHDeXbw)
+- [Python 抖音机器人，论如何在抖音上找到漂亮小姐姐]https://github.com/wangshub/Douyin-Bot)
 
 
 
