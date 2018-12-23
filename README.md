@@ -502,7 +502,10 @@
 - [swift智能开发框架 用最少的代码完成页面 智能分页(策略设计模式) cell和section解耦 业务拆分 mock管理](https://github.com/manondidi/swiftArch)
 - [解析iOS 64位内核缓存的插件](https://github.com/mrmacete/r2-ios-kernelcache)
 
-
+- [一个提供高级API来控制WKWebView的Swift库](https://github.com/LinusU/Marionette)
+- [集合视图布局是一组用于iOS的自定义流布局，它模仿移动应用程序的通用数据网格方法](https://github.com/ahmedAlmasri/SNCollectionViewLayout)
+- [一个仿Apple的Apple Music播放器和Shortcuts组件视图的自定义UI组件](https://github.com/jVirus/drawer-view)
+- [由微信开发的高效，小型移动键值存储框架。 适用于iOS，macOS和Android](https://github.com/Tencent/MMKV)
 
 
 
@@ -592,6 +595,7 @@
 - [iOS上的VPN开源客户端](https://github.com/lexrus/VPNOn)
 - [iOS 漂亮的播放器效果](https://github.com/MillmanY/MMPlayerView) - iOS播放器Demo包含横竖屏切换的效果
 - [一款好用的空气 APP](https://github.com/AKTeam/AirKnow)
+- [基于flutter的仿网易云音乐播放器](https://github.com/boyan01/quiet-flutter)
 
 
 #### 开源项目
