@@ -506,8 +506,11 @@
 - [集合视图布局是一组用于iOS的自定义流布局，它模仿移动应用程序的通用数据网格方法](https://github.com/ahmedAlmasri/SNCollectionViewLayout)
 - [一个仿Apple的Apple Music播放器和Shortcuts组件视图的自定义UI组件](https://github.com/jVirus/drawer-view)
 - [由微信开发的高效，小型移动键值存储框架。 适用于iOS，macOS和Android](https://github.com/Tencent/MMKV)
-
-
+- [揭秘Flutter Hot Reload（原理篇）](https://www.yuque.com/xytech/flutter/uhw8vw)
+- [一个适用于iOS的Popover弹出标签](https://github.com/eonist/Popover-label)
+- [一个流畅的左滑右滑卡片动画](https://github.com/tigerAndBull/TABCardView)
+- [一个可以发送消息和屏幕截图的App反馈](https://github.com/yahoojapan/AppFeedback) - 截图反馈
+- [【ARKit】为您创建路径增强现实环境仅使用点来表示路径的中心](https://github.com/maxxfrazer/ARKit-SCNPath)
 
 
 
