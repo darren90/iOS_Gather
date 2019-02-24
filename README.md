@@ -512,6 +512,11 @@
 - [一个可以发送消息和屏幕截图的App反馈](https://github.com/yahoojapan/AppFeedback) - 截图反馈
 - [【ARKit】为您创建路径增强现实环境仅使用点来表示路径的中心](https://github.com/maxxfrazer/ARKit-SCNPath)
 
+- [iOS文本视图（UIView），可正确显示LaTeX，HTML，Markdown和YouTube / Vimeo链接](https://github.com/tophat/RichTextView)
+- [ContainerView旨在通过手势的帮助，通过缩放的效果从底部添加到游戏的动态游戏，scrollView也可以控制](https://github.com/mrustaa/ContainerView)
+- [CrownControl是一个小巧的配件，可以在不抬起拇指的情况下滚动滚动内容。](https://github.com/huri000/CrownControl)
+- [快速实现控制器的转场和View的快速popover显示，并支持自定义动画、手势退场](https://github.com/LoongerTao/TLTransitions) - 底部弹框
+- [适用于iOS的声明式，可链式和轻量级自动布局约束框架](https://github.com/jVirus/constraints-kit)
 
 
 
