@@ -517,7 +517,14 @@
 - [CrownControl是一个小巧的配件，可以在不抬起拇指的情况下滚动滚动内容。](https://github.com/huri000/CrownControl)
 - [快速实现控制器的转场和View的快速popover显示，并支持自定义动画、手势退场](https://github.com/LoongerTao/TLTransitions) - 底部弹框
 - [适用于iOS的声明式，可链式和轻量级自动布局约束框架](https://github.com/jVirus/constraints-kit)
+- [swift:一个轻量级的自定义视图弹出框架](https://github.com/pujiaxin33/JXPopupView) - 弹框
+- [Swifty屏幕适配解决方案。](https://github.com/LinXunFeng/SwiftyFitsize)
+- [一种验证码输入 UI 控件](https://github.com/kirualex/KAPinField)
 
+
+- [程序员在线工具箱](https://www.toolfk.com/) - 很多工具的合集
+- [程序员如何准备技术面试](https://zhuanlan.zhihu.com/p/38432342) - 很全面的面试指南
+- [Flutter填坑全面总结，有啥问题一看都能解决了]https://www.jianshu.com/p/22675c1632dc)
 
 
 
