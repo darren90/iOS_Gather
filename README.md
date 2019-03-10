@@ -527,6 +527,13 @@
 - [Flutter填坑全面总结，有啥问题一看都能解决了]https://www.jianshu.com/p/22675c1632dc)
 
 
+- [适用于iOS的简洁易用的浮动面板UI组件](https://github.com/SCENEE/FloatingPanel)
+- [适用于iOS应用程序的简单锁屏（Swift 4 +，iOS 11.0+）](https://github.com/mayckonx/MBSPasswordView)
+- [iOS邮件/音乐应用程序，如演示动画。 用Objective-C编写](https://github.com/pikachu987/NotificationView)
+- [基于Swift4实现的一个iOS相册选择器](https://github.com/heyode/HEPhotoPicker)
+- [iOS基本通知屏幕](https://github.com/rajdhakate/CustomPresentation)
+- [用于在iOS和Android上裁剪图像的Flutter插件](https://github.com/VolodymyrLykhonis/image_crop)
+- [轻量级库，可以轻松模糊视图](https://github.com/touyu/BlurKit)
 
 
 
