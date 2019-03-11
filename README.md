@@ -535,7 +535,9 @@
 - [用于在iOS和Android上裁剪图像的Flutter插件](https://github.com/VolodymyrLykhonis/image_crop)
 - [轻量级库，可以轻松模糊视图](https://github.com/touyu/BlurKit)
 
-
+- [Nothing but Cache](https://github.com/hyperoslo/Cache)
+- [Better Easing for SpriteKit in Swift](https://github.com/craiggrummitt/SpriteKitEasingSwift) - SpriteKit 游戏框架
+- [为iOS创建和布局UI组件的简单方法（Swift版本）](https://github.com/nerdycat/Cupcake)
 
 
 
@@ -729,6 +731,8 @@
 - [基于Jenkins的iOS/Android自动构建系统,支持iOS和Android的构建](https://github.com/whihail/AutoArchive)
 - [Flutter实现的知乎客户端](https://github.com/HackSoul/zhihu-flutter)
 - [Phimp.me是iOS的照片应用程序，旨在取代专有照片应用程序。 它提供了诸如拍照，添加过滤器，编辑图像并将其上传到社交网络等功能](https://github.com/jogendra/phimpme-iOS)
+
+- [码市 iOS 客户端源代码](https://github.com/Coding/CodingMart_iOS)
 
 
 
