@@ -541,6 +541,10 @@
 
 
 
+- [iOS音乐播放器View](https://github.com/AhmettKeskin/InteractivePlayerView)
+- [受Facebook和Tweetbot启发的照片浏览器，支持ARC，刷卡 - 解散，图像处理等等](https://github.com/thiagoperes/IDMPhotoBrowser) - 图片浏览 
+- [基于物理的iOS，tvOS和macOS动画](https://github.com/timdonnelly/Advance)
+- [用易于动画的方式动画](https://github.com/roberthein/Ease)
 
 
 
