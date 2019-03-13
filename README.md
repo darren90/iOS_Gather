@@ -549,7 +549,10 @@
 
 
 
-
+- [iOS模态窗口](https://github.com/xiaopin/iOS-Modal) - 自定义modar
+- [运行多模拟器](https://github.com/fromkk/Simulators)
+- [可定制的iOS下拉菜单](https://github.com/jriosdev/iOSDropDown)
+- [适用于iOS的可扩展且灵活的日志框架](https://github.com/RyanLeeLY/Coolog)
 
 
 
