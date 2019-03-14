@@ -663,6 +663,8 @@
 
 ####### 1.1 iOS开源项目
 
+- [在线预览](https://send.firefox.com/) - [GitHub 地址](https://github.com/mozilla/send) - send 是由 mozilla 开源的一款简单、私密的文件分享服务，支持设置分享文件的下载次数、有效天数，并可对文件进行加密。这个有点像加强版的阅后即焚功能，建议收藏备用！
+
 - [豆瓣开源](http://www.dongwm.com/archives/codekai-yuan-liao/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [PHPHub开源](http://segmentfault.com/a/1190000004097502?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0/) - 知乎日报第三方源码
